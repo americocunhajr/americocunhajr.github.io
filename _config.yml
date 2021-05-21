@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Americo Cunha"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor of Applied Mathematics"
   location         : "Rio de Janeiro, Brazil"
-  employer         :
+  employer         : "Rio de Janeiro State University"
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=4r36RpoAAAAJ&hl=en"
   email            : "americo.cunha@uerj.br"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "americo.cunhajr"
+  github           : "americocunhajr"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/americocunhajr"
+  linkedin         : "americocunhajr"
   orcid            : "http://orcid.org/0000-0002-8342-0363"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@americo.cunhajr"
+  twitter          : "@americocunhajr"
   vine             :
   weibo            :
   xing             :
