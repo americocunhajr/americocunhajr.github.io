@@ -67,19 +67,19 @@
       {% endif %}
 
       <!-- Font Awesome icons / Social media -->
-      {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
-      {% endif %}      
-      {% if author.youtube %}
-        <li><a href="https://www.youtube.com/@{{ author.youtube }}" target="_blank"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
-      {% endif %}
-      {% if author.medium %}
-        <li><a href="{{ author.medium }}" target="_blank"><i class="fab fa-fw fa-medium icon-pad-right" aria-hidden="true"></i>Medium</a></li>
-      {% endif %}   
-      
       {% if author.bluesky %}
         <li><a href="https://bsky.app/profile/{{ author.bluesky }}" target="_blank"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
       {% endif %}
+      {% if author.linkedin %}
+        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
+      {% endif %}      
+      {% if author.medium %}
+        <li><a href="{{ author.medium }}" target="_blank"><i class="fab fa-fw fa-medium icon-pad-right" aria-hidden="true"></i>Medium</a></li>
+      {% endif %}
+      {% if author.youtube %}
+        <li><a href="https://www.youtube.com/@{{ author.youtube }}" target="_blank"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
+      {% endif %}
+      
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}" target="_blank"><i class="fab fa-fw fa-facebook-f icon-pad-right" aria-hidden="true"></i>Facebook</a></li>
       {% endif %}
