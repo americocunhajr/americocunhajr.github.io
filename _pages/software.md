@@ -1,10 +1,13 @@
 ---
-layout: single
+layout: list
 title: "Software"
 permalink: /software/
 author_profile: true
 summary: "A collection of software tools developed for various applications."
 ---
+
+{{< list_children section="_software" >}}
+
 
 ## Open-Source Software
 
