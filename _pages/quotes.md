@@ -25,7 +25,7 @@ author_profile: true
 
 🇹🇷 "We're not stupid! We're just poor! And we have a right to insist on this distinction." - Orhan Pamuk (1952 -)
 
- "Too little liberty brings stagnation, and too much brings chaos." — Bertrand Russell (1872 – 1970)
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 "Too little liberty brings stagnation, and too much brings chaos." — Bertrand Russell (1872 – 1970)
 
 🇵🇱 "Inspiration is not the exclusive privilege of poets or artists." — Wisława Szymborska (1923 - 2012)
 
