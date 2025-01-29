@@ -1,8 +1,9 @@
 ---
-layout: single
+layout: project
 title: "Software"
 permalink: /software/
 author_profile: true
+summary: "A collection of software tools developed for various applications."
 ---
 
 ## Open-Source Software
