@@ -1,7 +1,10 @@
 ---
-title: "Software"
 layout: single
+title: "Software"
 permalink: /software/
+collection: software
+entries_layout: list
+author_profile: true
 ---
 
 {% for item in site.software %}
