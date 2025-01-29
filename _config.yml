@@ -27,6 +27,8 @@ author:
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56068096100"
   semantic         : #"https://www.semanticscholar.org/author/Americo-Cunha/47058383"
   webofscience     : #"https://www.webofscience.com/wos/author/record/1767361"
+  lattes           : "http://lattes.cnpq.br/5659403706694491"
+
 
   # Repositories
   github           : "americocunhajr"
