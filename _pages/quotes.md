@@ -17,7 +17,7 @@ author_profile: true
  
 🇦🇷 "Cuando nuestras ideas chocan con la realidad, lo que tiene que ser revisado son las ideas." — Jorge Luis Borges (1899 - 1986)
 
-🇩🇪 "Old people you should honour, young people you should teach." - German proverb
+🇩🇪 "The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein (1879 - 1955)
 
 🇳🇱 "Everyone should sweep before his own door." — Dutch proverb
 
@@ -25,7 +25,7 @@ author_profile: true
 
 🇹🇷 "We're not stupid! We're just poor! And we have a right to insist on this distinction." - Orhan Pamuk (1952 -)
 
-> "Too little liberty brings stagnation, and too much brings chaos." — Bertrand Russell (1872 – 1970)
+ "Too little liberty brings stagnation, and too much brings chaos." — Bertrand Russell (1872 – 1970)
 
 🇵🇱 "Inspiration is not the exclusive privilege of poets or artists." — Wisława Szymborska (1923 - 2012)
 
@@ -74,3 +74,10 @@ author_profile: true
 🇸🇻 "Del dicho al hecho, hay un buen trecho." — Proverbio salvadoreño
 
 🇨🇳 "Reading ten thousand books is not as useful as traveling ten thousand miles." — Chinese proverb
+
+🇨🇭 "Reason does not come before years." — Swiss proverb
+
+🇱🇮 "Speaking comes by nature, silence by understanding." — Liechtenstein proverb
+
+🇱🇺 "Necessity has no law." — Luxembourg proverb
+
