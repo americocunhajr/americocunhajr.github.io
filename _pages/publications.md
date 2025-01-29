@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: single
 title: "Publications"
 permalink: /publications/
 collection: publications
