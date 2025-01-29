@@ -38,6 +38,9 @@
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
+      {% if author.lattes %}
+         <li><a href="{{ author.lattes }}" target="_blank"><i class="ai ai-lattes"></i> Lattes CV</a></li>
+      {% endif %}
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}" target="_blank"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      
@@ -50,9 +53,6 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}" target="_blank"><i class="ai ai-impactstory ai-fw icon-pad-right"></i>Impactstory</a></li>
       {% endif %}
-      {% if author.orcid %}
-        <li><a href="{{ author.orcid }}" target="_blank"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
-      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}" target="_blank"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}                        
@@ -62,8 +62,8 @@
       {% if author.scopus %}
         <li><a href="{{ author.scopus }}" target="_blank"><i class="ai ai-scopus icon-pad-right"></i>Scopus</a></li>
       {% endif %}
-      {% if author.lattes %}
-         <li><a href="{{ author.lattes }}" target="_blank"><i class="ai ai-lattes"></i> Lattes CV</a></li>
+      {% if author.orcid %}
+        <li><a href="{{ author.orcid }}" target="_blank"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
