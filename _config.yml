@@ -25,16 +25,16 @@ author:
   orcid            : "https://orcid.org/0000-0002-8342-0363"
   researchgate     : "https://www.researchgate.net/profile/Americo-Cunha-Jr"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56068096100"
-  semantic         : "https://www.semanticscholar.org/author/Americo-Cunha/47058383"
-  webofscience     : "https://www.webofscience.com/wos/author/record/1767361"
+  semantic         : #"https://www.semanticscholar.org/author/Americo-Cunha/47058383"
+  webofscience     : #"https://www.webofscience.com/wos/author/record/1767361"
 
   # Repositories
   github           : "americocunhajr"
 
   # Social Media
   medium           : "https://medium.com/@americo.cunhajr"
-  linkedin         : "https://www.linkedin.com/in/americocunhajr"
-  youtube          : "https://www.youtube.com/@americocunhajr"
+  linkedin         : "americocunhajr"
+  youtube          : "americocunhajr"
 
 # =====================================================
 # Publication Categories
