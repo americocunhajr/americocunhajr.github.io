@@ -14,14 +14,11 @@ repository               : "americocunhajr/academicpages.github.io" # Your GitHu
 # Site Author - Sidebar Information
 # =====================================================
 author:
-  avatar           : "americo.png"  # Update with your profile image filename in /images/
+  avatar           : "americo.png"  # Profile image filename in /images/
   name             : "Americo Cunha Jr"
-  pronouns         : 
   bio              : "I deal with nonlinear systems."
-  location         : 
   employer         : "UERJ"
   email            : "americo.cunha@uerj.br"
-  uri              : 
 
   # Academic Profiles
   googlescholar    : "https://scholar.google.com/citations?user=4r36RpoAAAAJ&hl=en"
@@ -29,22 +26,15 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Americo-Cunha-Jr"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56068096100"
   semantic         : "https://www.semanticscholar.org/author/Americo-Cunha/47058383"
-  pubmed           : 
   webofscience     : "https://www.webofscience.com/wos/author/record/1767361"
 
   # Repositories
   github           : "americocunhajr"
-  bitbucket        : 
-  kaggle           : 
 
   # Social Media
   medium           : "https://medium.com/@americo.cunhajr"
-  linkedin         : "americocunhajr"
-  twitter          : 
-  mastodon         : 
-  telegram         : 
-  youtube          : "americocunhajr"
-  bluesky          : 
+  linkedin         : "https://www.linkedin.com/in/americocunhajr"
+  youtube          : "https://www.youtube.com/@americocunhajr"
 
 # =====================================================
 # Publication Categories
@@ -62,12 +52,27 @@ publication_category:
     title: 'Preprints'
 
 # =====================================================
+# SEO & Analytics
+# =====================================================
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Social Sharing
+og_image                 : "images/og-image.png" # Default OpenGraph image
+
+# Google Analytics (Optional)
+analytics:
+  provider               : "google-analytics-4"
+  google:
+    tracking_id          : "G-XXXXXXX" # Replace with your Google Analytics ID
+
+# =====================================================
 # Site Settings
 # =====================================================
-teaser                   : "teaser.jpg" # Default teaser image
 breadcrumbs              : true
 words_per_minute         : 180
-future                   : true
 read_more                : "enabled"
 talkmap_link             : false
 
@@ -79,29 +84,6 @@ comments:
 atom_feed:
   hide                   : false
   path                   : feed.xml
-
-# =====================================================
-# SEO & Analytics
-# =====================================================
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-# Social Sharing
-twitter:
-  username               : 
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : "images/og-image.png" # Default OpenGraph image
-
-# Google Analytics (Optional)
-analytics:
-  provider               : "google-analytics-4"
-  google:
-    tracking_id          : "G-XXXXXXX" # Replace with your Google Analytics ID
 
 # =====================================================
 # Reading & Conversion Settings
