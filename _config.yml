@@ -138,16 +138,16 @@ kramdown:
 # Collections (Publications, Teaching, Portfolio, Talks)
 # =====================================================
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  software:
+    output: true
+    permalink: /software/:path/
+  talks:
     output: true
     permalink: /:collection/:path/
-  talks:
+  teaching:
     output: true
     permalink: /:collection/:path/
 
