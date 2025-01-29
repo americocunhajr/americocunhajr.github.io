@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 
+title: Quotes
 permalink: /quotes/
 author_profile: true
 ---
