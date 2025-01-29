@@ -2,7 +2,7 @@
 # Basic Site Settings
 # =====================================================
 locale                   : "en-US"
-title                    : "Americo Cunha Jr's Page"
+title                    : "Americo's Page"
 title_separator          : "-"
 name                     : &name "Americo Cunha Jr"
 description              : &description "Professor of Applied Mathematics and Engineering, Researcher in Nonlinear Dynamical Systems"
