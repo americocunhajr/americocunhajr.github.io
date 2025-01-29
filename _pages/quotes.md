@@ -5,14 +5,9 @@ permalink: /quotes/
 author_profile: true
 ---
 
+🇧🇷 "Longa é a arte, tão breve a vida." — Antônio Carlos Jobim (1927 – 1994)
 
-### 🇧🇷
-> "Longa é a arte, tão breve a vida."
-> — Antônio Carlos Jobim (1927 – 1994)
-
-### 🇺🇸
-> "What gets us into trouble is not what we don’t know. It’s what we know for sure that just ain’t so."
-> — Mark Twain (1835 – 1910)
+> 🇺🇸 "What gets us into trouble is not what we don’t know. It’s what we know for sure that just ain’t so." — Mark Twain (1835 – 1910)
 
 > "Mudam-se os tempos, mudam-se as vontades."
 > — Luís Vaz de Camões (1524 - 1580)
