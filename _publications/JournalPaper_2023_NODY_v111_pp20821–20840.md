@@ -2,10 +2,10 @@
 title: "Probabilistic maps on bistable vibration energy harvesters"
 authors: "J. P. Norenberg, A. Cunha Jr, S. da Silva, P. S. Varoto"
 journal: "Nonlinear Dynamics"
-year: 2023
-volume: 111
+year: "2023"
+volume: "111"
 number: 
-pages: 20821–20840
+pages: "20821–20840"
 doi: "http://dx.doi.org/10.1007/s11071-023-08864-2"
 pdf: "http://dx.doi.org/10.1007/s11071-023-08864-2"
 arxiv: "https://arxiv.org/abs/2302.12769"
