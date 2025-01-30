@@ -6,11 +6,6 @@
   border-bottom: 1px solid #ddd;
 }
 
-.pub-icon {
-  font-size: 20px;
-  margin-right: 10px;
-}
-
 .article-metadata {
   font-size: 14px;
   color: #555;
@@ -29,16 +24,44 @@
 /* Publication Table */
 .pub-table {
   width: 100%;
-  margin-bottom: 20px;
-  border-collapse: collapse; /* Ensures proper spacing */
-  table-layout: fixed; /* Fixes the width proportions */
+  margin-bottom: 15px;
+  border-collapse: collapse; /* Removes visible table lines */
+  table-layout: fixed;
 }
 
-/* Publication Info (Left, 80%) */
+/* Icon (Left) */
+.pub-icon {
+  width: 5%;
+  font-size: 20px;
+  text-align: center;
+  vertical-align: middle;
+  padding-right: 10px;
+}
+
+/* Publication Info (Middle, 75%) */
 .pub-info {
-  width: 80%;
-  vertical-align: top;
+  width: 75%;
+  vertical-align: middle;
   padding-right: 15px;
+}
+
+/* Publication Title */
+.pub-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+/* Authors */
+.pub-authors {
+  font-size: 14px;
+  color: #555;
+}
+
+/* Journal info */
+.pub-journal {
+  font-size: 14px;
+  color: #777;
 }
 
 /* Thumbnail (Right, 20%) */
@@ -54,4 +77,5 @@
   max-width: 100%; /* Ensures it doesn't exceed the cell */
   border-radius: 5px;
 }
+
 
