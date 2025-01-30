@@ -30,23 +30,28 @@
 .pub-table {
   width: 100%;
   margin-bottom: 20px;
-  border-spacing: 15px;
+  border-collapse: collapse; /* Ensures proper spacing */
+  table-layout: fixed; /* Fixes the width proportions */
 }
 
-/* Publication Info (Left) */
+/* Publication Info (Left, 80%) */
 .pub-info {
-  vertical-align: top;
   width: 80%;
+  vertical-align: top;
+  padding-right: 15px;
 }
 
-/* Thumbnail (Right) */
+/* Thumbnail (Right, 20%) */
 .pub-thumbnail {
   width: 20%;
   text-align: right;
+  vertical-align: middle;
 }
 
 .pub-thumbnail img {
   height: 90px; /* Fixed height */
   width: auto;  /* Auto width to maintain aspect ratio */
+  max-width: 100%; /* Ensures it doesn't exceed the cell */
   border-radius: 5px;
 }
+
