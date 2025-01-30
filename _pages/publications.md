@@ -11,20 +11,17 @@ Several publications presented below are copyrighted by either a publisher or th
 
 {% assign SortedPublications = site.publications | sort: "year" | reverse %}
 {% assign CurrentYear = 0 %}
-
 {% for pub in SortedPublications %}
   {% assign PubYear = pub.year | plus: 0 %}
   {% if PubYear != CurrentYear %}
     <h2 class="year-heading">{{ PubYear }}</h2>
     {% assign CurrentYear = PubYear %}
   {% endif %}
-
   <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
       <tr>
-        <td style="width: 5%; font-size: 20px; text-align: center; vertical-align: top; padding-right: 10px; border: none;">
+        <td style="width: 5%; font-size: 20px; text-align: center; vertical-align: top; padding-right: 20px; border: none;">
         <i class="far fa-file-alt"></i>
       </td>
-
       <!-- Publication Details (Middle) -->
       <td style="width: 75%; vertical-align: middle; padding-right: 15px; border: none;">
         <strong style="font-size: 18px; font-weight: bold; color: #0073e6;">{{ pub.title }}</strong><br>
@@ -37,7 +34,6 @@ Several publications presented below are copyrighted by either a publisher or th
           {% if pub.year %}, {{ pub.year }}{% endif %}
         </span><br>
         <span style="font-size: 14px; color: #777;">{{ pub.doi }}</span><br>
-
         <div class="btn-links">
           {% if pub.pdf %}
             <a class="btn btn-outline-primary btn-sm" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
@@ -53,7 +49,6 @@ Several publications presented below are copyrighted by either a publisher or th
           {% endif %}
         </div>
       </td>
-
       <!-- Thumbnail (Right) -->
       <td style="width: 210px; height: 120px; text-align: right; vertical-align: middle; overflow: hidden; border: none;">
         {% if pub.image %}
