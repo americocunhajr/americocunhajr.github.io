@@ -6,6 +6,7 @@ year: 2023
 volume: 111
 number: 
 pages: 20821–20840
+url: "http://dx.doi.org/10.1007/s11071-023-08864-2"
 pdf: "http://dx.doi.org/10.1007/s11071-023-08864-2"
 arxiv: "https://arxiv.org/abs/2302.12769"
 hal: "https://hal.science/hal-04245273"
