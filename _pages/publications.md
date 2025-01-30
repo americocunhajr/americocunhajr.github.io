@@ -27,7 +27,7 @@ Several publications presented below are copyrighted by either a publisher or th
 
       <!-- Publication Details (Middle) -->
       <td class="pub-info">
-        <strong style="color:blue">some *blue* class="pub-title">{{ pub.title }} </strong><br>
+        <strong class="pub-title">{{ pub.title }} </strong><br>
         by <span class="pub-authors">{{ pub.authors }}</span><br>
         <span class="pub-journal">
           <em>{{ pub.journal }}</em>
