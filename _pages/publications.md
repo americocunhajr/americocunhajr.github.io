@@ -23,8 +23,9 @@ Several publications presented below are copyrighted by either a publisher or th
       <!-- Publication Details (Left - 80%) -->
       <td class="pub-info">
         
-        <h3 class="pub-title">{{ <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> pub.title }}</h3>
-        
+        <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+        <a href="{{ pub.pdf }}" target="_blank" rel="noopener">{{ pub.title }}</a>
+       
         <div class="article-metadata">
           by {{ pub.authors }}
         </div>
