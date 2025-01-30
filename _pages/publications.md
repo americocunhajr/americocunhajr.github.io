@@ -16,23 +16,26 @@ Several publications presented below are copyrighted by either a publisher or th
   {% if pub.year != current_year %}
     {% assign current_year = pub.year %}
     <h2 class="year-heading">{{ current_year }}</h2>
+    {% assign current_year = pub.year %}
   {% endif %}
 
   <div class="pub-container">
     <!-- Thumbnail -->
     {% if pub.image %}
     <div class="pub-thumbnail">
-      <img src="{{ pub.image }}" alt="Thumbnail for {{ pub.title }}">
+      <img src="{{ pub.image }}" alt="Thumbnail">
     </div>
     {% endif %}
 
     <!-- Publication Details -->
     <div class="pub-details">
+      <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+      <h3 class="pub-title">{{ pub.title }}</h3>
+      
       <div class="article-metadata">
         {{ pub.authors }}
       </div>
-      <h3 class="pub-title">{{ pub.title }}</h3>
-
+      
       <div class="article-metadata">
         <em>{{ pub.journal }}</em>
         {% if pub.volume %}, Vol. {{ pub.volume }}{% endif %}
