@@ -22,11 +22,15 @@ Several publications presented below are copyrighted by either a publisher or th
     <tr>
       <!-- Publication Details (Left) -->
       <td class="pub-info">
+        
         <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-        <div class="article-metadata">
-          {{ pub.authors }}
-        </div>
+        
         <h3 class="pub-title">{{ pub.title }}</h3>
+        
+        <div class="article-metadata">
+          by {{ pub.authors }}
+        </div>
+        
         <div class="article-metadata">
           <em>{{ pub.journal }}</em>
           {% if pub.volume %}, Vol. {{ pub.volume }}{% endif %}
