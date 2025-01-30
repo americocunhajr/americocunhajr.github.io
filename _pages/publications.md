@@ -10,17 +10,19 @@ author_profile: true
 Several publications presented below are copyrighted by either a publisher or the authors. They are available here for educational or academic use only. All rights of reproduction or distribution in any form are reserved.
 
 {% assign sorted_publications = site.publications | sort: "year" | reverse %}
-{% assign current_year = "0" %}
-
- <!-- Debugging Output -->
-  {{ pub_year }} <!-- This should print each year, check if it displays correctly -->
-
+{% assign current_year = 0 %} 
 
 {% for pub in sorted_publications %}
-  {% if pub.year != current_year %}
-    {% assign current_year = pub.year | plus: 0 %}
-     <h2 style="font-size: 24px; font-weight: bold;">{{ current_year }}</h2>
+  {% assign pub_year = pub.year | plus: 0 %}  
+
+  {% if pub_year != current_year %}
+    {% assign current_year = pub_year %}
+    {% capture year_heading %}
+      <h2 style="font-size: 24px; font-weight: bold;">{{ current_year }}</h2>
+    {% endcapture %}
+    {{ year_heading }}
   {% endif %}
+{% endfor %}
 
   <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
     <tr>
