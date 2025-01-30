@@ -16,8 +16,7 @@ Several publications presented below are copyrighted by either a publisher or th
   {% assign pub_year = pub.year | plus: 0 %}
 
   {% if pub_year != current_year %}
-    {{ pub_year }}
-    ----
+      ## {{ pub_year }}
     {% assign current_year = pub_year %}
   {% endif %}
 
