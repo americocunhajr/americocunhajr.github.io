@@ -36,6 +36,7 @@ Several publications presented below are copyrighted by either a publisher or th
           {% if pub.pages %}, pp. {{ pub.pages }}{% endif %}
           {% if pub.year %}, {{ pub.year }}{% endif %}
         </span><br>
+        <span style="font-size: 14px; color: #777;">{{ pub.url }}</span><br>
 
         <div class="btn-links">
           {% if pub.pdf %}
@@ -46,6 +47,9 @@ Several publications presented below are copyrighted by either a publisher or th
           {% endif %}
           {% if pub.hal %}
             <a class="btn btn-outline-primary btn-sm" href="{{ pub.hal }}" target="_blank" rel="noopener">HAL</a>
+          {% endif %}
+          {% if pub.news %}
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.news }}" target="_blank" rel="noopener">News</a>
           {% endif %}
         </div>
       </td>
