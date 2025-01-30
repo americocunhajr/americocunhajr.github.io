@@ -1,7 +1,7 @@
 ---
 title: "EPIDEMIC: Epidemiology Educational Code"
 collection: software
-permalink: /software/epidemic.md
+permalink: /software/software1
 excerpt: 'This code is about the number 1. The code 2 is left for future work.'
 date: 2022
 venue: 'Journal of Open Source Education'
