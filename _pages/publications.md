@@ -10,18 +10,18 @@ author_profile: true
 Several publications presented below are copyrighted by either a publisher or the authors. They are available here for educational or academic use only. All rights of reproduction or distribution in any form are reserved.
 
 {% assign sorted_publications = site.publications | sort: "year" | reverse %}
-{% assign current_year = "" %}
+{% assign current_year = "0" %}
 
 {% for pub in sorted_publications %}
   {% if pub.year != current_year %}
     {% assign current_year = pub.year %}
-    <h2>{{ current_year }}</h2>
+    <h2>{{ pub.year }}</h2>
   {% endif %}
 
   <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
     <tr>
       <!-- Icon (Left) -->
-      <td style="width: 5%; font-size: 20px; text-align: center; vertical-align: middle; padding-right: 10px; border: none;">
+      <td style="width: 5%; font-size: 20px; text-align: center; vertical-align: top; padding-right: 10px; border: none;">
         <i class="far fa-file-alt"></i>
       </td>
 
