@@ -6,7 +6,7 @@ year: 2024
 volume: 91
 number: 
 pages: 111008
-url: "https://doi.org/10.1115/1.4063894"
+doi: "https://doi.org/10.1115/1.4063894"
 pdf: "https://doi.org/10.1115/1.4063894"
 arxiv: 
 hal: "https://hal.science/hal-04245274"
