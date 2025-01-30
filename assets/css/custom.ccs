@@ -1,0 +1,31 @@
+.view-list-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+.pub-icon {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.article-metadata {
+  font-size: 14px;
+  color: #555;
+}
+
+.btn-links a {
+  text-decoration: none;
+  padding: 5px 10px;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+.year-heading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 30px;
+  color: #3f51b5;
+}
