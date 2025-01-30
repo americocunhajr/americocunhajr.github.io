@@ -6,6 +6,7 @@ year: 2024
 volume: 9
 number: 
 pages: 314-328
+url: "https://doi.org/10.1016/j.idm.2024.01.007"
 pdf: "https://doi.org/10.1016/j.idm.2024.01.007"
 arxiv: "https://arxiv.org/abs/xxx"
 hal: "https://hal.archives-ouvertes.fr/hal-xxx"
