@@ -14,7 +14,7 @@ layout: none
 date: 2024-06-01
 collection: publications
 category: manuscripts
-permalink: /publications/2024-02-17-IDM_v9_pp314-328
+permalink: /publications/JournalPaper_2024_IDM_v9_pp314-328
 ---
 
 
