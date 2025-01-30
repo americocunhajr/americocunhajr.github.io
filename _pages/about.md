@@ -13,31 +13,34 @@ I work with **Nonlinear Dynamical Systems**, a branch of mathematics that deals 
 
 More recently, I became interested in **Artificial Intelligence, Data Science**, and the use of **statistical/machine learning** techniques to extract and understand complex patterns from databases. My research spans a broad range of applications:
 - **Energy Harvesting**
-- **Origami Engineering**
+- **Vibroacoustic Metamaterials**
+- **Origami Geometry**
 - **Epidemic Outbreaks**
 - **Structural Health Monitoring**
-- **Medical Implants**
+- **Biomedical Engineering**
 - **Drilling Systems**
 - **Reactive Flows**
 
 ## Research Group
 
 In my research group, we specialize in cutting-edge **numerical, analytical, and data-driven techniques** for both deterministic and probabilistic **direct and inverse analyses of nonlinear systems**, as well as for **data analytics**. Our collaboration network includes:
-🇧🇷 Brazil | 🇺🇸 USA | 🏴 England | 🇫🇷 France | 🇮🇹 Italy | 🇵🇪 Peru | 🇵🇱 Poland | 🇵🇹 Portugal | 🇸🇦 Saudi Arabia | 🏴 Scotland
+🇧🇷 Brazil | 🇺🇸 USA | 🇫🇷 France | 🇮🇹 Italy | 🇵🇱 Poland | 🇵🇹 Portugal | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland | 🇨🇳 China | 🇷🇺 Russia | 🇵🇪 Peru | 🇸🇦 Saudi Arabia 
 
 ## Academic Lineage & Networks
 
 My interest in **theoretical mechanics** may be influenced by my **academic lineage**, which includes notable mathematicians such as **Euler, Lagrange, Gauss, and Hilbert**. My **Mathematics Genealogy** can be found here:  
-📌 [Math Genealogy Project](https://genealogy.math.ndsu.nodak.edu/)  
-📌 [Detailed Genealogy](#)  
+📌 [Simple Genealogy Tree](#) <br> 
+📌 [Detailed Genealogy Tree](#) <br> 
+📌 [Math Genealogy Page](https://www.mathgenealogy.org/id.php?id=190869)
 
-A **map of my academic missions** is available [here](#).  
+A **map of my academic missions** is available [here](https://www.google.com/maps/d/u/0/edit?mid=1FNzydcMk6KBmC95wmewKa-9ovvz8WjUx&usp=sharing). 
 
-- **Erdös number**: 4  
-- **Einstein number**: 6  
+Collaboration distance metrics:
+- **[Erdös number](http://en.wikipedia.org/wiki/Erd%C5%91s_number)**: 4  
+- **[Einstein number](https://en.wikipedia.org/wiki/Albert_Einstein)**: 6  
 
 ## CV
-📄 [CV in English](#)
+📄 [CV in English](https://drive.google.com/file/d/1ygEfRCeiwdAXOe2f2re023aFvwbyHuUE/view?usp=sharing) <br> 
 📄 [CV in Portuguese (Lattes)](http://lattes.cnpq.br/5659403706694491)
 
 ## Areas of Interest
