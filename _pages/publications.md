@@ -22,34 +22,41 @@ Several publications presented below are copyrighted by either a publisher or th
 {% for pub in sorted_publications %}
   {% if pub.year != current_year %}
     {% assign current_year = pub.year %}
-    <h2>{{ current_year }}</h2>
+    <h2 class="year-heading">{{ current_year }}</h2>
+    {% assign current_year = pub.year %}
   {% endif %}
 
-  <div class="media stream-item">
-    <div class="media-body">
-      
-      <h3 class="article-title mb-0 mt-0">{{ pub.title }}</h3>
+  <div class="view-list-item">
+    <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+    <a href="{{ pub.pdf }}" target="_blank" rel="noopener">{{ pub.title }}</a>
 
-      <div class="article-style">
-        <strong>Authors:</strong> {{ pub.authors }}  
-        <strong>Journal:</strong> {{ pub.journal }}  
-        {% if pub.volume %}<strong>Volume:</strong> {{ pub.volume }}{% endif %}
-        {% if pub.number %} | <strong>Number:</strong> {{ pub.number }}{% endif %}
-        {% if pub.pages %} | <strong>Pages:</strong> {{ pub.pages }}{% endif %}
-        <strong>Year:</strong> {{ pub.year }}
-      </div>
+    <div class="article-metadata">
+      <span><strong>Authors:</strong> {{ pub.authors }}</span>
+    </div>
 
-      <div class="btn-links">
-        {% if pub.pdf %}
-          <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
-        {% endif %}
-      </div>
+    <div class="article-metadata">
+      <em>{{ pub.journal }}</em>
+      {% if pub.volume %}, Vol. {{ pub.volume }}{% endif %}
+      {% if pub.number %}, No. {{ pub.number }}{% endif %}
+      {% if pub.pages %}, pp. {{ pub.pages }}{% endif %}
+      {% if pub.year %}, {{ pub.year }}{% endif %}
+    </div>
 
+    <div class="btn-links">
+      {% if pub.pdf %}
+        <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
+      {% endif %}
+      {% if pub.arxiv %}
+        <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">arXiv</a>
+      {% endif %}
+      {% if pub.hal %}
+        <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ pub.hal }}" target="_blank" rel="noopener">HAL</a>
+      {% endif %}
     </div>
 
     <div class="ml-3">
       {% if pub.image %}
-        <img src="{{ pub.image }}" alt="Illustration for {{ pub.title }}" style="max-width:150px;">
+        <img src="{{ pub.image }}" alt="Thumbnail for {{ pub.title }}" style="max-width:150px;">
       {% endif %}
     </div>
   </div>
