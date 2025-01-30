@@ -12,6 +12,10 @@ Several publications presented below are copyrighted by either a publisher or th
 {% assign sorted_publications = site.publications | sort: "year" | reverse %}
 {% assign current_year = "0" %}
 
+ <!-- Debugging Output -->
+  {{ pub_year }} <!-- This should print each year, check if it displays correctly -->
+
+
 {% for pub in sorted_publications %}
   {% if pub.year != current_year %}
     {% assign current_year = pub.year | plus: 0 %}
