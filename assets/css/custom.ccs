@@ -23,9 +23,57 @@
   border-radius: 5px;
 }
 
+/* Style for year headings */
 .year-heading {
   font-size: 24px;
   font-weight: bold;
   margin-top: 30px;
   color: #3f51b5;
+  border-bottom: 2px solid #3f51b5;
+  padding-bottom: 5px;
+}
+
+/* Main publication container */
+.pub-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Thumbnail (left side) */
+.pub-thumbnail {
+  flex: 0 0 120px; /* Fixed width for images */
+  margin-right: 20px;
+}
+
+.pub-thumbnail img {
+  width: 120px;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Publication details (right side) */
+.pub-details {
+  flex: 1;
+}
+
+/* Publication title */
+.pub-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+/* Buttons layout */
+.btn-links {
+  margin-top: 10px;
+}
+
+.btn-links a {
+  text-decoration: none;
+  padding: 5px 10px;
+  font-size: 14px;
+  border-radius: 5px;
 }
