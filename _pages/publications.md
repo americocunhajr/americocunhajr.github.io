@@ -21,11 +21,11 @@ Several publications presented below are copyrighted by either a publisher or th
   {% endif %}
 
   <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
-    <!-- <tr>
-      
-      <td style="width: 5%; font-size: 20px; text-align: center; vertical-align: top; padding-right: 10px; border: none;">
-        <i class="far fa-file-alt"></i>
-      </td>  -->
+      <!--       <tr>
+      <!-- <td style="width: 5%; font-size: 20px; text-align: center; vertical-align: top; padding-right: 10px; border: none;">
+      <!-- <i class="far fa-file-alt"></i>
+      <!-- </td>
+      -->
 
       <!-- Publication Details (Middle) -->
       <td style="width: 75%; vertical-align: middle; padding-right: 15px; border: none;">
