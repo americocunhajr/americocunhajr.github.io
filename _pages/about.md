@@ -7,48 +7,71 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
 
-I work with **Nonlinear Dynamical Systems**, a branch of mathematics that deals with time-dependent phenomena. The focus of my research is not only on constructing quantitative models for complex systems but also on understanding their inherent nonlinearities. My goal is to obtain **qualitative insights** into a system's **dynamic behavior** and develop strategies for **design, optimization, and control**.
+## 👋 Welcome to My Page!
+I'm Americo Cunha Jr., a researcher in Applied Mathematics and Engineering. My work revolves around understanding complex systems, from mechanical systems to data-driven models.
 
-More recently, I became interested in **Artificial Intelligence, Data Science**, and the use of **statistical/machine learning** techniques to extract and understand complex patterns from databases. My research spans a broad range of applications:
-- **Energy Harvesting**
-- **Vibroacoustic Metamaterials**
-- **Origami Geometry**
-- **Epidemic Outbreaks**
-- **Structural Health Monitoring**
-- **Biomedical Engineering**
-- **Drilling Systems**
-- **Reactive Flows**
+📌 What drives me?
 
-## Research Group
+I focus on both quantitative modeling and qualitative insights into nonlinear behavior, helping to design better engineering systems, optimize performance, and develop control strategies.
 
-In my research group, we specialize in cutting-edge **numerical, analytical, and data-driven techniques** for both deterministic and probabilistic **direct and inverse analyses of nonlinear systems**, as well as for **data analytics**. Our collaboration network includes:
-🇧🇷 Brazil | 🇺🇸 USA | 🇫🇷 France | 🇮🇹 Italy | 🇵🇱 Poland | 🇵🇹 Portugal | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland | 🇨🇳 China | 🇷🇺 Russia | 🇵🇪 Peru | 🇸🇦 Saudi Arabia 
 
-## Academic Lineage & Networks
+## 🔬 Research Interests
+My work spans several cutting-edge fields, including:
 
-My interest in **theoretical mechanics** may be influenced by my **academic lineage**, which includes notable mathematicians such as **Euler, Lagrange, Gauss, and Hilbert**. My **Mathematics Genealogy** can be found here:  
+📢 **Mathematical & Computational Modeling**
+- 🌀 Nonlinear Dynamics
+- 🎲 Uncertainty Quantification
+- 🔄 Inverse Problems
+- 🎯 Reduced-Order Modeling
+
+💡 **Emerging Technologies & AI**
+- 🤖 Machine Learning & Data Science
+- 🔋 Energy Harvesting
+- 〰️ Vibroacoustic Metamaterials
+- 🔺 Origami Geometry
+
+🌍 **Real-World Applications**
+- 🦠 Mathematical Epidemiology
+- 🏥 Biomedical Engineering
+- 🏛️ Structural Mechanics
+- 🔍 Structural Health Monitoring
+- 🚢 Oil Drilling
+- 🔥 Reactive Flows
+
+
+## 🧑‍🔬 My Research Group
+
+In my group, we apply advanced computational, analytical, and data-driven techniques to model nonlinear systems.
+
+We have a solid historic of research partnerships with several institutions across the world.
+
+🌍 Global Collaborations 🇧🇷 🇺🇸 🇫🇷 🇮🇹 🇵🇱 🇵🇹 🏴‍☠️ 🇨🇳 🇷🇺 🇵🇪 🇸🇦
+
+
+## 📜 Academic Lineage & Networks
+
+My academic lineage traces back to some of the greatest mathematicians in history, including Euler, Lagrange, Gauss, and Hilbert.
+
+🔗 Check my academic genealogy:
+
 📌 [Simple Genealogy Tree](#) <br> 
 📌 [Detailed Genealogy Tree](#) <br> 
 📌 [Math Genealogy Page](https://www.mathgenealogy.org/id.php?id=190869){:target="_blank"}
 
-A **map of my academic missions** is available [here](https://www.google.com/maps/d/u/0/edit?mid=1FNzydcMk6KBmC95wmewKa-9ovvz8WjUx&usp=sharing){:target="_blank"}  . 
+🗺️ Explore my academic missions via this [interactive map](https://www.google.com/maps/d/u/0/edit?mid=1FNzydcMk6KBmC95wmewKa-9ovvz8WjUx&usp=sharing){:target="_blank"} . 
 
-Collaboration distance metrics:
-- **[Erdös number](http://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"}  **: 4  
-- **[Einstein number](https://en.wikipedia.org/wiki/Albert_Einstein){:target="_blank"}  **: 6  
+📊 Collaboration Metrics:
+- **[Erdös number](http://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"}**: 4  
+- **[Einstein number](https://en.wikipedia.org/wiki/Albert_Einstein){:target="_blank"}**: 6  
 
-## CV
-📄 [CV in English](https://drive.google.com/file/d/1ygEfRCeiwdAXOe2f2re023aFvwbyHuUE/view?usp=sharing){:target="_blank"}   <br> 
-📄 [CV in Portuguese (Lattes)](http://lattes.cnpq.br/5659403706694491){:target="_blank"}  
 
-## Areas of Interest
-✔ **Nonlinear Dynamics**  
-✔ **Uncertainty Quantification**  
-✔ **Inverse Problems**  
-✔ **Reduced-Order Modeling**  
-✔ **Machine Learning**  
-✔ **Energy Harvesting**  
-✔ **Origami Geometry**  
-✔ **Mathematical Epidemiology**  
+## 📄 Curriculum Vitae
+For further information about myself or my work, please check my CVs here:
+
+📝 [CV in English](https://drive.google.com/file/d/1ygEfRCeiwdAXOe2f2re023aFvwbyHuUE/view?usp=sharing){:target="_blank"} <br> 
+📝 [CV in Portuguese (Lattes)](http://lattes.cnpq.br/5659403706694491){:target="_blank"}  
+
+
+## 🚀 Get in Touch!
+📧 Email: americo.cunha@uerj.br
