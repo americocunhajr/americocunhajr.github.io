@@ -16,7 +16,7 @@ Several publications presented below are copyrighted by either a publisher or th
   {% assign PubYear = pub.year | plus: 0 %}
 
   {% if PubYear != CurrentYear %}
-      <h2 style="font-size: 24px; font-weight: bold; color: black;">{{ PubYear }}</h2>
+    <h2 class="year-heading">{{ PubYear }}</h2>
     {% assign CurrentYear = PubYear %}
   {% endif %}
 
