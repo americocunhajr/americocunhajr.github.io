@@ -31,17 +31,17 @@ In my research group, we specialize in cutting-edge **numerical, analytical, and
 My interest in **theoretical mechanics** may be influenced by my **academic lineage**, which includes notable mathematicians such as **Euler, Lagrange, Gauss, and Hilbert**. My **Mathematics Genealogy** can be found here:  
 📌 [Simple Genealogy Tree](#) <br> 
 📌 [Detailed Genealogy Tree](#) <br> 
-📌 [Math Genealogy Page](https://www.mathgenealogy.org/id.php?id=190869)
+📌 [Math Genealogy Page](https://www.mathgenealogy.org/id.php?id=190869){:target="_blank"}
 
-A **map of my academic missions** is available [here](https://www.google.com/maps/d/u/0/edit?mid=1FNzydcMk6KBmC95wmewKa-9ovvz8WjUx&usp=sharing). 
+A **map of my academic missions** is available [here](https://www.google.com/maps/d/u/0/edit?mid=1FNzydcMk6KBmC95wmewKa-9ovvz8WjUx&usp=sharing){:target="_blank"}  . 
 
 Collaboration distance metrics:
-- **[Erdös number](http://en.wikipedia.org/wiki/Erd%C5%91s_number)**: 4  
-- **[Einstein number](https://en.wikipedia.org/wiki/Albert_Einstein)**: 6  
+- **[Erdös number](http://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"}  **: 4  
+- **[Einstein number](https://en.wikipedia.org/wiki/Albert_Einstein){:target="_blank"}  **: 6  
 
 ## CV
-📄 [CV in English](https://drive.google.com/file/d/1ygEfRCeiwdAXOe2f2re023aFvwbyHuUE/view?usp=sharing) <br> 
-📄 [CV in Portuguese (Lattes)](http://lattes.cnpq.br/5659403706694491)
+📄 [CV in English](https://drive.google.com/file/d/1ygEfRCeiwdAXOe2f2re023aFvwbyHuUE/view?usp=sharing){:target="_blank"}   <br> 
+📄 [CV in Portuguese (Lattes)](http://lattes.cnpq.br/5659403706694491){:target="_blank"}  
 
 ## Areas of Interest
 ✔ **Nonlinear Dynamics**  
