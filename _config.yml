@@ -143,7 +143,7 @@ collections:
     permalink: /:collection/:path/
   software:
     output: true
-    permalink: /software/:path/
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
