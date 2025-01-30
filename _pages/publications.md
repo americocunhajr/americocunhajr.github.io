@@ -12,17 +12,10 @@ Several publications presented below are copyrighted by either a publisher or th
 {% assign sorted_publications = site.publications | sort: "year" | reverse %}
 {% assign current_year = "" %}  
 
-    <h2 class="year-heading">OLA</h2>
-    <h2>OLA</h2>
-            <h2 class="year-heading">{{ current_year }}</h2>
-
-
 {% for pub in sorted_publications %}
   {% if pub.year != current_year %}
     {% assign current_year = pub.year %}
-    <h2 class="year-heading">OLA</h2>
-    <h2>OLA</h2>
-        <h2 class="year-heading">{{ current_year }}</h2>
+    {{ current_year }}
   {% endif %}
 
   <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
