@@ -37,13 +37,13 @@
 
 /* Thumbnail (left side) */
 .pub-thumbnail {
-  flex: 0 0 90px; /* Fixed width for images */
+  flex: 0 90px 0;
   margin-right: 15px;
 }
 
 .pub-thumbnail img {
-  width: 90px;
-  height: auto;
+  width: auto;
+  height: 90px;
   border-radius: 5px;
 }
 
