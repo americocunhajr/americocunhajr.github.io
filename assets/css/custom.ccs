@@ -37,7 +37,7 @@
 /* Icon (Left) */
 .pub-icon {
   width: 5%;
-  font-size: 20px;
+  font-size: 50px;
   text-align: center;
   vertical-align: middle;
   padding-right: 10px;
@@ -69,19 +69,19 @@
   color: #777;
 }
 
-/* Thumbnail (Right, Fixed to 120px Height and 210px Width) */
+/* Thumbnail */
 .pub-thumbnail {
-  width: 210px !important;
-  height: 120px !important;
-  text-align: right;
+  width: 190px !important;
+  height: 108px !important;
+  text-align: center;
   vertical-align: middle;
-  overflow: hidden; /* Prevents misalignment */
+  overflow: hidden;
 }
 
 .pub-thumbnail img {
-  height: 120px !important; /* Fixed height */
-  width: auto !important;  /* Auto width to maintain aspect ratio */
-  max-width: 210px !important; /* Ensures width doesn't exceed the set width */
-  border-radius: 5px;
+  height: 108px !important;
+  width: auto !important;
+  max-width: 190px !important;
+  border-radius: 1px;
 }
 
