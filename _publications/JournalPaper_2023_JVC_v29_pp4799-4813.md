@@ -6,7 +6,7 @@ year: 2023
 volume: 29
 number: 
 pages: 4799-4813
-url: "https://doi.org/10.1177/10775463221125038"
+doi: "https://doi.org/10.1177/10775463221125038"
 pdf: "https://doi.org/10.1177/10775463221125038"
 arxiv: 
 hal: "https://hal.archives-ouvertes.fr/hal-03794921"
