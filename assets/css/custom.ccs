@@ -25,6 +25,7 @@
   width: 100%;
   margin-bottom: 15px;
   border-collapse: collapse; /* Ensures no visible table lines */
+  border: 0;
   table-layout: fixed;
 }
 
