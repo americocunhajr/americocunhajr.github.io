@@ -28,7 +28,7 @@ My work spans several cutting-edge fields, including:
 💡 **Emerging Technologies & AI**
 - 🤖 Machine Learning & Data Science
 - 🔋 Energy Harvesting
-- 〰️ Vibroacoustic Metamaterials
+- 〰️ Metamaterials
 - 🔺 Origami Geometry
 
 🌍 **Real-World Applications**
