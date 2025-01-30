@@ -6,7 +6,6 @@ excerpt: 'This code is about the number 1. The code 2 is left for future work.'
 date: 2022
 venue: 'Journal of Open Source Education'
 summary: "An easy-to-run educational Matlab toolkit for epidemiological analysis."
-tags: ["Matlab", "Epidemiology", "Educational"]
 external_link: "http://epidemiccode.org"
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
