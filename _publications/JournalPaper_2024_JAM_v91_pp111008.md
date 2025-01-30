@@ -9,7 +9,7 @@ pages: 111008
 pdf: "https://doi.org/10.1115/1.4063894"
 arxiv: 
 hal: "https://hal.science/hal-04245274"
-image: "GraphicalAbstract_Paper_2024_JAM"
+image: "GraphicalAbstract_Paper_2024_JAM.png"
 layout: none
 date: 2024-08-28
 collection: publications
