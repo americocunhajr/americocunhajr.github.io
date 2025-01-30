@@ -19,7 +19,7 @@ Several publications presented below are copyrighted by either a publisher or th
   {% endif %}
   <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
       <tr>
-        <td style="width: 10%; font-size: 30px; text-align: center; vertical-align: top; padding-right: 20px; border: none;">
+        <td style="width: 10%; font-size: 30px; text-align: center; vertical-align: top; padding-right: 30px; border: none;">
         <i class="far fa-file-alt"></i>
       </td>
       <!-- Publication Details (Middle) -->
@@ -50,7 +50,7 @@ Several publications presented below are copyrighted by either a publisher or th
         </div>
       </td>
       <!-- Thumbnail (Right) -->
-      <td style="width: 190px; height: 108px; text-align: middle; vertical-align: middle; overflow: hidden; border: none;">
+      <td style="width: 190px; height: 108px; text-align: right; vertical-align: middle; overflow: hidden; border: none;">
         {% if pub.image %}
           <img src="{{ pub.image }}" alt="Thumbnail" style="height: 108px; width: auto; max-width: 190px; border-radius: 1px;">
         {% endif %}
