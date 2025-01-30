@@ -46,7 +46,7 @@ In my group, we apply advanced computational, analytical, and data-driven techni
 
 We have a solid historic of research partnerships with several institutions across the world.
 
-🌍 Global Collaborations 🇧🇷 🇺🇸 🇫🇷 🇮🇹 🇵🇱 🇵🇹 🏴‍☠️ 🇨🇳 🇷🇺 🇵🇪 🇸🇦
+🌍 Global Collaborations 🇧🇷 🇺🇸 🇫🇷 🇮🇹 🇵🇱 🇵🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇨🇳 🇷🇺 🇵🇪 🇸🇦
 
 
 ## 📜 Academic Lineage & Networks
