@@ -15,10 +15,10 @@ Several publications presented below are copyrighted by either a publisher or th
 {% for pub in sorted_publications %}
   {% if pub.year != current_year %}
     {% assign current_year = pub.year %}
-    <strong style="font-size: 24px; font-weight: bold;">{{ current_year }}</strong><br>
+    <span style="font-size: 24px; font-weight: bold;">{{ current_year }}</span><br>
   {% endif %}
 
-  <table style="width:100%; margin-bottom: 20px; border-collapse:collapse; border: none; table-layout: fixed; border-width: 0";>
+  <table style="width:100%; margin-bottom: 20px; border-collapse:collapse; border: none; table-layout: fixed;>
     <tr>
       <!-- Icon (Left) -->
       <td style="width: 5%; font-size: 20px; text-align: center; vertical-align: middle; padding-right: 10px;">
