@@ -24,12 +24,13 @@ My work spans several cutting-edge fields, including:
 - 🎲 Uncertainty Quantification
 - 🔄 Inverse Problems
 - 🎯 Reduced-Order Modeling
+- 📈 Non-convex optimization
 
 💡 **Emerging Technologies & AI**
 - 🤖 Machine Learning & Data Science
 - 🔋 Energy Harvesting
 - 〰️ Metamaterials
-- 🔺 Origami Geometry
+- 🦢 Origami Geometry
 
 🌍 **Real-World Applications**
 - 🦠 Mathematical Epidemiology
