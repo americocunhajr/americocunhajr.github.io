@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## 👋 Welcome to My Page!
-I'm Americo Cunha Jr., a researcher in Applied Mathematics and Engineering. My work revolves around understanding complex systems, from mechanical systems to data-driven models.
+I'm a researcher working in the instersection between Applied Mathematics, Mechanical Engineering and Computational Sciences. My work revolves around understanding complex systems, from origami metamaterials to epidemic phenomena.
 
 📌 What drives me?
 
