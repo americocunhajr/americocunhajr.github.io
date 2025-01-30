@@ -15,6 +15,7 @@ Several publications presented below are copyrighted by either a publisher or th
 {% for pub in sorted_publications %}
   {% if pub.year != current_year %}
     {% assign current_year = pub.year %}
+    OLA
         <h2 class="year-heading">{{ current_year }}</h2>
   {% endif %}
 
