@@ -7,8 +7,10 @@ entries_layout: list
 author_profile: true
 ---
 
-{% for item in site.software %}
-- [{{ item.title }}]({{ item.url }}) - {{ item.summary }}
+{% for pub in site.software %}
+  - **{{ pub.title }}**  
+    {{ item.summary }}
+    [Read more]({{ pub.url }})
 {% endfor %}
 
 ## Open-Source Software
