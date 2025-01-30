@@ -20,18 +20,18 @@
   padding-bottom: 5px;
 }
 
-/* Publication Table */
+/* Force table to have NO visible borders */
 .pub-table {
   width: 100%;
   margin-bottom: 15px;
-  border-collapse: collapse; /* Ensures no visible table lines */
-  border-width: 0;
+  border-collapse: collapse !important; /* Ensures no visible table lines */
+  border: none !important;
   table-layout: fixed;
 }
 
-/* Remove border from table cells */
+/* Remove border from ALL table cells */
 .pub-table td {
-  border: none;
+  border: none !important;
 }
 
 /* Icon (Left) */
@@ -50,11 +50,11 @@
   padding-right: 15px;
 }
 
-/* Publication Title */
+/* Title */
 .pub-title {
   font-size: 18px;
   font-weight: bold;
-  color: #0073e6; /* Blue tone */
+  color: #0073e6 !important; /* Force blue */
 }
 
 /* Authors */
@@ -71,16 +71,17 @@
 
 /* Thumbnail (Right, Fixed to 120px Height and 210px Width) */
 .pub-thumbnail {
-  width: 210px;
-  height: 120px;
+  width: 210px !important;
+  height: 120px !important;
   text-align: right;
   vertical-align: middle;
+  overflow: hidden; /* Prevents misalignment */
 }
 
 .pub-thumbnail img {
-  height: 120px; /* Fixed height */
-  width: auto;  /* Auto width to maintain aspect ratio */
-  max-width: 210px; /* Ensures width doesn't exceed the set width */
+  height: 120px !important; /* Fixed height */
+  width: auto !important;  /* Auto width to maintain aspect ratio */
+  max-width: 210px !important; /* Ensures width doesn't exceed the set width */
   border-radius: 5px;
 }
 
