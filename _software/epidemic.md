@@ -1,9 +1,8 @@
 ---
 title: "EPIDEMIC: Epidemiology Educational Code"
 collection: software
-category: educational
-permalink: /software/epidemic
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /software/epidemic.md
+excerpt: 'This code is about the number 1. The code 2 is left for future work.'
 date: 2022
 venue: 'Journal of Open Source Education'
 summary: "An easy-to-run educational Matlab toolkit for epidemiological analysis."
