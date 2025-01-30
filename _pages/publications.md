@@ -20,15 +20,11 @@ Several publications presented below are copyrighted by either a publisher or th
 
   <table class="pub-table">
     <tr>
-      <!-- Icon (Left) -->
-      <td class="pub-icon">
-        <i class="far fa-file-alt"></i>
-      </td>
 
       <!-- Publication Details (Middle) -->
       <td class="pub-info">
-        <strong class="pub-title">{{ pub.title }}</strong><br>
-        <span by class="pub-authors">{{ pub.authors }}</span><br>
+        <i class="far fa-file-alt"></i> <strong class="pub-title">{{ pub.title }}</strong><br>
+        by <span class="pub-authors">{{ pub.authors }}</span><br>
         <span class="pub-journal">
           <em>{{ pub.journal }}</em>
           {% if pub.volume %}, Vol. {{ pub.volume }}{% endif %}
