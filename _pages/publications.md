@@ -23,7 +23,7 @@ Several publications presented below are copyrighted by either a publisher or th
         <i class="far fa-file-alt"></i>
       </td>
       <!-- Publication Details (Middle) -->
-      <td style="width: 75%; text-align: left; vertical-align: middle; padding-left: 20px; border: none;">
+      <td style="width: 75%; text-align: left; vertical-align: middle; padding-right: 20px; border: none;">
         <strong style="font-size: 18px; font-weight: bold; color: #0073e6;">{{ pub.title }}</strong><br>
         by <span style="font-size: 14px; color: #555;">{{ pub.authors }}</span><br>
         <span style="font-size: 14px; color: #777;">
