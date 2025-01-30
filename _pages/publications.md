@@ -53,7 +53,7 @@ Several publications presented below are copyrighted by either a publisher or th
       <!-- Thumbnail (Right) -->
       <td style="width: 210px; height: 120px; text-align: right; vertical-align: middle; overflow: hidden; border: none;">
         {% if pub.image %}
-          <img src="{{ pub.image }}" alt="Thumbnail for {{ pub.title }}" style="height: 120px; width: auto; max-width: 210px; border-radius: 5px;">
+          <img src="{{ pub.image }}" alt="Thumbnail" style="height: 120px; width: auto; max-width: 210px; border-radius: 5px;">
         {% endif %}
       </td>
     </tr>
