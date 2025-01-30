@@ -10,7 +10,7 @@ author_profile: true
 Several publications presented below are copyrighted by either a publisher or the authors. They are available here for educational or academic use only. All rights of reproduction or distribution in any form are reserved.
 
 {% assign sorted_publications = site.publications | sort: "year" | reverse %}
-{% assign current_year = 0 %}  
+{% assign current_year = "0" %}  
 
 {% for pub in sorted_publications %}
   {% assign pub_year = pub.year | plus: 0 %}  
@@ -19,7 +19,6 @@ Several publications presented below are copyrighted by either a publisher or th
     <h2 style="font-size: 24px; font-weight: bold; color: black;">{{ pub_year }}</h2>
     {% assign current_year = pub_year %}
   {% endif %}
-{% endfor %}
 
   <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
     <tr>
