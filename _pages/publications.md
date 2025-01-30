@@ -19,15 +19,17 @@ Several publications presented below are copyrighted by either a publisher or th
   {% endif %}
 
   <div class="pub-container">
+    <!-- Thumbnail -->
+    {% if pub.image %}
     <div class="pub-thumbnail">
-      {% if pub.image %}
-        <img src="{{ pub.image }}" alt="Thumbnail for {{ pub.title }}">
-      {% endif %}
+      <img src="{{ pub.image }}" alt="Thumbnail for {{ pub.title }}">
     </div>
-    
+    {% endif %}
+
+    <!-- Publication Details -->
     <div class="pub-details">
       <div class="article-metadata">
-        <strong>Authors:</strong> {{ pub.authors }}
+        {{ pub.authors }}
       </div>
       <h3 class="pub-title">{{ pub.title }}</h3>
 
@@ -52,5 +54,4 @@ Several publications presented below are copyrighted by either a publisher or th
       </div>
     </div>
   </div>
-
 {% endfor %}
