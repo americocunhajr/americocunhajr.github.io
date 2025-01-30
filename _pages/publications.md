@@ -37,15 +37,15 @@ Several publications presented below are copyrighted by either a publisher or th
           {% if pub.year %}, {{ pub.year }}{% endif %}
         </span><br>
 
-        <div>
+        <div class="btn-links">
           {% if pub.pdf %}
-            <a style="display:inline-block; padding:5px 10px; margin-right:5px; border:1px solid #0073e6; color:#0073e6; text-decoration:none; border-radius:5px;" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
           {% endif %}
           {% if pub.arxiv %}
-            <a style="display:inline-block; padding:5px 10px; margin-right:5px; border:1px solid #0073e6; color:#0073e6; text-decoration:none; border-radius:5px;" href="{{ pub.arxiv }}" target="_blank" rel="noopener">arXiv</a>
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">arXiv</a>
           {% endif %}
           {% if pub.hal %}
-            <a style="display:inline-block; padding:5px 10px; border:1px solid #0073e6; color:#0073e6; text-decoration:none; border-radius:5px;" href="{{ pub.hal }}" target="_blank" rel="noopener">HAL</a>
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.hal }}" target="_blank" rel="noopener">HAL</a>
           {% endif %}
         </div>
       </td>
