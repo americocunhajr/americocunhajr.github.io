@@ -15,18 +15,18 @@ Several publications presented below are copyrighted by either a publisher or th
 {% for pub in sorted_publications %}
   {% if pub.year != current_year %}
     {% assign current_year = pub.year %}
-    <span style="font-size: 24px; font-weight: bold;">{{ current_year }}</span><br>
+     <h2 style="font-size: 24px; font-weight: bold;">{{ current_year }}</h2>
   {% endif %}
 
-  <table style="width:100%; margin-bottom: 20px; border-collapse:collapse; border: none; table-layout: fixed;>
+  <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
     <tr>
       <!-- Icon (Left) -->
-      <td style="width: 5%; font-size: 20px; text-align: center; vertical-align: middle; padding-right: 10px;">
+      <td style="width: 5%; font-size: 20px; text-align: center; vertical-align: middle; padding-right: 10px; border: none;">
         <i class="far fa-file-alt"></i>
       </td>
 
       <!-- Publication Details (Middle) -->
-      <td style="width: 75%; vertical-align: middle; padding-right: 15px;">
+      <td style="width: 75%; vertical-align: middle; padding-right: 15px; border: none;">
         <strong style="font-size: 18px; font-weight: bold; color: #0073e6;">{{ pub.title }}</strong><br>
         by <span style="font-size: 14px; color: #555;">{{ pub.authors }}</span><br>
         <span style="font-size: 14px; color: #777;">
@@ -51,7 +51,7 @@ Several publications presented below are copyrighted by either a publisher or th
       </td>
 
       <!-- Thumbnail (Right) -->
-      <td style="width: 210px; height: 120px; text-align: right; vertical-align: middle; overflow: hidden;">
+      <td style="width: 210px; height: 120px; text-align: right; vertical-align: middle; overflow: hidden; border: none;">
         {% if pub.image %}
           <img src="{{ pub.image }}" alt="Thumbnail for {{ pub.title }}" style="height: 120px; width: auto; max-width: 210px; border-radius: 5px;">
         {% endif %}
