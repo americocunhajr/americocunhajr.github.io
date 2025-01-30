@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Nonlinear Art"
-permalink: /nonlinear-art/
+permalink: /NonlinearArt/
 author_profile: true
 ---
 
