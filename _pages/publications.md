@@ -20,10 +20,10 @@ Several publications presented below are copyrighted by either a publisher or th
 
   <table class="pub-table">
     <tr>
-      <!-- Publication Details (Left) -->
+      <!-- Publication Details (Left - 80%) -->
       <td class="pub-info">
         
-        <h3 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> class="pub-title">{{ pub.title }}</h3>
+        <h3 class="pub-title">{{ <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> pub.title }}</h3>
         
         <div class="article-metadata">
           by {{ pub.authors }}
@@ -50,7 +50,7 @@ Several publications presented below are copyrighted by either a publisher or th
         </div>
       </td>
 
-      <!-- Thumbnail (Right) -->
+      <!-- Thumbnail (Right - 20%) -->
       <td class="pub-thumbnail">
         {% if pub.image %}
           <img src="{{ pub.image }}" alt="Thumbnail for {{ pub.title }}">
