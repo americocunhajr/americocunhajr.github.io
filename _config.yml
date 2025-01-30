@@ -5,7 +5,7 @@ locale                   : "en-US"
 title                    : "Americo's Page"
 title_separator          : "-"
 name                     : &name "Americo Cunha Jr"
-description              : &description "Professor of Applied Mathematics and Engineering, Researcher in Nonlinear Dynamical Systems"
+description              : &description "Professor of Applied Mathematics and Engineering, Researcher in Nonlinear Systems"
 url                      : "https://americocunhajr.github.io"
 baseurl                  : "" # Keep blank if deploying on GitHub Pages at username.github.io
 repository               : "americocunhajr/academicpages.github.io" # Your GitHub repository
@@ -18,7 +18,7 @@ author:
   name             : "Americo Cunha Jr"
   bio              : "I deal with nonlinear systems."
   employer         : "UERJ"
-  email            : "americo.cunha@uerj.br"
+  email            : 
 
   # Academic Profiles
   googlescholar    : "https://scholar.google.com/citations?user=4r36RpoAAAAJ&hl=en"
@@ -185,7 +185,7 @@ defaults:
       share: true
   - scope:
       path: ""
-      type: portfolio
+      type: software
     values:
       layout: single
       author_profile: true
@@ -245,7 +245,7 @@ compress_html:
 # =====================================================
 # Taxonomies
 # =====================================================
-taxonomies:
-  category: "categories"
-  tag: "tags"
-  software: "software"
+#taxonomies:
+#  category: "categories"
+#  tag: "tags"
+#  software: "software"
