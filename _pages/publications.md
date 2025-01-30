@@ -19,11 +19,11 @@ Several publications presented below are copyrighted by either a publisher or th
   {% endif %}
   <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
       <tr>
-        <td style="width: 5%; font-size: 30px; text-align: center; vertical-align: top; padding-right: 15px; border: none;">
+        <td style="width: 10%; font-size: 30px; text-align: center; vertical-align: top; padding-right: 20px; border: none;">
         <i class="far fa-file-alt"></i>
       </td>
       <!-- Publication Details (Middle) -->
-      <td style="width: 75%; text-align: left; vertical-align: middle; padding-left: 15px; border: none;">
+      <td style="width: 70%; text-align: left; vertical-align: middle; padding-left: 20px; border: none;">
         <strong style="font-size: 18px; font-weight: bold; color: #0073e6;">{{ pub.title }}</strong><br>
         by <span style="font-size: 14px; color: #555;">{{ pub.authors }}</span><br>
         <span style="font-size: 14px; color: #777;">
@@ -50,7 +50,7 @@ Several publications presented below are copyrighted by either a publisher or th
         </div>
       </td>
       <!-- Thumbnail (Right) -->
-      <td style="width: 190px; height: 108px; text-align: right; vertical-align: middle; overflow: hidden; border: none;">
+      <td style="width: 190px; height: 108px; text-align: middle; vertical-align: middle; overflow: hidden; border: none;">
         {% if pub.image %}
           <img src="{{ pub.image }}" alt="Thumbnail" style="height: 108px; width: auto; max-width: 190px; border-radius: 1px;">
         {% endif %}
