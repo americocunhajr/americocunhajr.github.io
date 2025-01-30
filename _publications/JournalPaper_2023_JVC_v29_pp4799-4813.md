@@ -4,7 +4,7 @@ authors: "R. Raqueti, R. O. Teloli, S. da Silva, P. Bussetta, and A. Cunha Jr"
 journal: "Journal of Vibration and Control"
 year: "2023"
 volume: "29"
-number: ""
+number: 
 pages: "4799-4813"
 doi: "https://doi.org/10.1177/10775463221125038"
 pdf: "https://doi.org/10.1177/10775463221125038"

@@ -3,12 +3,12 @@ title: "Physics-informed neural networks for solving elasticity problems"
 authors: "E. F. Almeida, S. da Silva and A. Cunha Jr"
 event: "27th International Congress of Mechanical Engineering (COBEM 2023)"
 year: "2023"
-volume: ""
-number: ""
-pages: ""
-doi: ""
-pdf: ""
-arxiv: ""
+volume: 
+number:
+pages: 
+doi: 
+pdf: 
+arxiv: 
 hal: "https://hal.science/hal-04373364"
 image: "GraphicalAbstract_Conf_2023_COBEM2023_1.png"
 layout: none

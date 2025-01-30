@@ -4,7 +4,7 @@ authors: "A. Cunha Jr, D. A. W. Barton, and T. G. Ritto"
 journal: "Nonlinear Dynamics"
 year: "2023"
 volume: "111"
-number: ""
+number: 
 pages: "9649–9679"
 doi: "https://doi.org/10.1007/s11071-023-08327-8"
 pdf: "https://doi.org/10.1007/s11071-023-08327-8"

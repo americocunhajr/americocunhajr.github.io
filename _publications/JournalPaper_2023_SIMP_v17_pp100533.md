@@ -4,12 +4,12 @@ authors: "A. Cunha Jr, M. Pereira, R. Avanço, A. M. Tusset, J. M. Balthazar"
 journal: "Software Impacts"
 year: "2023"
 volume: "17"
-number: ""
+number: 
 pages: "100533"
 doi: "https://doi.org/10.1016/j.simpa.2023.100533"
 pdf: "https://doi.org/10.1016/j.simpa.2023.100533"
-arxiv: ""
-hal: ""
+arxiv: 
+hal: 
 image: "GraphicalAbstract_Paper_2023_SIMPAC2.png"
 layout: none
 date: 2023-06-26

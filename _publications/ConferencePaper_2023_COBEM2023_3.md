@@ -3,12 +3,12 @@ title: "Vibration mitigation and energy harvesting with bistable resonators in m
 authors: "J. P. Norenberg and A. Cunha Jr"
 event: "27th International Congress of Mechanical Engineering (COBEM 2023)"
 year: "2023"
-volume: ""
-number: ""
-pages: ""
-doi: ""
-pdf: ""
-arxiv: ""
+volume: 
+number:
+pages: 
+doi: 
+pdf: 
+arxiv: 
 hal: "https://hal.science/hal-04373368"
 image: "GraphicalAbstract_Conf_2023_COBEM2023_3.png"
 layout: none

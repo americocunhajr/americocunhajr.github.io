@@ -4,12 +4,12 @@ authors: "E. M. Orbegoso, L. F. Figueira da Silva, and A. Cunha Jr"
 journal: "Software Impacts"
 year: "2023"
 volume: "15"
-number: ""
+number: 
 pages: "100480"
 doi: "https://doi.org/10.1016/j.simpa.2023.100480"
 pdf: "https://doi.org/10.1016/j.simpa.2023.100480"
-arxiv: ""
-hal: ""
+arxiv: 
+hal: 
 image: "GraphicalAbstract_Paper_2023_SIMPAC1.png"
 layout: none
 date: 2023-02-15
