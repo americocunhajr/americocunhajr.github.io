@@ -75,4 +75,8 @@ For further information about myself or my work, please check my CVs here:
 
 
 ## 🚀 Get in Touch!
-📧 Email: americo.cunha@uerj.br
+📧 Email: <span id="email"></span>
+<script>
+  document.getElementById("email").innerHTML = 
+    '<a href="mailto:' + 'americo' + '.' + 'cunha' + '@' + 'uerj' + '.' + 'br">' + 'americo' + '.' + 'cunha' + '@' + 'uerj' + '.' + 'br' + '</a>';
+</script>
