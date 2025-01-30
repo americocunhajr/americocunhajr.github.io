@@ -6,10 +6,10 @@ year: 2024
 volume: 9
 number: 
 pages: 314-328
-pdf: "[https://example.com/my-paper.pdf](https://doi.org/10.1016/j.idm.2024.01.007)"
+pdf: "https://doi.org/10.1016/j.idm.2024.01.007"
 arxiv: "https://arxiv.org/abs/xxx"
 hal: "https://hal.archives-ouvertes.fr/hal-xxx"
-image: "https://lh6.googleusercontent.com/Ta3hMJANW2e4Cy8fWTij86H_rp-gCB7Hfvo40YA5fVUsT7wNBch65TDcKKxjkIV7VLgonsr4yPJOCxvxWBzbE1V1LuAN_ROJzPzCGHlF2876ewh5fvapiPyCAxd4_DBaOg=w1280"
+image: "GraphicalAbstract_Paper_2024_IDM.png"
 layout: none
 date: 2024-06-01
 collection: publications
