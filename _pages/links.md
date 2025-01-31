@@ -2,20 +2,34 @@
 title: "Links"
 permalink: /links/
 layout: single
-author_profile: false
+author_profile: true
 hidden: true
-robots: "noindex, nofollow"
 ---
 
 ## 🔒 Researcher Links
 
 <ul class="social-icons">
-  <li><a href="https://orcid.org/0000-0002-8342-0363" target="_blank"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a></li>
-    <li><a href="https://www.scopus.com/authid/detail.uri?authorId=56068096100" target="_blank"><i class="ai ai-scopus" aria-hidden="true"></i> Scopus</a></li>
+    <li><a href="https://orcid.org/0000-0002-8342-0363" target="_blank"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a></li>
+<li>
+  <a href="https://www.webofscience.com/wos/author/record/1767361" target="_blank">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="12" y1="6" x2="12" y2="12"></line>
+      <line x1="12" y1="12" x2="16" y2="14"></line>
+    </svg> Web of Science
+  </a>
+</li>
+  <li>
+  <a href="https://www.webofscience.com/wos/author/record/1767361" target="_blank">
+    <img src="CLVT.png" alt="Web of Science" style="height: 20px; vertical-align: middle;">
+    Web of Science
+  </a>
+</li>
+      <li><a href="https://www.scopus.com/authid/detail.uri?authorId=56068096100" target="_blank"><i class="ai ai-scopus" aria-hidden="true"></i> Scopus</a></li>
     <li><a href="https://www.webofscience.com/wos/author/record/1767361" target="_blank"><i class="ai ai-webofscience" aria-hidden="true"></i> Web of Science</a></li>
     <li><a href="https://www.semanticscholar.org/author/Americo-Cunha/47058383" target="_blank"><i class="ai ai-semantic-scholar" aria-hidden="true"></i> Semantic Scholar</a></li>
-    <li><a href="https://americocunhajr.academia.edu" target="_blank"><i class="ai ai-academia" aria-hidden="true"></i> Academia.edu</a></li>
-    <li><a href="https://www.growkudos.com/profiles/americocunha" target="_blank"><i class="fas fa-lightbulb" aria-hidden="true"></i> Kudos</a></li>
+    <li><a href="https://uerj.academia.edu/AmericoCunhaJr" target="_blank"><i class="ai ai-academia" aria-hidden="true"></i> Academia.edu</a></li>
+    <li><a href="https://www.growkudos.com/profile/americo_cunha" target="_blank"><i class="fas fa-lightbulb" aria-hidden="true"></i> Kudos</a></li>
 </ul>
 
 ---
