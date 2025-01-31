@@ -1,3 +1,30 @@
+.social-icons {
+    list-style: none;
+    padding: 0;
+}
+
+.social-icons li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.social-icons a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #333; /* Adjust color to match your theme */
+    transition: color 0.3s ease-in-out;
+}
+
+.social-icons a:hover {
+    color: #0077b5; /* Change color on hover */
+}
+
+.social-icons i {
+    margin-right: 8px;
+}
+
+
+
 .view-list-item {
   display: flex;
   align-items: center;
