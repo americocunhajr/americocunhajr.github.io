@@ -20,28 +20,28 @@ author_profile: true
 
 <div class="gallery-container">
   <div class="gallery-item">
-    <a href="images/LorenzAttractor.png" data-lightbox="gallery" data-title="Lorenz Attractor - A Chaotic System">
+    <a href="/assets/images/LorenzAttractor.png" data-lightbox="gallery" data-title="Lorenz Attractor - A Chaotic System">
       <img src="images/LorenzAttractor.png" alt="Lorenz Attractor">
     </a>
     <p>🌀 <strong>Lorenz Attractor</strong> - A 3D chaotic system with butterfly-shaped trajectories.</p>
   </div>
   
   <div class="gallery-item">
-    <a href="images/LorenzAttractor.png" data-lightbox="gallery" data-title="Fractal Geometry">
+    <a href="/assets/images/LorenzAttractor.png" data-lightbox="gallery" data-title="Fractal Geometry">
       <img src="images/FractalGeometry.png" alt="Fractal Geometry">
     </a>
     <p>🖌️ <strong>Fractal Geometry</strong> - Infinite complexity generated from simple recursive rules.</p>
   </div>
   
   <div class="gallery-item">
-    <a href="images/LorenzAttractor.png" data-lightbox="gallery" data-title="Bifurcation Diagram">
+    <a href="/assets/images/LorenzAttractor.png" data-lightbox="gallery" data-title="Bifurcation Diagram">
       <img src="images/BifurcationDiagram.png" alt="Bifurcation Diagram">
     </a>
     <p>📈 <strong>Bifurcation Diagram</strong> - A roadmap to chaos in dynamical systems.</p>
   </div>
 </div>
 
-<a href="highres/LorenzAttractor.png" download class="btn-download">📥 Download as Wallpaper</a>
+<a href="/assets/images/LorenzAttractor.png" download class="btn-download">📥 Download as Wallpaper</a>
 
 
 
