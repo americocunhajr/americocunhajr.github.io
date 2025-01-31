@@ -12,7 +12,7 @@ hidden: true
     <li><a href="https://orcid.org/0000-0002-8342-0363" target="_blank"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a></li>
   <li>
   <a href="https://www.webofscience.com/wos/author/record/1767361" target="_blank">
-    <img src="https://companieslogo.com/img/orig/CLVT-be02c47f.png" alt="Web of Science" style="height: 20px; vertical-align: middle;">
+    <img src="/assets/images/webofscience.png" alt="Web of Science" style="height: 20px; vertical-align: middle;">
     Web of Science
   </a>
 </li>
