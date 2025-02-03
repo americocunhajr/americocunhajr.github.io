@@ -10,7 +10,7 @@ redirect_from:
 
 ## 👋 Welcome to My Page!
 
-I am an Associate Professor of Applied Mathematics at Rio de Janeiro State University (UERJ) in Brazil. This summer, I will join the team of Brazil's National Laboratory of Scientific Computing (LNCC), a research unit of the Brazilian Ministry of Science, Technology, and Innovation.
+I am an Associate Professor of Applied Mathematics at [Rio de Janeiro State University (UERJ)](https://www.uerj.br){:target="_blank"} in Brazil. This summer, I will join the team of Brazil's [National Laboratory of Scientific Computing (LNCC)](https://www.lncc.br){:target="_blank"}, a research unit of the Brazilian Ministry of Science, Technology, and Innovation.
 
 My research work lies in the intersection between Applied Mathematics, Mechanical Engineering, and Computational Sciences, revolving around understanding complex systems, from origami metamaterials to epidemic phenomena.
 
