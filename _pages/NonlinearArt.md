@@ -21,68 +21,59 @@ author_profile: true
     <a href="/assets/images/LorenzAttractor.png" data-lightbox="gallery" data-title="Lorenz Attractor - A Chaotic System">
       <img src="assets/images/LorenzAttractor.png" alt="Lorenz Attractor">
     </a>
-    <p>🌀 <strong>Lorenz Attractor</strong> - A 3D chaotic system with butterfly-shaped trajectories.</p>
+    <p> <strong>Lorenz Attractor</strong> - A 3D chaotic system with butterfly-shaped trajectories.</p>
   </div>
   
   <div class="gallery-item">
     <a href="/assets/images/StandardMap.png" data-lightbox="gallery" data-title="Standard Map">
       <img src="assets/images/StandardMap.png" alt="Standard Map">
     </a>
-    <p>🖌️ <strong>Standard Map</strong> - Infinite complexity generated from simple recursive rules.</p>
+    <p> <strong>Standard Map</strong> - Infinite complexity generated from simple recursive rules.</p>
   </div>
   
   <div class="gallery-item">
-    <a href="/assets/images/CircleMap.png" data-lightbox="gallery" data-title="Circle Map">
-      <img src="assets/images/CircleMap.png" alt="Circle Map">
+    <a href="/assets/images/CircleMap1.jpg" data-lightbox="gallery" data-title="Circle Map">
+      <img src="assets/images/CircleMap1.jpg" alt="Circle Map">
     </a>
-    <p>📈 <strong>Circle Map</strong> - xxx.</p>
+    <p> <strong>Circle Map 1</strong> - xxx.</p>
+  </div>
+
+  <div class="gallery-item">
+    <a href="/assets/images/CircleMap2.jpg" data-lightbox="gallery" data-title="Circle Map">
+      <img src="assets/images/CircleMap2.jpg" alt="Circle Map">
+    </a>
+    <p> <strong>Circle Map 2</strong> - xxx.</p>
+  </div>
+
+  <div class="gallery-item">
+    <a href="/assets/images/CircleMap3.jpg" data-lightbox="gallery" data-title="Circle Map">
+      <img src="assets/images/CircleMap3.jpg" alt="Circle Map">
+    </a>
+    <p> <strong>Circle Map 3</strong> - xxx.</p>
   </div>
 
   <div class="gallery-item">
     <a href="/assets/images/Mandelbrot1.jpg" data-lightbox="gallery" data-title="Mandelbrot Set">
       <img src="assets/images/Mandelbrot1.jpg" alt="Mandelbrot Set">
     </a>
-    <p>📈 <strong>Mandelbrot Set</strong> - xxx.</p>
+    <p> <strong>Mandelbrot Set</strong> - xxx.</p>
   </div>
 
   <div class="gallery-item">
-    <a href="/assets/images/Juliacycles1.png" data-lightbox="gallery" data-title="Julia Sets">
-      <img src="assets/images/Juliacycles1.png" alt="Julia Sets">
+    <a href="/assets/images/JuliaSet1.png" data-lightbox="gallery" data-title="Julia Sets">
+      <img src="assets/images/JuliaSet1.png" alt="Julia Sets">
     </a>
-    <p>📈 <strong>Julia Sets</strong> - xxx.</p>
-  </div>
-
-  <div class="gallery-item">
-    <a href="/assets/images/LorenzAttractor.png" data-lightbox="gallery" data-title="Bifurcation Diagram">
-      <img src="assets/images/BifurcationDiagram.png" alt="Bifurcation Diagram">
-    </a>
-    <p>📈 <strong>Bifurcation Diagram</strong> - A roadmap to chaos in dynamical systems.</p>
+    <p> <strong>Julia Sets</strong> - xxx.</p>
   </div>
 
   <div class="gallery-item">
     <a href="/assets/images/LorenzAttractor.png" data-lightbox="gallery" data-title="Bifurcation Diagram">
       <img src="assets/images/BifurcationDiagram.png" alt="Bifurcation Diagram">
     </a>
-    <p>📈 <strong>Bifurcation Diagram</strong> - A roadmap to chaos in dynamical systems.</p>
-  </div>
-
-  <div class="gallery-item">
-    <a href="/assets/images/LorenzAttractor.png" data-lightbox="gallery" data-title="Bifurcation Diagram">
-      <img src="assets/images/BifurcationDiagram.png" alt="Bifurcation Diagram">
-    </a>
-    <p>📈 <strong>Bifurcation Diagram</strong> - A roadmap to chaos in dynamical systems.</p>
-  </div>
-
-  <div class="gallery-item">
-    <a href="/assets/images/LorenzAttractor.png" data-lightbox="gallery" data-title="Bifurcation Diagram">
-      <img src="assets/images/BifurcationDiagram.png" alt="Bifurcation Diagram">
-    </a>
-    <p>📈 <strong>Bifurcation Diagram</strong> - A roadmap to chaos in dynamical systems.</p>
+    <p> <strong>Bifurcation Diagram</strong> - A roadmap to chaos in dynamical systems.</p>
   </div>
   
 </div>
-
-<a href="/assets/images/LorenzAttractor.png" download class="btn-download">📥 Download as Wallpaper</a>
 
 
 
