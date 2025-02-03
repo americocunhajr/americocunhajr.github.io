@@ -27,22 +27,21 @@ My work spans several fields, including:
 - 🎲 Uncertainty Quantification
 - 🔄 Inverse Problems
 - 🎯 Reduced-Order Modeling
-- 📈 Non-convex optimization
+- ⚙️ Non-convex optimization
+- 📊 Machine Learning
 
-💡 **Emerging Technologies & AI**
-- 🤖 Machine Learning & Data Science
+💡 **Emerging Technologies**
+- 🤖 Artificial Intelligence & Data Science
 - 🔋 Energy Harvesting
 - 〰️ Metamaterials
-- 🦢 Origami Geometry
+- 🦢 Origami Engineering
 
-🌍 **Real-World Applications**
-- 🦠 Mathematical Epidemiology
+🌍 **Applications and Challenges**
+- 🏛️ Applied Mechanics
+- 🦠 Epidemiology
 - 🏥 Biomedical Engineering
-- 🏛️ Structural Mechanics
 - 🔍 Structural Health Monitoring
-- 🚢 Oil Drilling
-- 🔥 Reactive Flows
-
+- 🌡️ Climate Change
 
 ## 🧑‍🔬 My Research Group
 
