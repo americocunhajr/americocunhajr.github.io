@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Quotes
+title: World of Quotes
 permalink: /quotes/
 author_profile: true
 ---
