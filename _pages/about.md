@@ -61,8 +61,8 @@ My academic lineage traces back to some of the greatest mathematicians in histor
 
 
 
-📌 [Simple Genealogy Tree](href="/_pages/MathGenDSc_short.png") <br> 
-📌 [Detailed Genealogy Tree](href="/_pages/MathGenDSc_long.pdf") <br> 
+📌 [Simple Genealogy Tree](MathGenDSc_short.png) <br> 
+📌 [Detailed Genealogy Tree](MathGenDSc_long.pdf) <br> 
 📌 [Math Genealogy Page](https://www.mathgenealogy.org/id.php?id=190869){:target="_blank"}
 
 🗺️ Explore my academic missions via this [interactive map](https://www.google.com/maps/d/u/0/edit?mid=1FNzydcMk6KBmC95wmewKa-9ovvz8WjUx&usp=sharing){:target="_blank"} . 
