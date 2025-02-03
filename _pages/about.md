@@ -58,17 +58,15 @@ My academic lineage traces back to some of the greatest mathematicians in histor
 
 🔗 Check my academic genealogy:
 
-
-
 📌 [Simple Genealogy Tree](MathGenDSc_short.png){:target="_blank"} <br> 
 📌 [Detailed Genealogy Tree](MathGenDSc_long.pdf){:target="_blank"} <br> 
 📌 [Math Genealogy Page](https://www.mathgenealogy.org/id.php?id=190869){:target="_blank"}
 
-🗺️ Explore my academic missions via this [interactive map](https://www.google.com/maps/d/u/0/edit?mid=1FNzydcMk6KBmC95wmewKa-9ovvz8WjUx&usp=sharing){:target="_blank"} . 
-
 📊 Collaboration Distance Metrics:
 - **[Erdös number](http://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"}**: 4  
 - **[Einstein number](https://en.wikipedia.org/wiki/Albert_Einstein){:target="_blank"}**: 6  
+
+🗺️ Explore my academic missions via this [interactive map](https://www.google.com/maps/d/u/0/edit?mid=1FNzydcMk6KBmC95wmewKa-9ovvz8WjUx&usp=sharing){:target="_blank"} . 
 
 
 ## 📄 Curriculum Vitae
