@@ -9,15 +9,18 @@ redirect_from:
 
 
 ## 👋 Welcome to My Page!
-I'm a researcher working in the instersection between Applied Mathematics, Mechanical Engineering and Computational Sciences. My work revolves around understanding complex systems, from origami metamaterials to epidemic phenomena.
+
+I am an Associate Professor of Applied Mathematics at Rio de Janeiro State University (UERJ) in Brazil. This summer, I will join the team of Brazil's National Laboratory of Scientific Computing (LNCC), a research unit of the Brazilian Ministry of Science, Technology, and Innovation.
+
+My research work lies in the intersection between Applied Mathematics, Mechanical Engineering, and Computational Sciences, revolving around understanding complex systems, from origami metamaterials to epidemic phenomena.
 
 📌 What drives me?
 
-I focus on both quantitative modeling and qualitative insights into nonlinear behavior, helping to design better engineering systems, optimize performance, and develop control strategies.
+I focus on both quantitative modeling and qualitative analysis of nonlinear systems, seeking to obtain nontrivial insights about their behavior, helping in this way to design better engineering systems, optimize their performance, and develop innovative control strategies.
 
 
 ## 🔬 Research Interests
-My work spans several cutting-edge fields, including:
+My work spans several fields, including:
 
 📢 **Mathematical & Computational Modeling**
 - 🌀 Nonlinear Dynamics
@@ -45,7 +48,7 @@ My work spans several cutting-edge fields, including:
 
 In my group, we apply advanced computational, analytical, and data-driven techniques to model nonlinear systems.
 
-We have a solid historic of research partnerships with several institutions across the world.
+We have a solid history of research partnerships with several institutions worldwide.
 
 🌍 Global Collaborations 🇧🇷 🇺🇸 🇫🇷 🇮🇹 🇵🇱 🇵🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇨🇳 🇷🇺 🇵🇪 🇸🇦
 
