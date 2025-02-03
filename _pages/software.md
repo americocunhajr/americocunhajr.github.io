@@ -9,7 +9,7 @@ author_profile: true
 
 ## 🛠️ Computational Tools & Software
 
-Below is a collection of **software packages** I have developed or contributed to. These tools serve various applications, including **nonlinear dynamics, epidemic modeling, uncertainty quantification, and machine learning**.
+Below is a collection of software packages I have developed or contributed to. These tools serve various applications in nonlinear dynamics, energy harvesting, epidemic modeling, uncertainty quantification, machine learning, etc.
 
 ---
 
@@ -48,6 +48,6 @@ Below is a collection of **software packages** I have developed or contributed t
 ---
 
 ### 📌 **Notes**
-- 🔧 Many of these tools are **open-source** and available for **academic and research use**.
+- 🔧 All of these tools are **open-source** and available for **academic and research use**.
 - 📬 Feel free to **contact me** if you have questions or would like to contribute.
 
