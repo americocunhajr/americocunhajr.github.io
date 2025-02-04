@@ -48,6 +48,6 @@ author_profile: true
 ---
 
 ### 📌 **Notes**
-- 🛠️ All of these computational tools are **open-source** and available for **academic and research use**. They serve various applications in nonlinear dynamics, energy harvesting, epidemic modeling, uncertainty quantification, machine learning, etc.
-- 📬 Feel free to **contact me** if you have questions or would like to contribute.
+- 🛠️ *All of these computational tools are **open-source** and available for **academic and research use**. They serve various applications in nonlinear dynamics, energy harvesting, epidemic modeling, uncertainty quantification, machine learning, etc.*
+- 📬 *Feel free to **contact me** if you have questions or would like to contribute.*
 
