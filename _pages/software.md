@@ -7,7 +7,7 @@ entries_layout: list
 author_profile: true
 ---
 
-🛠️ Below is a collection of software packages I have developed or contributed to. These tools serve various applications in nonlinear dynamics, energy harvesting, epidemic modeling, uncertainty quantification, machine learning, etc.
+Below is a collection of software packages I have developed or contributed to. These tools serve various applications in nonlinear dynamics, energy harvesting, epidemic modeling, uncertainty quantification, machine learning, etc.
 
 ---
 
