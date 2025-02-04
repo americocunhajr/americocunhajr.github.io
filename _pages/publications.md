@@ -41,12 +41,15 @@ author_profile: true
               <em>{{ pub.event }}</em>
               {% if pub.year %}, {{ pub.year }}{% endif %}
             {% elsif pub.booktitle %}
-              <em>{{ pub.booktitle }}</em>
-              {% if pub.editor %}, Vol. {{ pub.editor }}{% endif %}
+              <em>{{ pub.booktitle }}</em> <br>
+              {% if pub.editor %}Editor: {{ pub.editor }}{% endif %}
+              {% if pub.publisher %}, {{ pub.publisher }}{% endif %}
               {% if pub.year %}, {{ pub.year }}{% endif %}
               {% endif %}
         </span><br>
-        <span style="font-size: 14px; color: #777;">{{ pub.doi }}</span><br>
+        <span style="font-size: 14px; color: #777;">
+          {% if pub.doi %}, {{ pub.doi }}{% endif %}
+        </span><br>
         <div class="btn-links">
           {% if pub.pdf %}
             <a class="btn btn-outline-primary btn-sm" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
