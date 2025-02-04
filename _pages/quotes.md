@@ -59,7 +59,7 @@ author_profile: true
 — Hans Christian Andersen (1805 - 1875)
 
 🇸🇪 "Nothing on earth can make up for the loss of one who has loved you." <br />
-- Selma Lagerlöf (1858 - 1940)
+— Selma Lagerlöf (1858 - 1940)
 
 🇲🇦 "A narrow space looks wide to the narrow minded." <br />
 — Moroccan proverb
