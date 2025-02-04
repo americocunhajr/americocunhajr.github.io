@@ -31,11 +31,20 @@ author_profile: true
         <strong style="font-size: 18px; font-weight: bold; color: #0073e6;">{{ pub.title }}</strong><br>
         by <span style="font-size: 14px; color: #555;">{{ pub.authors }}</span><br>
         <span style="font-size: 14px; color: #777;">
-          <em>{{ pub.journal }}</em>
-          {% if pub.volume %}, Vol. {{ pub.volume }}{% endif %}
-          {% if pub.number %}, No. {{ pub.number }}{% endif %}
-          {% if pub.pages %}, pp. {{ pub.pages }}{% endif %}
-          {% if pub.year %}, {{ pub.year }}{% endif %}
+            {% if pub.journal %}
+            <em>{{ pub.journal }}</em>
+              {% if pub.volume %}, Vol. {{ pub.volume }}{% endif %}
+              {% if pub.number %}, No. {{ pub.number }}{% endif %}
+              {% if pub.pages %}, pp. {{ pub.pages }}{% endif %}
+              {% if pub.year %}, {{ pub.year }}{% endif %}
+            {% elsif pub.event %}
+              <em>{{ pub.event }}</em>
+              {% if pub.year %}, {{ pub.year }}{% endif %}
+            {% elsif pub.booktitle %}
+              <em>{{ pub.booktitle }}</em>
+              {% if pub.editor %}, Vol. {{ pub.editor }}{% endif %}
+              {% if pub.year %}, {{ pub.year }}{% endif %}
+              {% endif %}
         </span><br>
         <span style="font-size: 14px; color: #777;">{{ pub.doi }}</span><br>
         <div class="btn-links">
