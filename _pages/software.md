@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Computational Tools & Software"
+title: "🛠️ Computational Tools & Software"
 permalink: /software/
 collection: software
 entries_layout: list
