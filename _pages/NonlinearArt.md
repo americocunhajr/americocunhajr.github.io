@@ -13,7 +13,7 @@ author_profile: true
 
 🖼️ Enjoy the gallery!
 
---
+---
 
 <div class="gallery-container">
   <div class="gallery-item">
