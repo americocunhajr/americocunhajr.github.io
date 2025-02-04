@@ -28,7 +28,7 @@ author_profile: true
       </td>
       <!-- Publication Details (Middle) -->
       <td style="width: 75%; text-align: left; vertical-align: middle; padding-left: 20px; border: none;">
-        <strong style="font-size: 18px; font-weight: bold; color: #0073e6;">{{ pub.title }}</strong><br>
+        <strong style="font-size: 18px; font-weight: bold; color: #3f51b5;">{{ pub.title }}</strong><br>
         by <span style="font-size: 14px; color: #555;">{{ pub.authors }}</span><br>
         <span style="font-size: 14px; color: #777;">
             {% if pub.journal %}
