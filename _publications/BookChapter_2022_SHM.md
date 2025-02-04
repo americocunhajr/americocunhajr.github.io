@@ -2,6 +2,7 @@
 title: "Challenges for Structural Health Monitoring: Nonlinearities and Uncertainties"
 authors: "L. G. G. Villani, S. B. Shiki, A. Cunha Jr, S. da Silva, M. D. Todd"
 booktitle: "Uncertainty Modeling: Fundamental Concepts and Models"
+editor: "A. B. Jorge, C. T. M. Anflor, G. F. Gomes, and S. H. S. Carneiro"
 year: "2022"
 volume: "III"
 number: 
