@@ -19,14 +19,14 @@ author_profile: true
 
 {% assign SortedPublications = site.publications | sort: "year" | reverse %}
 {% assign CurrentYear = 0 %}
+
 {% for pub in SortedPublications %}
   {% assign PubYear = pub.year | plus: 0 %}
   {% if PubYear != CurrentYear %}
-  
     <h2 style="font-size: 24px; font-weight: bold; margin-top: 30px; color: #3f51b5; border-bottom: 2px solid #3f51b5; padding-bottom: 5px;">{{ PubYear }}</h2>
-  
-  {% assign CurrentYear = PubYear %}
+   {% assign CurrentYear = PubYear %}
   {% endif %}
+  
   <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
       <tr>
         <td style="width: 10%; font-size: 30px; text-align: left; vertical-align: top; padding-right: 30px; border: none;">
