@@ -17,6 +17,8 @@ author_profile: true
 {% for pub in SortedPublications %}
   {% assign PubYear = pub.year | strip | plus: 0 %}
   {% if PubYear > 0 and PubYear != CurrentYear %}
+  {{ "<h2 style='font-size: 24px; font-weight: bold; margin-top: 30px; color: #3f51b5; border-bottom: 2px solid #3f51b5; padding-bottom: 5px;'>" | safeHTML }}{{ PubYear }}{{ "</h2>" | safeHTML }}
+  
     <h2 style="font-size: 24px; font-weight: bold; margin-top: 30px; color: #3f51b5; border-bottom: 2px solid #3f51b5; padding-bottom: 5px;">{{ PubYear }}</h2>
    {% assign CurrentYear = PubYear %}
   {% endif %}
