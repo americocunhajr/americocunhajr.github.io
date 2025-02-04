@@ -18,7 +18,7 @@ author_profile: true
   <tr>
     <!-- Software Logo -->
     <td style="width: 150px; text-align: center; vertical-align: middle;">
-      <img src="{{ soft.logo }}" alt="{{ Logo }} logo" style="width: 120px; height: auto;">
+      <img src="{{ soft.logo }}" alt="{{ Logo }} logo" style="width: auto; height: 120px;">
     </td>
 
     <!-- Software Name & Description -->
