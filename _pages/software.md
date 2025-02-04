@@ -28,7 +28,7 @@ author_profile: true
 
       <!-- Links: GitHub, Docs, Download -->
       {% if soft.url %}
-      <a href="{{ soft.url }}" target="_blank" class="btn btn-outline-primary btn-sm">🌐 URL</a>
+      <a href="{{ soft.website }}" target="_blank" class="btn btn-outline-primary btn-sm">🌐 URL</a>
       {% endif %}
       
       {% if soft.github %}
