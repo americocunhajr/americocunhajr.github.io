@@ -21,7 +21,7 @@ author_profile: true
 
     <!-- Software Name & Description -->
     <td style="padding-left: 15px; vertical-align: middle; border: none;">
-      <h3 style="margin-bottom: 5px;">{{ soft.title }}</h3>
+      <h3 style="margin-bottom: 5px; font-size: 18px; color: #3f51b5;">{{ soft.title }}</h3>
       <p>{{ soft.description }}</p>
 
       <!-- Links: GitHub, Docs, Download -->
