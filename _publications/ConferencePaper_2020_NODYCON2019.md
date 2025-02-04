@@ -2,7 +2,7 @@
 title: "Application of a stochastic version of the restoring force surface method to identify a Duffing oscillator"
 authors: "L. G. G. Villani, S. da Silva, and A. Cunha Jr"
 booktitle: "Nonlinear Dynamics of Structures, Systems and Devices"
-editors: "W. Lacarbonara, B. Balachandran, J. Ma, J. T. Machado, and G. Stepan"
+editor: "W. Lacarbonara, B. Balachandran, J. Ma, J. T. Machado, and G. Stepan"
 publisher: "Springer Cham"
 year: "2020"
 pages: "299-307"
