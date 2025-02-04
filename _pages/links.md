@@ -23,4 +23,4 @@ hidden: true
 </ul>
 
 ---
-⚠️ **Note:** *This page is **not linked** in the website menu.*
+⚠️ *This page is **not linked** in the website menu.*
