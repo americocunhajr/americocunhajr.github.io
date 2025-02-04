@@ -7,7 +7,7 @@ entries_layout: list
 author_profile: true
 ---
 
-📜 Copyright Notice 📜
+📜 *Copyright Notice*
 
 🏛️👨‍🏫 Several publications presented below are copyrighted by either a publisher or the authors. They are available here for educational and academic use only 📚🎓.
 
