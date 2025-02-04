@@ -9,5 +9,4 @@ docs: "https://github.com/americocunhajr/EPIDEMIC/blob/master/Docs/EPIDEMIC_Tuto
 download: "https://github.com/americocunhajr/EPIDEMIC/zipball/master"
 layout: none
 collection: software
-citation: 'Pavlack et al., (2022). EPIDEMIC: Epidemiology Educational Code. Journal of Open Source Education, 5(50), 149, https://doi.org/10.21105/jose.00149'
 ---
