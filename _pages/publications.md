@@ -48,7 +48,7 @@ author_profile: true
               {% endif %}
         </span><br>
         <span style="font-size: 14px; color: #777;">
-          {% if pub.doi %}, {{ pub.doi }}{% endif %}
+          {% if pub.doi %} {{ pub.doi }}{% endif %}
         </span><br>
         <div class="btn-links">
           {% if pub.pdf %}
