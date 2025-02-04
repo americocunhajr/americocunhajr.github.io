@@ -1,12 +1,12 @@
 ---
-title: "Links"
+title: "🔒 Links"
 permalink: /links/
 layout: single
 author_profile: true
 hidden: true
 ---
 
-## 🔒 Researcher Links
+---
 
 <ul class="social-icons">
     <li><a href="https://orcid.org/0000-0002-8342-0363" target="_blank"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a></li>
@@ -23,4 +23,4 @@ hidden: true
 </ul>
 
 ---
-⚠️ **Note:** This page is **not linked** in the website menu.
+⚠️ **Note:** *This page is **not linked** in the website menu.*
