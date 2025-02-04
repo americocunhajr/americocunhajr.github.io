@@ -17,12 +17,12 @@ author_profile: true
 <table style="width:100%; margin-bottom: 15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
   <tr>
     <!-- Software Logo -->
-    <td style="width: 150px; text-align: center; vertical-align: middle;">
+    <td style="width: 150px; text-align: center; vertical-align: middle; border: none;">
       <img src="{{ soft.logo }}" alt="{{ Logo }} logo" style="width: 150px; height: auto;">
     </td>
 
     <!-- Software Name & Description -->
-    <td style="padding-left: 15px; vertical-align: middle;">
+    <td style="padding-left: 15px; vertical-align: middle; border: none;">
       <h3 style="margin-bottom: 5px;">{{ soft.title }}</h3>
       <p>{{ soft.description }}</p>
 
