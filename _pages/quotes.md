@@ -5,7 +5,7 @@ permalink: /quotes/
 author_profile: true
 ---
 
---
+---
 
 🇧🇷 "Longa é a arte, tão breve a vida." <br />
 — Antônio Carlos Jobim (1927 – 1994)
