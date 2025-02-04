@@ -45,6 +45,12 @@ author_profile: true
           {% if pub.arxiv %}
             <a class="btn btn-outline-primary btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">arXiv</a>
           {% endif %}
+          {% if pub.engrxiv %}
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">engrXiv</a>
+          {% endif %}
+          {% if pub.medrxiv %}
+            <a class="btn btn-outline-primary btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">medRxiv</a>
+          {% endif %}
           {% if pub.hal %}
             <a class="btn btn-outline-primary btn-sm" href="{{ pub.hal }}" target="_blank" rel="noopener">HAL</a>
           {% endif %}
