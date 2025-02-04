@@ -7,8 +7,6 @@ entries_layout: list
 author_profile: true
 ---
 
-🛠️✨ Below is a collection of software packages I have developed or contributed to. These computational tools serve various applications in nonlinear dynamics, energy harvesting, epidemic modeling, uncertainty quantification, machine learning, etc.
-
 ---
 
 {% assign softwares = site.software | sort: "title" %}
@@ -50,6 +48,6 @@ author_profile: true
 ---
 
 ### 📌 **Notes**
-- 🔧 All of these tools are **open-source** and available for **academic and research use**.
+- 🛠️ All of these computational tools are **open-source** and available for **academic and research use**. They serve various applications in nonlinear dynamics, energy harvesting, epidemic modeling, uncertainty quantification, machine learning, etc.
 - 📬 Feel free to **contact me** if you have questions or would like to contribute.
 
