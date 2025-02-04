@@ -1,7 +1,7 @@
 ---
 title: "SoBioS: Sobol’ Indices for Biological Systems"
 logo: "SoBioS.png"
-description: "An easy-to-run Matlab code for performing Sobol’ indices-based global sensitivity analysis of biological systems."
+description: "This is a MATLAB tool for conducting Sobol’ index-based global sensitivity analysis in biological systems. It allows researchers to quantify the influence of model parameters on biological system outputs, aiding in model validation and uncertainty quantification in systems biology."
 date: 2022-08-10
 website: "https://americocunhajr.github.io/SoBioS"
 github: "https://github.com/americocunhajr/SoBioS"

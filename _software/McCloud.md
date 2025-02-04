@@ -1,7 +1,7 @@
 ---
 title: "McCloud: Monte Carlo Cloud Service Framework"
 logo: "McCloud.png"
-description: "A Monte Carlo cloud-based framework using Microsoft Windows Azure for solving complex scientific and engineering problems."
+description: " This is a Monte Carlo-based cloud computing framework designed to provide a scalable and flexible implementation of Monte Carlo simulations. Developed for scientific and engineering applications, it leverages Microsoft Azure for distributed computation, enabling large-scale probabilistic modeling and uncertainty quantification."
 date: 2014-06-01
 website: "https://americocunhajr.github.io/McCloud"
 github: "https://github.com/americocunhajr/McCloud"

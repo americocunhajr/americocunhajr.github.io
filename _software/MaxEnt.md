@@ -1,8 +1,8 @@
 ---
 title: "MaxEnt: Maximum Entropy Code"
 logo: "MaxEnt.png"
-description: "A Matlab-based code for calculating maximum entropy distributions and generating statistical samples from a given set of known information."
-date: 2022-11-21
+description: " This is a MATLAB tool for computing maximum entropy probability distributions given a set of known constraints. It allows users to generate statistical samples and analyze distributions that maximize entropy while satisfying given conditions. This tool is useful in various applications, including information theory, statistical physics, and probabilistic modeling."
+date: 2021-01-01
 website: "https://americocunhajr.github.io/MaxEnt"
 github: "https://github.com/americocunhajr/MaxEnt"
 docs: 
