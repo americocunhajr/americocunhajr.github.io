@@ -5,6 +5,8 @@ permalink: /NonlinearArt/
 author_profile: true
 ---
 
+---
+
 🔬✨ Nonlinear systems are mesmerizing mathematical structures that give rise to intricate patterns, chaotic beauty, and emergent complexity. This gallery is a carefully curated collection of “mathematical pieces of art” — some derived from my own research, others widely recognized in the scientific literature.
 
 💡✨ While these visualizations are rooted in rigorous mathematics and computational models, their artistic appeal transcends science. Each image captures the elegance of fractals, attractors, wave interactions, and bifurcations, revealing the hidden beauty of complex systems.
