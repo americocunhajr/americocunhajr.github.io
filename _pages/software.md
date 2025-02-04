@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🖥️ Software Tools"
+title: "🖥️ Software"
 permalink: /software/
 collection: software
 entries_layout: list
