@@ -1,3 +1,4 @@
+---
 title: "ORCHARD: Orchard Sprayer Tower Dynamics"
 logo: "ORCHARD.png"
 description: "A code for simulating the nonlinear stochastic dynamics of an orchard sprayer tower, applied in agricultural research."
@@ -8,3 +9,4 @@ docs:
 download: "https://github.com/americocunhajr/ORCHARD/zipball/main"
 layout: none
 collection: software
+---

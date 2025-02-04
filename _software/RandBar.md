@@ -1,3 +1,4 @@
+---
 title: "RandBar: Random Dynamics of a Bar System"
 logo: "RandBar.png"
 description: "A code for simulating the nonlinear stochastic dynamics of a bar structural system with attached discrete elements."
@@ -8,3 +9,4 @@ docs:
 download: "https://github.com/americocunhajr/RandBar/zipball/main"
 layout: none
 collection: software
+---

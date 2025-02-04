@@ -1,3 +1,4 @@
+---
 title: "ElectroM: ElectroMechanical Dynamic Code"
 logo: "ElectroM.png"
 description: "An easy-to-run Matlab code for simulating the nonlinear dynamics of an electromechanical system."
@@ -8,3 +9,4 @@ docs:
 download: "https://github.com/americocunhajr/ElectroM/zipball/main"
 layout: none
 collection: software
+---

@@ -1,3 +1,4 @@
+---
 title: "HarvesterOpt: Harvester Optimizer"
 logo: "HarvesterOpt.png"
 description: "A tool for optimizing bistable piezo-magneto-elastic energy harvesting systems to maximize recovered energy."
@@ -8,3 +9,4 @@ docs:
 download: "https://github.com/americocunhajr/HarvesterOpt/zipball/main"
 layout: none
 collection: software
+---

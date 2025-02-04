@@ -1,3 +1,4 @@
+---
 title: "ELEVEN: Elevator Brake Optimization and UQ"
 logo: "ELEVEN.png"
 description: "A code for robust optimization and uncertainty quantification of an elevator brake system, enhancing safety and efficiency."
@@ -8,3 +9,4 @@ docs:
 download: "https://github.com/americocunhajr/ELEVEN/zipball/main"
 layout: none
 collection: software
+---

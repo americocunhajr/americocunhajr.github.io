@@ -1,3 +1,4 @@
+---
 title: "FAILURE: Framework for Assessing Inherent Limitations and Uncertainties in Reliability Engineering"
 logo: "FAILURE.png"
 description: "A computational tool for assessing inherent limitations and uncertainties in reliability engineering, applied to plane stress problems."
@@ -8,3 +9,4 @@ docs:
 download: "https://github.com/americocunhajr/FAILURE/zipball/main"
 layout: none
 collection: software
+---

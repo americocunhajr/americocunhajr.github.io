@@ -1,3 +1,4 @@
+---
 title: "CROSS-OPT: Cross-Entropy Optimization Toolbox"
 logo: "CROSS-OPT.png"
 description: "A toolbox implementing the Cross-Entropy method for nonconvex optimization, enhanced with an augmented Lagrangian approach for handling constraints."
@@ -8,3 +9,4 @@ docs:
 download: "https://github.com/americocunhajr/CROSS-OPT/zipball/main"
 layout: none
 collection: software
+---

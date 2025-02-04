@@ -1,3 +1,4 @@
+---
 title: "PaSR-SDE: Premixed Turbulent Combustion Simulator"
 logo: "PaSR-SDE.png"
 description: "A Matlab code to simulate premixed turbulent combustion in a partially stirred reactor using stochastic micro-mixing models."
@@ -8,3 +9,4 @@ docs:
 download: "https://github.com/americocunhajr/PaSR-SDE/zipball/main"
 layout: none
 collection: software
+---
