@@ -14,11 +14,11 @@ author_profile: true
 {% assign softwares = site.software | sort: "title" %}
 
 {% for soft in softwares %}
-<table style="width:100%; margin-bottom: 0px; border-collapse:collapse; border: none; border-spacing: 0;">
+<table style="width:100%; margin-bottom: 15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
   <tr>
     <!-- Software Logo -->
     <td style="width: 150px; text-align: center; vertical-align: middle;">
-      <img src="{{ soft.logo }}" alt="{{ Logo }} logo" style="width: auto; height: 120px;">
+      <img src="{{ soft.logo }}" alt="{{ Logo }} logo" style="width: 150px; height: auto;">
     </td>
 
     <!-- Software Name & Description -->
