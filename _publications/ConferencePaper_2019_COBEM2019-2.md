@@ -7,7 +7,7 @@ doi:
 pdf: 
 arxiv: 
 hal: "https://hal.archives-ouvertes.fr/hal-02388463"
-image: "GraphicalAbstract_Conf_2019_COBEM2-19-2.png"
+image: "GraphicalAbstract_Conf_2019_COBEM2019-2.png"
 layout: none
 date: 2019-11-20
 collection: publications
