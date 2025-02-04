@@ -2,7 +2,7 @@
 title: "A tutorial on Sobol’ global sensitivity analysis applied to biological models"
 authors: "M. Tosin, A. M. A. Côrtes, and A. Cunha Jr"
 booktitle: "Networks in Systems Biology: Applications for Disease Modeling"
-editors: "F. A. B. Silva, N. Carels, M. T. Santos, F. J. P. Lopes"
+editor: "F. A. B. Silva, N. Carels, M. T. Santos, F. J. P. Lopes"
 publisher: "Springer Cham"
 year: "2020"
 pages: "93-118"
