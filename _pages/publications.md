@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publications"
+title: "📄 Publications"
 permalink: /publications/
 collection: publications
 entries_layout: list
