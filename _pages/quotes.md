@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "💭 Quotations from the World"
+title: "💭 Quotes"
 permalink: /quotes/
 author_profile: true
 ---
