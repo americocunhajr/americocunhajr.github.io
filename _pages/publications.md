@@ -15,14 +15,17 @@ author_profile: true
 
 📩 If you have any questions regarding the usage of these publications, feel free to contact me!
 
+---
 
 {% assign SortedPublications = site.publications | sort: "year" | reverse %}
 {% assign CurrentYear = 0 %}
 {% for pub in SortedPublications %}
   {% assign PubYear = pub.year | plus: 0 %}
   {% if PubYear != CurrentYear %}
-    <h2 class="year-heading">{{ PubYear }}</h2>
-    {% assign CurrentYear = PubYear %}
+  
+    <h2 style="margin-bottom: 5px;>{{ PubYear }}</h2>
+  
+  {% assign CurrentYear = PubYear %}
   {% endif %}
   <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
       <tr>
