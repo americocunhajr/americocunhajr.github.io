@@ -1,0 +1,12 @@
+---
+title: "CEopt: Cross-Entropy Optimization Package"
+logo: "CEopt.png"
+description: "CEopt is a software package for nonconvex optimization using the Cross-Entropy method. It includes tools for constrained optimization, leveraging an augmented Lagrangian approach."
+date: 2023-12-15
+website: "https://ceopt.org"
+github: "https://github.com/americocunhajr/CEopt"
+docs: 
+download: "https://github.com/americocunhajr/CEopt/zipball/main"
+layout: none
+collection: software
+---
