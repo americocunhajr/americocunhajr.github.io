@@ -16,11 +16,11 @@ Below is a collection of software packages I have developed or contributed to. T
 {% assign softwares = site.software | sort: "title" %}
 
 {% for soft in softwares %}
-<table style="width:100%; border:0; margin-bottom: 20px;">
+<table style="width:100%; border:0; margin-bottom: 0px;">
   <tr>
     <!-- Software Logo -->
     <td style="width: 80px; text-align: center; vertical-align: middle;">
-      <img src="/images/software/{{ soft.logo }}" alt="{{ soft.title }} logo" style="width: 60px; height: auto;">
+      <img src="_software/{{ soft.logo }}" alt="{{ Logo }} logo" style="width: 60px; height: auto;">
     </td>
 
     <!-- Software Name & Description -->
@@ -29,6 +29,10 @@ Below is a collection of software packages I have developed or contributed to. T
       <p>{{ soft.description }}</p>
 
       <!-- Links: GitHub, Docs, Download -->
+      {% if soft.url %}
+      <a href="{{ soft.url }}" target="_blank" class="btn btn-outline-primary btn-sm">🌐 URL</a>
+      {% endif %}
+      
       {% if soft.github %}
       <a href="{{ soft.github }}" target="_blank" class="btn btn-outline-primary btn-sm">💻 GitHub</a>
       {% endif %}
