@@ -9,12 +9,11 @@ author_profile: true
 
 🎨✨ While these visualizations are rooted in rigorous mathematics and computational models, their artistic appeal transcends science. Each image captures the elegance of fractals, attractors, wave interactions, and bifurcations, revealing the hidden beauty of complex systems.
 
-💡 Explore, zoom in, and immerse yourself in the fractal-like wonders of nonlinear mathematics. Whether you're a scientist, an artist, or simply an admirer of beauty, I invite you to see how math becomes art.
-
-🔍 Discover the elegance of chaos. Witness order emerging from randomness.
+💡 🔍 Explore, zoom in, and immerse yourself in the wonders of nonlinear mathematics. Whether you're a scientist, an artist, or simply an admirer of beauty, I invite you to see how math becomes art. Discover the elegance of chaos. Witness order emerging from randomness.
 
 🖼️ Enjoy the gallery!
 
+--
 
 <div class="gallery-container">
   <div class="gallery-item">
