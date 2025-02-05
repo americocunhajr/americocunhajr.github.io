@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Americo's Page"
 author_profile: true
