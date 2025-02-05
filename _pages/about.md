@@ -4,6 +4,7 @@ permalink: /
 title: "Americo's Page"
 author_profile: true
 redirect_from: 
+  - /home/
   - /about/
   - /about.html
 ---
