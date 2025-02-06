@@ -20,6 +20,36 @@ author_profile: true
 <div class="gallery-container">
   {% for art in site.NonlinearArt %}
   <div class="gallery-item">
+    <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+      <tr>
+        <!-- Thumbnail (Left) -->
+        <td style="width: 120px; height: 100px; text-align: left; vertical-align: middle; padding-right: 15px;">
+          <a href="{{ art.images[0] }}" data-lightbox="{{ art.title }}" data-title="{{ art.title }}">
+            <img src="{{ art.images[0] }}" alt="{{ Image }}" style="width: 120px; height: auto; max-height: 100px; border-radius: 4px; cursor: pointer;">
+          </a>
+        </td>
+        
+        <!-- Description (Right) -->
+        <td style="text-align: left; vertical-align: middle;">
+          <p><strong>{{ art.title }}</strong> - {{ art.description }}</p>
+          <p><small>📖 <a href="{{ art.reference }}" target="_blank">Reference</a></small></p>
+
+          <!-- Hidden additional images for gallery effect -->
+          {% for img in art.images offset:1 %}
+          <a href="{{ img }}" data-lightbox="{{ art.title }}" data-title="{{ art.title }}" style="display: none;"></a>
+          {% endfor %}
+        </td>
+      </tr>
+    </table>
+  </div>
+  {% endfor %}
+</div>
+
+
+
+<div class="gallery-container">
+  {% for art in site.NonlinearArt %}
+  <div class="gallery-item">
     {% for img in art.images %}
     <a href="{{ img }}" data-lightbox="{{ art.title }}" data-title="{{ art.title }}">
       <img src="{{ img }}" alt="{{ Image }}">
