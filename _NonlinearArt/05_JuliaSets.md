@@ -1,6 +1,7 @@
 ---
 title: "Julia Sets"
 images: 
+   - "JuliaSet0.png"
    - "JuliaSet1.png"
    - "JuliaSet2.png"
    - "JuliaSet3.png"
