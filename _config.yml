@@ -144,10 +144,7 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-  teaching:
+  NonlinearArt:
     output: true
     permalink: /:collection/:path/
 
