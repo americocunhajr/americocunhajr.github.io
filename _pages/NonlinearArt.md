@@ -25,7 +25,7 @@ author_profile: true
         <!-- Thumbnail (Left) -->
         <td style="width: 120px; height: 100px; text-align: left; vertical-align: middle; padding-right: 15px;">
           <a href="{{ art.images[0] }}" data-lightbox="{{ art.title }}" data-title="{{ art.title }}">
-            <img src="{{ art.images[0] }}" alt="{{ Image }}" style="width: 120px; height: auto; max-height: 100px; border-radius: 4px; cursor: pointer;">
+            <img src="{{ art.images }}" alt="{{ Image }}" style="width: 120px; height: auto; max-height: 100px; border-radius: 4px; cursor: pointer;">
           </a>
         </td>
         
@@ -41,22 +41,6 @@ author_profile: true
         </td>
       </tr>
     </table>
-  </div>
-  {% endfor %}
-</div>
-
-
-
-<div class="gallery-container">
-  {% for art in site.NonlinearArt %}
-  <div class="gallery-item">
-    {% for img in art.images %}
-    <a href="{{ img }}" data-lightbox="{{ art.title }}" data-title="{{ art.title }}">
-      <img src="{{ img }}" alt="{{ Image }}">
-    </a>
-    {% endfor %}
-    <p><strong>{{ art.title }}</strong> - {{ art.description }}</p>
-    <p><small>📖 <a href="{{ art.reference }}" target="_blank">Reference</a></small></p>
   </div>
   {% endfor %}
 </div>
