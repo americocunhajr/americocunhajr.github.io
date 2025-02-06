@@ -33,8 +33,8 @@ author_profile: true
         <!-- Description and Reference (Right) -->
         <td style="text-align: justify; vertical-align: middle; border: none;">
           <p><strong>{{ art.title }}</strong> - {{ art.description }}</p>
-          <p><small>📖 <strong>Reference:</strong> {{ art.reference }}  
-            <a href="{{ art.link }}" target="_blank">🔗 Read More Here</a></small></p>
+          <p><small>📖 <strong>Reference:</strong> {{ art.reference_text }}  
+            <a href="{{ art.reference_link: }}" target="_blank">🔗 Read More Here</a></small></p>
         </td>
       </tr>
       {% endfor %}
