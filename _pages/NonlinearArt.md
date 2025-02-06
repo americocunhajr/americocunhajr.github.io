@@ -18,6 +18,19 @@ author_profile: true
 ---
 
 <div class="gallery-container">
+  {% for art in site.NonlinearArt %}
+  <div class="gallery-item">
+    <a href="{{ art.image }}" data-lightbox="gallery" data-title="{{ art.title }}">
+      <img src="{{ art.image }}" alt="{{ art.title }}">
+    </a>
+    <p> <strong>{{ art.title }}</strong> - {{ art.description }}</p>
+    <p><small>📖 <a href="{{ art.reference }}" target="_blank">Reference</a></small></p>
+  </div>
+  {% endfor %}
+</div>
+
+
+<div class="gallery-container">
   <div class="gallery-item">
     <a href="/assets/images/LorenzAttractor.png" data-lightbox="gallery" data-title="Lorenz Attractor">
       <img src="assets/images/LorenzAttractor.png" alt="Lorenz Attractor">
