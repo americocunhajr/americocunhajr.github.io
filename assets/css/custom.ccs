@@ -124,13 +124,15 @@
 
 .gallery-item {
   width: 150px; /* Set a smaller max width */
+  height: 100px;
   text-align: center; /* Center text */
 }
 
 .gallery-item img {
-  width: 80%; /* Responsive image */
-  height: auto; /* Maintain aspect ratio */
+  width: auto; /* Responsive image */
+  height: 80%; /* Maintain aspect ratio */
   max-width: 150px; /* Ensure it is not too large */
+  max-heigth: 100px; /* Ensure it is not too large */
   display: block;
   margin: 0 auto;
   border-radius: 8px; /* Optional: rounded corners */
