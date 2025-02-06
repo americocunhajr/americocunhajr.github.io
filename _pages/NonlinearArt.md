@@ -18,7 +18,7 @@ author_profile: true
 ---
 
 <div class="gallery-container">
-  {% for art in site.nonlinear_art %}
+  {% for art in site.NonlinearArt %}
   <div class="gallery-item">
     {% for img in art.images %}
     <a href="{{ img }}" data-lightbox="{{ art.title }}" data-title="{{ art.title }}">
