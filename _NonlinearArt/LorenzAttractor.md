@@ -1,6 +1,6 @@
 ---
 title: "Lorenz Attractor"
-image: "LorenzAttractor.png"
+images: "LorenzAttractor.png"
 description: "A 3D chaotic system with butterfly-shaped trajectories, representing the sensitive dependence on initial conditions."
 reference: "https://en.wikipedia.org/wiki/Lorenz_system"
 layout: none
