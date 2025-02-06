@@ -30,18 +30,23 @@ author_profile: true
           </a>
         </td>
         
-        <!-- Description and Reference (Right) -->
+        <!-- Description and Reference (Only for first image) -->
+        {% if forloop.first %}
         <td style="text-align: justify; vertical-align: middle; border: none;">
           <p><strong>{{ art.title }}</strong> - {{ art.description }}</p>
           <p><small>📖 <strong>Reference:</strong> {{ art.reference_text }}  
-            <a href="{{ art.reference_link: }}" target="_blank">🔗 Read More Here</a></small></p>
+            <a href="{{ art.reference_link }}" target="_blank">🔗 Read More Here</a></small></p>
         </td>
+        {% else %}
+        <td style="text-align: justify; vertical-align: middle; border: none;"></td>
+        {% endif %}
       </tr>
       {% endfor %}
     {% endfor %}
     
   </table>
 </div>
+
 
 
 
