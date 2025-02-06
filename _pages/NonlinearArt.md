@@ -18,76 +18,19 @@ author_profile: true
 ---
 
 <div class="gallery-container">
-  {% for art in site.NonlinearArt %}
+  {% for art in site.nonlinear_art %}
   <div class="gallery-item">
-    <a href="{{ art.image }}" data-lightbox="gallery" data-title="{{ art.title }}">
-      <img src="{{ art.image }}" alt="{{ art.title }}">
+    {% for img in art.images %}
+    <a href="{{ img }}" data-lightbox="{{ art.title }}" data-title="{{ art.title }}">
+      <img src="{{ img }}" alt="{{ art.title }}">
     </a>
-    <p> <strong>{{ art.title }}</strong> - {{ art.description }}</p>
+    {% endfor %}
+    <p><strong>{{ art.title }}</strong> - {{ art.description }}</p>
     <p><small>📖 <a href="{{ art.reference }}" target="_blank">Reference</a></small></p>
   </div>
   {% endfor %}
 </div>
 
-
-<div class="gallery-container">
-  <div class="gallery-item">
-    <a href="/assets/images/LorenzAttractor.png" data-lightbox="gallery" data-title="Lorenz Attractor">
-      <img src="assets/images/LorenzAttractor.png" alt="Lorenz Attractor">
-    </a>
-    <p> <strong>Lorenz Attractor</strong> - A 3D chaotic system with butterfly-shaped trajectories.</p>
-  </div>
-  
-  <div class="gallery-item">
-    <a href="/assets/images/StandardMap.png" data-lightbox="gallery" data-title="Standard Map">
-      <img src="assets/images/StandardMap.png" alt="Standard Map">
-    </a>
-    <p> <strong>Standard Map</strong> - Infinite complexity generated from simple recursive rules.</p>
-  </div>
-  
-  <div class="gallery-item">
-    <a href="/assets/images/CircleMap1.jpg" data-lightbox="gallery" data-title="Circle Map">
-      <img src="assets/images/CircleMap1.jpg" alt="Circle Map">
-    </a>
-    <p> <strong>Circle Map 1</strong> - xxx.</p>
-  </div>
-
-  <div class="gallery-item">
-    <a href="/assets/images/CircleMap2.jpg" data-lightbox="gallery" data-title="Circle Map">
-      <img src="assets/images/CircleMap2.jpg" alt="Circle Map">
-    </a>
-    <p> <strong>Circle Map 2</strong> - xxx.</p>
-  </div>
-
-  <div class="gallery-item">
-    <a href="/assets/images/CircleMap3.jpg" data-lightbox="gallery" data-title="Circle Map">
-      <img src="assets/images/CircleMap3.jpg" alt="Circle Map">
-    </a>
-    <p> <strong>Circle Map 3</strong> - xxx.</p>
-  </div>
-
-  <div class="gallery-item">
-    <a href="/assets/images/Mandelbrot1.jpg" data-lightbox="gallery" data-title="Mandelbrot Set">
-      <img src="assets/images/Mandelbrot1.jpg" alt="Mandelbrot Set">
-    </a>
-    <p> <strong>Mandelbrot Set</strong> - xxx.</p>
-  </div>
-
-  <div class="gallery-item">
-    <a href="/assets/images/JuliaSet1.png" data-lightbox="gallery" data-title="Julia Sets">
-      <img src="assets/images/JuliaSet1.png" alt="Julia Sets">
-    </a>
-    <p> <strong>Julia Sets</strong> - xxx.</p>
-  </div>
-
-  <div class="gallery-item">
-    <a href="/assets/images/LorenzAttractor.png" data-lightbox="gallery" data-title="Bifurcation Diagram">
-      <img src="assets/images/BifurcationDiagram.png" alt="Bifurcation Diagram">
-    </a>
-    <p> <strong>Bifurcation Diagram</strong> - A roadmap to chaos in dynamical systems.</p>
-  </div>
-  
-</div>
 
 ---
 
