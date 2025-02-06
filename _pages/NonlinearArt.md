@@ -22,7 +22,7 @@ author_profile: true
   <div class="gallery-item">
     {% for img in art.images %}
     <a href="{{ img }}" data-lightbox="{{ art.title }}" data-title="{{ art.title }}">
-      <img src="{{ img }}" alt="{{ art.title }}">
+      <img src="{{ img }}" alt="{{ Image }}">
     </a>
     {% endfor %}
     <p><strong>{{ art.title }}</strong> - {{ art.description }}</p>
