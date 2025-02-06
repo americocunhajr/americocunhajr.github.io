@@ -24,17 +24,17 @@ author_profile: true
       {% for img in art.images %}
       <tr>
         <!-- Thumbnail (Left) -->
-        <td style="width: 120px; height: 100px; text-align: left; vertical-align: middle; padding-right: 15px; border: none;">
+        <td style="width: 120px; height: 100px; text-align: center; vertical-align: top; padding-right: 15px; border: none;">
           <a href="{{ img }}" data-lightbox="{{ art.title }}" data-title="{{ art.title }}">
             <img src="{{ img }}" alt="{{ Thumbnail }}" style="width: 120px; height: auto; max-height: 100px; border-radius: 4px; cursor: pointer;">
           </a>
         </td>
         
         <!-- Description and Reference (Right) -->
-        <td style="text-align: left; vertical-align: middle; border: none;">
+        <td style="text-align: justify; vertical-align: middle; border: none;">
           <p><strong>{{ art.title }}</strong> - {{ art.description }}</p>
-          <p><small>📖 <strong>Reference:</strong> {{ art.reference_text }}  
-            <a href="{{ art.reference_link }}" target="_blank">🔗 Read More</a></small></p>
+          <p><small>📖 <strong>Reference:</strong> {{ art.reference }}  
+            <a href="{{ art.link }}" target="_blank">🔗 Read More Here</a></small></p>
         </td>
       </tr>
       {% endfor %}
