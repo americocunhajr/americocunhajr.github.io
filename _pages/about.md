@@ -4,7 +4,6 @@ permalink: /
 title: "Americo's Page"
 author_profile: true
 redirect_from: 
-  - /home/
   - /about/
   - /about.html
 ---
@@ -30,19 +29,19 @@ My work spans several fields, including:
 - 🔄 Inverse Problems
 - 🎯 Reduced-Order Modeling
 - ⚙️ Non-convex optimization
-- 📊 Machine Learning
+- 📊 Machine Learning & Data Science
+- 🖥️ Computational Mechanics
 
 💡 **Emerging Technologies**
-- 🤖 Artificial Intelligence & Data Science
 - 🔋 Energy Harvesting
 - 〰️ Metamaterials
 - 🦢 Origami Engineering
+- 🤖 Artificial Intelligence
 
 🌍 **Applications and Challenges**
-- 🏛️ Applied Mechanics
+- 🔍 Structural Health Monitoring
 - 🦠 Epidemiology
 - 🏥 Biomedical Engineering
-- 🔍 Structural Health Monitoring
 - 🌡️ Climate Change
 
 ## 🧑‍🔬 My Research Group
