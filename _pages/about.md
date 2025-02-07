@@ -83,3 +83,13 @@ For further information about myself or my work, please check my CVs here:
   document.getElementById("email").innerHTML = 
     '<a href="mailto:' + 'americo' + '.' + 'cunha' + '@' + 'uerj' + '.' + 'br">' + 'americo' + '.' + 'cunha' + '@' + 'uerj' + '.' + 'br' + '</a>';
 </script>
+
+---
+<div style="text-align: center; margin-top: 20px;">
+    <a href="https://clustrmaps.com/site/180pt" target="_blank" title="Visit tracker" rel="nofollow">
+        <img src="https://clustrmaps.com/map_v2.png?cl=cbe090&amp;w=a&amp;d=HRTH8C49cgDrRoftM8LbwG0ArldkrPcAhc0ZPlbgsQI&amp;co=2d78ad&amp;ct=ffffff&amp;t=tt" 
+        alt="Website Visit Tracker" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
+    </a>
+</div>
+
+---
