@@ -25,12 +25,12 @@ My work spans several fields, including:
 
 📢 **Mathematical & Computational Modeling**
 - 🌀 Nonlinear Dynamics
+- 🖥️ Computational Mechanics
 - 🎲 Uncertainty Quantification
 - 🔄 Inverse Problems
 - 🎯 Reduced-Order Modeling
 - ⚙️ Non-convex optimization
 - 📊 Machine Learning & Data Science
-- 🖥️ Computational Mechanics
 
 💡 **Emerging Technologies**
 - 🔋 Energy Harvesting
