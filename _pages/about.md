@@ -81,7 +81,7 @@ For further information about myself or my work, please check my CVs here:
 📧 Email: <span id="email"></span>
 <script>
   document.getElementById("email").innerHTML = 
-    '<a href="mailto:' + 'americo' + '.' + 'cunha' + '@' + 'uerj' + '.' + 'br">' + 'americo' + '.' + 'cunha' + '@' + 'uerj' + '.' + 'br' + '</a>';
+    '<a href="mailto:' + 'americo' + '@' + 'lncc' + '.' + 'br">' + 'americo' + '@' + 'lncc' + '.' + 'br' + '</a>';
 </script>
 
 ---
