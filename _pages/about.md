@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-## 👋 Welcome to My Page!
+## 🙋‍♂️ About me
 
 I am a Research Staff member of the [National Laboratory of Scientific Computing (LNCC)](https://www.lncc.br){:target="_blank"}, a research unit of the Brazilian Ministry of Science, Technology, and Innovation. I also hold a position of Associate Professor of Applied Mathematics at [Rio de Janeiro State University (UERJ)](https://www.uerj.br){:target="_blank"}.
 
