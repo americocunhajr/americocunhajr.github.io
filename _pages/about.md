@@ -27,6 +27,12 @@ I actively contribute to both national and international scientific communities:
 - I am a Council Member of ABCM (Brazilian Society of Mechanical Sciences and Engineering), elected for the 2021–2025 term. I previously served as Executive Secretary of the Committee on Nonlinear and Chaotic Phenomena.
 - Within SBMAC (Brazilian Society for Applied and Computational Mathematics), I coordinate the Committee on Dynamics, Control, and Their Applications in Science and Technology.
 
+🌍 Global Collaborations
+
+We maintain a strong international research network, with active partnerships involving institutions in Brazil 🇧🇷, the United States 🇺🇸, France 🇫🇷, Italy 🇮🇹, Poland 🇵🇱, Portugal 🇵🇹, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, China 🇨🇳, Russia 🇷🇺, Peru 🇵🇪, and Saudi Arabia 🇸🇦.
+
+Explore my academic missions via this [map](https://www.google.com/maps/d/u/0/edit?mid=1FNzydcMk6KBmC95wmewKa-9ovvz8WjUx&usp=sharing){:target="_blank"} 🗺️. 
+
 🏅 Honors and Recognition
 - 2023 ABMEC Award for Young Scientists
 - CNPq Research Fellow (PQ-2)
@@ -60,13 +66,7 @@ My work spans several fields, including:
 - 🏥 Biomedical Engineering
 - 🌡️ Climate Change
 
-## 🌐 Networking
-
-We have a solid history of research partnerships with several institutions worldwide.
-
-🌍 Global Collaborations 🇧🇷 🇺🇸 🇫🇷 🇮🇹 🇵🇱 🇵🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇨🇳 🇷🇺 🇵🇪 🇸🇦
-
-## 📜 Academic Lineage
+## 📜 Academic Lineage & Networks
 
 My academic lineage traces back to some of the greatest mathematicians in history, including Euler, Lagrange, Gauss, and Hilbert.
 
@@ -79,9 +79,6 @@ My academic lineage traces back to some of the greatest mathematicians in histor
 📊 Collaboration Distance Metrics:
 - **[Erdös number](http://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"}**: 4  
 - **[Einstein number](https://en.wikipedia.org/wiki/Albert_Einstein){:target="_blank"}**: 6  
-
-🗺️ Explore my academic missions via this [map](https://www.google.com/maps/d/u/0/edit?mid=1FNzydcMk6KBmC95wmewKa-9ovvz8WjUx&usp=sharing){:target="_blank"} . 
-
 
 ## 📄 Curriculum Vitae
 For further information about myself or my work, please check my CVs here:
