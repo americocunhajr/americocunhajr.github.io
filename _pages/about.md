@@ -66,7 +66,7 @@ My work spans several fields, including:
 - 🏥 Biomedical Engineering
 - 🌡️ Climate Change
 
-## 📜 Academic Lineage & Networks
+## 📜 Academic Lineage & Network
 
 My academic lineage traces back to some of the greatest mathematicians in history, including Euler, Lagrange, Gauss, and Hilbert.
 
