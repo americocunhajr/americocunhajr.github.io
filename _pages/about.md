@@ -13,12 +13,28 @@ redirect_from:
 
 I am a Research Staff member of the [National Laboratory of Scientific Computing (LNCC)](https://www.lncc.br){:target="_blank"}, a research unit of the Brazilian Ministry of Science, Technology, and Innovation. I also hold a position of Associate Professor of Applied Mathematics at [Rio de Janeiro State University (UERJ)](https://www.uerj.br){:target="_blank"}.
 
-My research lies at the intersection of Applied Mathematics, Mechanical Engineering, and Computational Science. It revolves around understanding complex systems, from origami metamaterials to epidemic phenomena, employing advanced computational, analytical, and data-driven techniques to direct and inverse analyze nonlinear dynamical systems.
+My research lies at the interface of Applied Mathematics, Mechanical Engineering, and Computational Science, and it is driven by a deep interest in understanding, designing, controlling, and optimizing complex nonlinear systems. From origami-inspired metamaterials to epidemiological modeling, I employ computational, analytical, and data-driven strategies to address forward and inverse problems in nonlinear dynamics.
 
 📌 What drives me?
 
 I focus on both quantitative modeling and qualitative analysis of nonlinear systems, seeking to obtain nontrivial insights about their behavior, helping in this way to design better engineering systems, optimize their performance, and develop innovative control strategies.
 
+🔗 Scientific Leadership
+
+I actively contribute to both national and international scientific communities:
+- I am a Board Member of NoDyS – International Society of Nonlinear Dynamics, being the only elected representative from the Southern Hemisphere.
+- I serve as Second Secretary of ABMEC (Brazilian Association for Computational Methods in Engineering).
+- I am a Council Member of ABCM (Brazilian Society of Mechanical Sciences and Engineering), elected for the 2021–2025 term. I previously served as Executive Secretary of the Committee on Nonlinear and Chaotic Phenomena.
+- Within SBMAC (Brazilian Society for Applied and Computational Mathematics), I coordinate the Committee on Dynamics, Control, and Their Applications in Science and Technology.
+
+🏅 Honors and Recognition
+- 2023 ABMEC Award for Young Scientists
+- CNPq Research Fellow (PQ-2)
+- FAPERJ Young Scientist Fellow (JCNE)
+
+📚 Editorial Activities
+- Associate Editor Journal of Vibration Engineering and Technologies (Springer-Nature)
+- Affiliated Editor of PLOS ONE
 
 ## 🔬 Research Interests
 My work spans several fields, including:
