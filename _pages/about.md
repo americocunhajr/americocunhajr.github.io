@@ -22,10 +22,10 @@ I focus on both quantitative modeling and qualitative analysis of nonlinear syst
 🔗 Scientific Leadership
 
 I actively contribute to both national and international scientific communities:
-- I am a Board Member of NoDyS – International Society of Nonlinear Dynamics, being the only elected representative from the Southern Hemisphere.
-- I serve as Second Secretary of ABMEC - Brazilian Association for Computational Methods in Engineering.
-- I am a Council Member of ABCM - Brazilian Society of Mechanical Sciences and Engineering, elected for the 2021–2025 term. I previously served as Executive Secretary of the Committee on Nonlinear and Chaotic Phenomena.
-- Within SBMAC - Brazilian Society for Applied and Computational Mathematics, I coordinate the Committee on Dynamics, Control, and Their Applications in Science and Technology.
+- I am a Board Member of the [International Society of Nonlinear Dynamics (NoDyS)](https://nodys.org){:target="_blank"}, being the only elected representative from the Southern Hemisphere.
+- I serve as Second Secretary of the [Brazilian Association for Computational Methods in Engineering (ABMEC)](https://abmec.org.br){:target="_blank"}.
+- I am a Council Member of the [Brazilian Society of Mechanical Sciences and Engineering (ABCM)](https://abcm.org.br){:target="_blank"}, elected for the 2021–2025 term. I previously served as Executive Secretary of the Committee on Nonlinear and Chaotic Phenomena.
+- Within the [Brazilian Society for Applied and Computational Mathematics (SBMAC)](https://www.sbmac.org.br){:target="_blank"}, I coordinate the Committee on Dynamics, Control, and Their Applications in Science and Technology.
 
 🌍 Global Collaborations
 
