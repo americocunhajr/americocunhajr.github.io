@@ -13,7 +13,7 @@ redirect_from:
 
 I am a Research Staff member of the [National Laboratory of Scientific Computing (LNCC)](https://www.lncc.br){:target="_blank"}, a research unit of the Brazilian Ministry of Science, Technology, and Innovation. I also hold a position of Associate Professor of Applied Mathematics at [Rio de Janeiro State University (UERJ)](https://www.uerj.br){:target="_blank"}.
 
-My research work lies in the intersection between Applied Mathematics, Mechanical Engineering, and Computational Science, revolving around understanding complex systems, from origami metamaterials to epidemic phenomena.
+My research lies at the intersection of Applied Mathematics, Mechanical Engineering, and Computational Science. It revolves around understanding complex systems, from origami metamaterials to epidemic phenomena, employing advanced computational, analytical, and data-driven techniques to direct and inverse analyze nonlinear dynamical systems.
 
 📌 What drives me?
 
@@ -44,16 +44,13 @@ My work spans several fields, including:
 - 🏥 Biomedical Engineering
 - 🌡️ Climate Change
 
-## 🧑‍🔬 My Research Group
-
-In my group, we apply advanced computational, analytical, and data-driven techniques to model nonlinear systems.
+## 🌐 Networking
 
 We have a solid history of research partnerships with several institutions worldwide.
 
 🌍 Global Collaborations 🇧🇷 🇺🇸 🇫🇷 🇮🇹 🇵🇱 🇵🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇨🇳 🇷🇺 🇵🇪 🇸🇦
 
-
-## 📜 Academic Lineage & Networks
+## 📜 Academic Lineage
 
 My academic lineage traces back to some of the greatest mathematicians in history, including Euler, Lagrange, Gauss, and Hilbert.
 
