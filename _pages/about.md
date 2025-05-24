@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-## 🙋‍♂️ About me
-
 I am a Research Staff member of the [National Laboratory of Scientific Computing (LNCC)](https://www.lncc.br){:target="_blank"}, a research unit of the Brazilian Ministry of Science, Technology, and Innovation. I also hold a position of Associate Professor of Applied Mathematics at [Rio de Janeiro State University (UERJ)](https://www.uerj.br){:target="_blank"}.
 
 My research lies at the interface of Applied Mathematics, Mechanical Engineering, and Computational Science, and it is driven by a deep interest in understanding, designing, controlling, and optimizing complex nonlinear systems. From origami-inspired metamaterials to epidemiological modeling, I employ computational, analytical, and data-driven strategies to address forward and inverse problems in nonlinear dynamics.
