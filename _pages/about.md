@@ -42,8 +42,21 @@ Explore my academic missions via this [map](https://www.google.com/maps/d/u/0/ed
 - Associate Editor, Journal of Vibration Engineering and Technologies (Springer-Nature)
 - Affiliated Editor, PLOS ONE
 
+📜 Academic Lineage
+
+My academic lineage traces back to some of the greatest mathematicians in history, including Euler, Lagrange, Gauss, and Hilbert. Check my academic genealogy:
+
+📌 [Simple Genealogy Tree](MathGenDSc_short.png){:target="_blank"} <br> 
+📌 [Detailed Genealogy Tree](MathGenDSc_long.pdf){:target="_blank"} <br> 
+📌 [Math Genealogy Page](https://www.mathgenealogy.org/id.php?id=190869){:target="_blank"}
+
+📊 Collaboration Distance Metrics:
+- **[Erdös number](http://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"}**: 4  
+- **[Einstein number](https://en.wikipedia.org/wiki/Albert_Einstein){:target="_blank"}**: 6  
+
+
 ## 🔬 Research Interests
-My work spans several fields, including:
+My research work is fundamentally interdisciplinary, spanning several fields:
 
 📢 **Mathematical & Computational Modeling**
 - 🌀 Nonlinear Dynamics
@@ -66,19 +79,6 @@ My work spans several fields, including:
 - 🏥 Biomedical Engineering
 - 🌡️ Climate Change
 
-## 📜 Academic Lineage & Network
-
-My academic lineage traces back to some of the greatest mathematicians in history, including Euler, Lagrange, Gauss, and Hilbert.
-
-🔗 Check my academic genealogy:
-
-📌 [Simple Genealogy Tree](MathGenDSc_short.png){:target="_blank"} <br> 
-📌 [Detailed Genealogy Tree](MathGenDSc_long.pdf){:target="_blank"} <br> 
-📌 [Math Genealogy Page](https://www.mathgenealogy.org/id.php?id=190869){:target="_blank"}
-
-📊 Collaboration Distance Metrics:
-- **[Erdös number](http://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"}**: 4  
-- **[Einstein number](https://en.wikipedia.org/wiki/Albert_Einstein){:target="_blank"}**: 6  
 
 ## 📄 Curriculum Vitae
 For further information about myself or my work, please check my CVs here:
