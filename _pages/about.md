@@ -36,6 +36,7 @@ Explore my academic missions via this [map](https://www.google.com/maps/d/u/0/ed
 - FAPERJ Young Scientist Fellow (JCNE)
 
 📚 Editorial Activities
+- Associate Editor, Journal of Vibration and Acoustics (ASME)
 - Associate Editor, Journal of Vibration Engineering and Technologies (Springer-Nature)
 - Affiliated Editor, PLOS ONE
 
