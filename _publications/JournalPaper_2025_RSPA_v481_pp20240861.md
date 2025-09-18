@@ -1,7 +1,7 @@
 ---
 title: "Advanced creep modelling for polymers: a variable-order fractional calculus approach"
 authors: "J. G. Telles Ribeiro, A. Cunha Jr"
-journal: "Journal of Applied Mechanics"
+journal: "Proceedings of the Royal Society A"
 year: "2025"
 volume: "481"
 number: 
