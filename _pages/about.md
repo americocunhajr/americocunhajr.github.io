@@ -81,7 +81,7 @@ My research work is fundamentally interdisciplinary, spanning several fields:
 ## 📄 Curriculum Vitae
 For further information about myself or my work, please check my CVs here:
 
-📝 [CV in English](https://drive.google.com/file/d/1TTF6RU8CBNPgh3Uh-0OEpKpwrd4frplP/view?usp=sharing){:target="_blank"} <br> 
+📝 [CV in English](https://drive.google.com/file/d/1m0DGmAE4bOQUszcDB40d7u4acfuv0s0I/view?usp=sharing){:target="_blank"} <br> 
 📝 [CV in Portuguese (Lattes)](http://lattes.cnpq.br/5659403706694491){:target="_blank"}  
 
 
