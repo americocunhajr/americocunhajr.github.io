@@ -12,8 +12,6 @@ I am a Research Staff member of the [National Laboratory of Scientific Computing
 
 My research lies at the interface of Applied Mathematics, Mechanical Engineering, and Computational Science, and it is driven by a deep interest in understanding, designing, controlling, and optimizing complex nonlinear systems. From origami-inspired metamaterials to epidemiological modeling, I employ computational, analytical, and data-driven strategies to address forward and inverse problems in nonlinear dynamics.
 
-📌 What drives me?
-
 I focus on both quantitative modeling and qualitative analysis of nonlinear systems, seeking to obtain nontrivial insights about their behavior, helping in this way to design better engineering systems, optimize their performance, and develop innovative control strategies.
 
 🔗 Scientific Leadership
