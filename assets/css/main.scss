@@ -39,3 +39,72 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+
+
+/* =========================================================
+   Dark theme overrides (body + bars + dropdown)
+   ========================================================= */
+
+@import "minimal-mistakes";
+
+/* 1) Make page body match the old top bar color */
+body {
+  background-color: #0f172a; /* same as your current top bar */
+  color: #e5e7eb;
+}
+
+/* 2) Give masthead/top bar a DIFFERENT color from the body */
+.masthead,
+.greedy-nav {
+  background-color: #0b1220;   /* distinct from body */
+  border-bottom: 1px solid #2a3142;
+}
+
+/* Make masthead links readable */
+.masthead a,
+.greedy-nav a {
+  color: #e5e7eb;
+}
+.masthead a:hover,
+.greedy-nav a:hover {
+  color: #9fd3e6;
+}
+
+/* 3) Give footer/bottom bar a DIFFERENT color too */
+.page__footer {
+  background-color: #0b1220;
+  border-top: 1px solid #2a3142;
+}
+.page__footer,
+.page__footer a {
+  color: #c7cbd1;
+}
+.page__footer a:hover {
+  color: #9fd3e6;
+}
+
+/* 4) Fix the dropdown (the “Follow” / greedy-nav hidden links panel) */
+.greedy-nav .hidden-links {
+  background: #0b1220;         /* dark panel instead of white */
+  border: 1px solid #2a3142;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.45);
+}
+
+/* little triangle pointer */
+.greedy-nav .hidden-links:before {
+  border-color: transparent transparent #0b1220 transparent;
+}
+.greedy-nav .hidden-links:after {
+  border-color: transparent transparent #2a3142 transparent;
+}
+
+/* dropdown items */
+.greedy-nav .hidden-links a {
+  color: #e5e7eb;
+}
+.greedy-nav .hidden-links a:hover {
+  background: rgba(255,255,255,0.06);
+  color: #9fd3e6;
+}
