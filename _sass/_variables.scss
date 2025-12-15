@@ -55,31 +55,24 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-/* Neutral palette tuned for dark UI (not pure black / not pure white) */
-$gray                       : #9aa1ac;
-$dark-gray                  : #e5e7eb;   // main text
-$darker-gray                : #f1f5f9;   // headings / emphasized text
-$light-gray                 : #2a3142;   // UI surfaces / subtle separators
-$lighter-gray               : #1f2937;   // secondary surfaces
+$gray                       : #7a8288;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
 
-/* Base */
-$body-color                 : #121826;   // deep blue-graphite
-$background-color           : #121826;
-
-/* Code blocks */
-$code-background-color      : #0f172a;   // slightly darker than background
-$code-background-color-dark : #020617;   // deepest (rarely used)
-
-/* Text & borders */
+$body-color                 : #fff;
+$background-color           : #fff;
+$code-background-color      : #fafafa;
+$code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : #2a3142;
+$border-color               : $lighter-gray;
 
-/* Accents */
-$primary-color              : #94a3b8;   // muted slate (UI accents)
-$success-color              : #5fb3a2;
-$warning-color              : #fbbf24;
-$danger-color               : #f87171;
-$info-color                 : #7fbcd2;   // link base color
+$primary-color              : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #2f7f93;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -110,10 +103,10 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $info-color;
-$link-color-hover           : #9fd3e6;   // lighter on hover for clarity
-$link-color-visited         : #a9cfe0;   // gentle visited color (still readable)
-$masthead-link-color        : #e5e7eb;   // masthead is usually darker; keep links light
-$masthead-link-color-hover  : #ffffff;
+$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#fff, $link-color, 25%);
+$masthead-link-color        : $primary-color;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 
 /*
@@ -170,4 +163,3 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
-
