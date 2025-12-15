@@ -108,6 +108,26 @@ $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
+/**************************************** new color ***********************************/
+/* Base */
+$body-color                 : #f8f9fa;   // off-white acadêmico
+$background-color           : #f8f9fa;
+
+/* Texto */
+$text-color                 : #2d3339;   // cinza escuro, alto conforto
+
+/* Bordas */
+$border-color               : #e1e4e8;
+
+/* Código */
+$code-background-color      : #f1f3f5;
+$code-background-color-dark : #e9ecef;
+
+/* Identidade */
+$primary-color              : #4b5563;   // slate gray acadêmico
+$info-color                 : #1f6f8b;   // azul discreto (links)
+/**************************************************************************************/
+
 
 /*
    Breakpoints
