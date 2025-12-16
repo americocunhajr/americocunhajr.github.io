@@ -223,3 +223,20 @@ compress_html:
 #  category: "categories"
 #  tag: "tags"
 #  software: "software"
+
+
+# Source - https://stackoverflow.com/a
+# Posted by dabell, modified by community. See post 'Timeline' for change history
+# Retrieved 2025-12-16, License - CC BY-SA 4.0
+
+# In _config.yml
+# theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark # Or auto if you want it to switch with your system settings.
+
+
+
+
