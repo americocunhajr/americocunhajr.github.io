@@ -17,8 +17,8 @@ author:
   avatar           : "americo.png"  # Profile image filename in /images/
   name             : "Americo Cunha Jr"
   bio              : "I deal with nonlinear systems."
-  employer         : ""
-  email            : ""
+  employer         : 
+  email            : 
 
   # Academic Profiles
   googlescholar    : "https://scholar.google.com/citations?user=4r36RpoAAAAJ&hl=en"
