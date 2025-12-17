@@ -227,4 +227,4 @@ compress_html:
 #  tag: "tags"
 #  software: "software"
 
-
+minimal_mistakes_skin: "default" # or "air", "aqua", "contrast", etc.
