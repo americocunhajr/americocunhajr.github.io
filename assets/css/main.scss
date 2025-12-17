@@ -1,0 +1,41 @@
+---
+# Only the main Sass file needs front matter
+---
+@charset "utf-8";
+
+/* 1. Load the skin first */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+
+/* 2. Load the essential tools (Breakpoints & Variables) */
+/* These MUST come before "masthead" or "navigation" */
+@import "vendor/breakpoint/breakpoint"; 
+@import "vendor/susy/susy";
+@import "variables";
+@import "mixins";
+
+/* 3. Load the core theme reset and base */
+@import "minimal-mistakes"; 
+@import "reset";
+@import "base";
+
+/* 4. Load the components */
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";    // <--- This controls the top bar
+@import "navigation";  // <--- This controls the menu
+@import "footer";
+@import "syntax";
+@import "forms";
+@import "page";
+@import "archive";
+@import "sidebar";
+
+/* 5. Load external plugins and print */
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
