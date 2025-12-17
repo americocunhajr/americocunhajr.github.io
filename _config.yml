@@ -228,3 +228,9 @@ compress_html:
 #  software: "software"
 
 minimal_mistakes_skin: "default" # or "air", "aqua", "contrast", etc.
+
+masthead:
+  minimal_mistakes_skin: "default"
+  greedy_navigation:
+    enabled: true
+    label: "Menu"
