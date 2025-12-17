@@ -86,9 +86,13 @@ masthead:
     enabled: true
     label: "Menu"
 
+
 # =====================================================
 # Plugins
 # =====================================================
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
