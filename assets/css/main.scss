@@ -1,0 +1,53 @@
+---
+# Only the main Sass file needs front matter
+---
+@charset "utf-8";
+
+/*
+ * Minimal Mistakes Jekyll Theme
+ *
+ * - Michael Rose
+ * - mademistakes.com
+ * - https://twitter.com/mmistakes
+ *
+ */
+
+/* Load the chosen skin from _config.yml */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+
+/* Load the theme */
+@import "minimal-mistakes";
+
+/* Optional: if you really have these partials in your project/theme, keep them.
+   If your build still fails with "File to import not found", delete the missing ones. */
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/susy/susy";
+
+@import "variables";
+@import "mixins";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
