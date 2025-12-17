@@ -109,48 +109,30 @@ $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 
-/*
+/* ==========================================================================
    Breakpoints
    ========================================================================== */
 
 @include breakpoint-set("to ems", true);
-/*
-$small                      : 400px;
-$medium                     : 500px;
-$medium-wide                : 550px;
-$large                      : 1200px;
-$x-large                    : 1800px;
-*/
 
-$small                      : 600px !default;
-$medium                     : 768px !default;
-$medium-wide                : 900px !default;
-$large                      : 925px !default;
-$x-large                    : 1280px !default;
+$small     : 600px !default;
+$medium    : 768px !default;
+$medium-wide: 900px !default;
+$large     : 1024px !default;  // Change from 925 to 1024
+$x-large   : 1280px !default;
 
-/*
+/* ==========================================================================
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 200px !default;
-$right-sidebar-width        : 300px !default;
-$right-sidebar-width-wide   : 400px !default;
-
 $susy: (
   columns: 12,
-  column-width: 120px,
   gutters: 1/4,
   math: fluid,
   output: float,
   gutter-position: after,
-  container: $large,
+  container: $large, // This now correctly matches 1024px
   global-box-sizing: border-box,
-  // debug: (
-  //   image: show,
-  //   color: blue,
-  //   output: overlay,
-  //   toggle: top right,
-  // ),
 );
 
 
