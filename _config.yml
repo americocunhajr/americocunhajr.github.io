@@ -75,8 +75,9 @@ analytics:
 # =====================================================
 breadcrumbs              : true
 words_per_minute         : 180
+future                   : true # Essential for your 2025 publications
 read_more                : "enabled"
-talkmap_link             : false
+highlight_browser_action : "ace"
 
 # Masthead/Navigation Settings (Fixes the Desktop Menu)
 masthead:
@@ -85,64 +86,20 @@ masthead:
     enabled: true
     label: "Menu"
 
-# Comments (Optional)
-comments:
-  provider               : false 
-
-# Atom/RSS Feed
-atom_feed:
-  hide                   : false
-  path                   : feed.xml
+# =====================================================
+# Plugins
+# =====================================================
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
 
 # =====================================================
-# Reading & Conversion Settings
-# =====================================================
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - CHANGELOG
-  - Gemfile
-  - LICENSE
-  - node_modules
-  - README
-  - tmp
-  - vendor
-
-keep_files:
-  - .git
-
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-# Markdown & Syntax Highlighting
-markdown: kramdown
-highlighter: rouge
-excerpt_separator: "\n\n"
-incremental: false
-
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-# =====================================================
-# Collections (Publications, Teaching, Portfolio, Talks)
+# Collections
 # =====================================================
 collections:
   publications:
@@ -155,7 +112,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Page Layout Defaults
+# =====================================================
+# Layout Defaults
+# =====================================================
 defaults:
   - scope:
       path: ""
@@ -177,36 +136,46 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  - scope:
+      path: ""
+      type: NonlinearArt
+    values:
+      layout: single
+      author_profile: true
 
 # =====================================================
-# Styling & Performance
+# Reading & Conversion Settings
 # =====================================================
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/vendor
+  - Gemfile
+  - LICENSE
+  - node_modules
+  - README
+  - tmp
+  - vendor
+
 sass:
   sass_dir: _sass
   style: compressed
 
-permalink: /:categories/:title/
-timezone: Etc/UTC
-
-# =====================================================
-# Plugins
-# =====================================================
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
-
-whitelist:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
 
 # =====================================================
 # Archives
@@ -217,24 +186,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
-
-# =====================================================
-# Taxonomies
-# =====================================================
-#taxonomies:
-#  category: "categories"
-#  tag: "tags"
-#  software: "software"
-
-minimal_mistakes_skin: "default" # or "air", "aqua", "contrast", etc.
-
-masthead:
-  minimal_mistakes_skin: "default"
-  greedy_navigation:
-    enabled: true
-    label: "Menu"
