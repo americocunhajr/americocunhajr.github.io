@@ -10,9 +10,6 @@ url                      : "https://americocunhajr.github.io"
 baseurl                  : "" # Keep blank if deploying on GitHub Pages at username.github.io
 repository               : "americocunhajr/academicpages.github.io" # Your GitHub repository
 
-theme: jekyll-theme-primer
-# remote_theme: jekyll/minima   # REMOVA ou comente
-
 # =====================================================
 # Site Author - Sidebar Information
 # =====================================================
