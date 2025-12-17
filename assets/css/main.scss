@@ -3,25 +3,14 @@
 ---
 @charset "utf-8";
 
-/* 1. Skin must come first to set colors and variables */
+/* 1. Load the skin first */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 
 /* 2. Load the theme core */
-/* This pulls in Breakpoints, Susy, and all necessary mixins automatically */
+/* This single line automatically loads 'container', 'mixins', and 'breakpoints' correctly */
 @import "minimal-mistakes";
 
-/* 3. Custom/Local Overrides */
-/* ONLY keep the imports below if you have these files in your local _sass folder 
-   and you have made changes to them. If you haven't changed them, you can 
-   delete these lines safely as "minimal-mistakes" already loaded them.
-*/
-@import "variables";
-@import "mixins";
-@import "masthead";
-@import "navigation";
-
-/* 4. Extras (FontAwesome is usually needed) */
+/* 3. Load FontAwesome for icons */
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
-@import "print";
