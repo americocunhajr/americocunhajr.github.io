@@ -181,10 +181,14 @@ sass:
 permalink: /:categories/:title/
 timezone: Etc/UTC
 
+# added by Gemini
+remote_theme: "mmistakes/minimal-mistakes"
+
 # =====================================================
 # Plugins
 # =====================================================
 plugins:
+  - jekyll-remote-theme # gemini
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
