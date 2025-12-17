@@ -78,6 +78,13 @@ words_per_minute         : 180
 read_more                : "enabled"
 talkmap_link             : false
 
+# Masthead/Navigation Settings (Fixes the Desktop Menu)
+masthead:
+  minimal_mistakes_skin: "default"
+  greedy_navigation:
+    enabled: true
+    label: "Menu"
+
 # Comments (Optional)
 comments:
   provider               : false 
@@ -181,14 +188,11 @@ sass:
 permalink: /:categories/:title/
 timezone: Etc/UTC
 
-# added by Gemini
-remote_theme: "mmistakes/minimal-mistakes"
-
 # =====================================================
 # Plugins
 # =====================================================
 plugins:
-  - jekyll-remote-theme # gemini
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
