@@ -3,39 +3,25 @@
 ---
 @charset "utf-8";
 
-/* 1. Skin must come first to set colors */
+/* 1. Skin must come first to set colors and variables */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 
-/* 2. Essential tools (Breakpoints & Variables) */
-/* These MUST be here for the menu to know when to expand */
-@import "vendor/breakpoint/breakpoint"; 
-@import "variables";
-@import "mixins";
-@import "vendor/susy/susy";
-
-/* 3. The Theme Core */
+/* 2. Load the theme core */
+/* This pulls in Breakpoints, Susy, and all necessary mixins automatically */
 @import "minimal-mistakes";
 
-/* 4. Individual Components */
-@import "reset";
-@import "base";
-@import "utilities";
-@import "animations";
-@import "tables";
-@import "buttons";
-@import "notices";
-@import "masthead";    // Logic for the top bar
-@import "navigation";  // Logic for the menu items
-@import "footer";
-@import "syntax";
-@import "forms";
-@import "page";
-@import "archive";
-@import "sidebar";
+/* 3. Custom/Local Overrides */
+/* ONLY keep the imports below if you have these files in your local _sass folder 
+   and you have made changes to them. If you haven't changed them, you can 
+   delete these lines safely as "minimal-mistakes" already loaded them.
+*/
+@import "variables";
+@import "mixins";
+@import "masthead";
+@import "navigation";
 
-/* 5. Extras */
+/* 4. Extras (FontAwesome is usually needed) */
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup/magnific-popup";
 @import "print";
