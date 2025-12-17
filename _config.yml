@@ -138,9 +138,9 @@ kramdown:
 # Collections (Publications, Teaching, Portfolio, Talks)
 # =====================================================
 collections:
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  #publications:
+  #  output: true
+  #  permalink: /:collection/:path/
   software:
     output: true
     permalink: /:collection/:path/
