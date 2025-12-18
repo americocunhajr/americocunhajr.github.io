@@ -82,7 +82,9 @@ highlight_browser_action : "ace"
 # Masthead Settings
 masthead:
   minimal_mistakes_skin: "default"
-  greedy_navigation: false # Disable the "hamburger" menu on desktop
+  greedy_navigation:
+    enabled: true
+    label: "Menu"
 
 # Navigation
 navigation:
