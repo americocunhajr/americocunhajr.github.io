@@ -87,15 +87,15 @@ masthead:
     label: "Menu"
 
 # Navigation
-navigation:
-  - title: "Publications"
-    url: /publications/
-  - title: "Software"
-    url: /software/
-  - title: "Nonlinear Art"
-    url: /NonlinearArt/
-  - title: "Quotes"
-    url: /quotes/
+#navigation:
+#  - title: "Publications"
+#    url: /publications/
+#  - title: "Software"
+#    url: /software/
+#  - title: "Nonlinear Art"
+#    url: /NonlinearArt/
+#  - title: "Quotes"
+#    url: /quotes/
 
 
 # =====================================================
