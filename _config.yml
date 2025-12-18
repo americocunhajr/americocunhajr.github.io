@@ -91,7 +91,6 @@ highlight_browser_action : "ace"
 # Plugins
 # =====================================================
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
 
 plugins:
   - jekyll-remote-theme
