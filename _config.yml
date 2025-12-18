@@ -79,12 +79,10 @@ future                   : true # Essential for your 2025 publications
 read_more                : "enabled"
 highlight_browser_action : "ace"
 
-# Masthead/Navigation Settings (Fixes the Desktop Menu)
-#masthead:
-#  minimal_mistakes_skin: "default"
-#  greedy_navigation:
-#    enabled: true
-#    label: "Menu"
+# Masthead Settings
+masthead:
+  minimal_mistakes_skin: "default"
+  greedy_navigation: false # Disable the "hamburger" menu on desktop
 
 # Navigation
 navigation:
