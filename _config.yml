@@ -80,11 +80,11 @@ read_more                : "enabled"
 highlight_browser_action : "ace"
 
 # Masthead/Navigation Settings (Fixes the Desktop Menu)
-masthead:
-  minimal_mistakes_skin: "default"
-  greedy_navigation:
-    enabled: true
-    label: "Menu"
+#masthead:
+#  minimal_mistakes_skin: "default"
+#  greedy_navigation:
+#    enabled: true
+#    label: "Menu"
 
 
 # =====================================================
