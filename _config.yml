@@ -62,7 +62,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-og_image                 : "images/og-image.png" # Default OpenGraph image
+og_image                 : "images/og-image.jpg" # Default OpenGraph image
 
 # Google Analytics (Optional)
 analytics:
