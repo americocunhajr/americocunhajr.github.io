@@ -14,28 +14,3 @@
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
-
-// Esconde o menu hambúrguer no desktop
-@media (min-width: 768px) {
-  .nav__toggle {
-    display: none !important;
-  }
-
-  .nav__items {
-    display: flex !important;
-    justify-content: center;
-    gap: 1.5rem;
-  }
-}
-
-// Mostra menu hambúrguer no mobile
-@media (max-width: 767px) {
-  .nav__toggle {
-    display: block;
-  }
-
-  .nav__items {
-    display: none; // será ativado com JS quando clicar no toggle
-  }
-}
-
