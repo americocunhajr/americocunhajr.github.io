@@ -86,6 +86,17 @@ highlight_browser_action : "ace"
 #    enabled: true
 #    label: "Menu"
 
+# Navigation
+navigation:
+  - title: "Publications"
+    url: /publications/
+  - title: "Software"
+    url: /software/
+  - title: "Nonlinear Art"
+    url: /NonlinearArt/
+  - title: "Quotes"
+    url: /quotes/
+
 
 # =====================================================
 # Plugins
