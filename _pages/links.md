@@ -20,6 +20,11 @@ hidden: true
     <li><a href="https://www.semanticscholar.org/author/Americo-Cunha/47058383" target="_blank"><i class="ai ai-semantic-scholar" aria-hidden="true"></i> Semantic Scholar</a></li>
     <li><a href="https://uerj.academia.edu/AmericoCunhaJr" target="_blank"><i class="ai ai-academia" aria-hidden="true"></i> Academia.edu</a></li>
     <li><a href="https://www.growkudos.com/profile/americo_cunha" target="_blank"><i class="fas fa-lightbulb" aria-hidden="true"></i> Kudos</a></li>
+<li>
+  <a href="https://cv.hal.science/americo-cunha-jr" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-hal" aria-hidden="true"></i> HAL
+  </a>
+</li>
 </ul>
 
 ---
