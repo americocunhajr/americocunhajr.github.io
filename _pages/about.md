@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Staff member of the [National Laboratory of Scientific Computing (LNCC)](https://www.lncc.br){:target="_blank"}, a research unit of the Brazilian Ministry of Science, Technology, and Innovation. I also hold a position of Associate Professor of Applied Mathematics at [Rio de Janeiro State University (UERJ)](https://www.uerj.br){:target="_blank"}.
+I am a computational scientist with a background in applied mathematics and mechanical engineering, working on the analysis, design, and optimization of complex nonlinear systems. My research is driven by a core question: how can we understand, predict, and control systems whose behavior emerges from strong nonlinearity, uncertainty, and interaction across scales?
 
-My research lies at the interface of Applied Mathematics, Mechanical Engineering, and Computational Science, and it is driven by a deep interest in understanding, designing, controlling, and optimizing complex nonlinear systems. From origami-inspired metamaterials to epidemiological modeling, I employ computational, analytical, and data-driven strategies to address forward and inverse problems in nonlinear dynamics.
+My work lies at the intersection of nonlinear dynamics, data-driven modeling, and artificial intelligence, combining analytical reasoning with large-scale computation. I address both forward and inverse problems, developing models that not only reproduce observed phenomena but also provide insight into the mechanisms that govern system behavior.
 
-I focus on both quantitative modeling and qualitative analysis of nonlinear systems, seeking to obtain nontrivial insights about their behavior, helping in this way to design better engineering systems, optimize their performance, and develop innovative control strategies.
+I work across a broad range of applications, including origami-inspired metamaterials, energy harvesting systems, smart and adaptive structures, and epidemiological dynamics. A recurring theme in my research is the integration of quantitative modeling and qualitative analysis to uncover nontrivial features such as multistability, bifurcations, robustness, and uncertainty—elements that directly inform engineering design, control strategies, and decision-making.
 
-🔗 Scientific Leadership
+Much of my work involves building computational models, running simulations, and extracting meaning from data to support better prediction, optimization, and resilience in engineered and societal systems. These projects are typically developed through international and interdisciplinary collaborations, connecting theory, computation, and real-world applications.
 
-I actively contribute to both national and international scientific communities:
-- I am a Board Member of the [International Society of Nonlinear Dynamics (NoDyS)](https://nodys.org){:target="_blank"}, being the only elected representative from the Southern Hemisphere.
-- I serve as Second Secretary of the [Brazilian Association for Computational Methods in Engineering (ABMEC)](https://abmec.org.br){:target="_blank"}.
-- I am a Council Member of the [Brazilian Society of Mechanical Sciences and Engineering (ABCM)](https://abcm.org.br){:target="_blank"}, elected for the 2021–2025 term. I previously served as Executive Secretary of the Committee on Nonlinear and Chaotic Phenomena.
-- Within the [Brazilian Society for Applied and Computational Mathematics (SBMAC)](https://www.sbmac.org.br){:target="_blank"}, I coordinate the Committee on Dynamics, Control, and Their Applications in Science and Technology.
+✨ Overall, my work is guided by a long-term vision: using mathematics and computation to turn complexity into understanding — and understanding into solutions for technological and societal problems.
+
+🧭 Scientific Leadership
+
+Beyond research, I am actively involved in scientific leadership, editorial work, and governance. I currently serve as Associate Editor of the Journal of Vibration and Acoustics (ASME) and of the Journal of Vibration Engineering & Technologies (Springer Nature), and as Affiliated Editor at PLOS ONE. I am also a Board Member of the International Society of Nonlinear Dynamics (NoDyS), where I serve as the only elected representative from the Southern Hemisphere, and Second Secretary of the Brazilian Association for Computational Methods in Engineering (ABMEC). I previously served as a Council Member of the Brazilian Society of Mechanical Sciences and Engineering (ABCM), including a term as Executive Secretary of the Committee on Nonlinear and Chaotic Phenomena.
 
 🌍 Global Collaborations
 
@@ -32,11 +32,6 @@ Explore my academic missions via this [map](https://www.google.com/maps/d/u/0/ed
 - 2023 ABMEC Award for Young Scientists
 - CNPq Research Fellow (PQ-2)
 - FAPERJ Young Scientist Fellow (JCNE)
-
-📚 Editorial Activities
-- Associate Editor, Journal of Vibration and Acoustics (ASME)
-- Associate Editor, Journal of Vibration Engineering and Technologies (Springer-Nature)
-- Affiliated Editor, PLOS ONE
 
 📜 Academic Lineage
 
