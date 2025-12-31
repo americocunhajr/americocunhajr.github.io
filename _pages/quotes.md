@@ -112,6 +112,9 @@ author_profile: true
 🇨🇳 "Reading ten thousand books is not as useful as traveling ten thousand miles." <br />
 — Chinese proverb
 
+🇦🇪 "Wishing does not make a poor man rich." <br />
+— Emirati proverb
+
 🇨🇭 "Reason does not come before years." <br />
 — Swiss proverb
 
@@ -120,5 +123,8 @@ author_profile: true
 
 🇱🇺 "Necessity has no law." <br />
 — Luxembourg proverb
+
+🇦🇼 "When in doubt, restrain yourself." <br />
+— Aruban proverb
 
 ---
