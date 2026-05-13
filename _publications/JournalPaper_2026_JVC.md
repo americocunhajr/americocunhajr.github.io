@@ -8,6 +8,8 @@ number:
 pages: 
 doi: "https://doi.org/10.1177/10775463251405394"
 pdf: "https://doi.org/10.1177/10775463251405394"
+arxiv: 
+hal: "https://hal.science/hal-05608755v1"
 image: "GraphicalAbstract_Paper_2026_JVC.png"
 layout: none
 date: 2025-11-19
