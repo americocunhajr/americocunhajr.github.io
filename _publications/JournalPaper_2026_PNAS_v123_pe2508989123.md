@@ -8,7 +8,7 @@ number: "7"
 pages: "e2508989123"
 doi: "https://doi.org/10.1073/pnas.2508989123"
 pdf: "https://doi.org/10.1073/pnas.2508989123"
-medxiv: "https://www.medrxiv.org/content/10.1101/2025.05.12.25327419v1" 
+medrxiv: "https://www.medrxiv.org/content/10.1101/2025.05.12.25327419v1" 
 hal: 
 image: "GraphicalAbstract_Paper_2026_PNAS.png"
 layout: none
