@@ -7,7 +7,9 @@ volume: "14"
 number: 
 pages: "292"
 doi: "https://doi.org/10.1007/s42417-026-02518-4"
-pdf: "https://arxiv.org/abs/2605.05235"
+pdf: "https://doi.org/10.1007/s42417-026-02518-4"
+arxiv: "https://arxiv.org/abs/2605.05235" 
+hal: "https://hal.science/hal-05616438v1"
 image: "GraphicalAbstract_Paper_2026_JVET.png"
 layout: none
 date: 2026-04-28
