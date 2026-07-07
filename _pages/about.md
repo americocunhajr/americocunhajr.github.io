@@ -20,7 +20,7 @@ Much of my work involves building computational models, running simulations, and
 
 🧭 Scientific Leadership
 
-Beyond research, I am actively involved in scientific leadership, editorial work, and governance. I currently serve as Associate Editor of the Journal of Vibration and Acoustics (ASME) and of the Journal of Vibration Engineering & Technologies (Springer Nature), and as Affiliated Editor at PLOS ONE. I am also a Board Member of the International Society of Nonlinear Dynamics (NoDyS), where I serve as the only elected representative from the Southern Hemisphere, and Second Secretary of the Brazilian Association for Computational Methods in Engineering (ABMEC). I previously served as a Council Member of the Brazilian Society of Mechanical Sciences and Engineering (ABCM), including a term as Executive Secretary of the Committee on Nonlinear and Chaotic Phenomena.
+Beyond research, I am actively engaged in scientific leadership, editorial activities, and professional governance. I currently serve as Editor of [Nonlinear Dynamics](https://link.springer.com/journal/11071){:target="_blank"}, Associate Editor of the [Journal of Vibration and Acoustics (ASME)](https://asmedigitalcollection.asme.org/vibrationacoustics){:target="_blank"} and the [Journal of Vibration Engineering & Technologies (Springer Nature)](https://link.springer.com/journal/42417){:target="_blank"}, and previously served as an Affiliated Editor of [PLOS ONE](https://journals.plos.org/plosone/){:target="_blank"}. I am also a Board Member of the [International Society of Nonlinear Dynamics (NoDyS)](https://nodys.org){:target="_blank"}, where I serve as the only elected representative from the Southern Hemisphere, and Second Secretary of the [Brazilian Association for Computational Methods in Engineering (ABMEC)](){:target="_blank"}. Previously, I served on the Council of the [Brazilian Society of Mechanical Sciences and Engineering (ABCM)](https://www.abcm.org.br){:target="_blank"}, including a term as Executive Secretary of its Committee on Nonlinear and Chaotic Phenomena. I also served as Coordinator of the Dynamics, Control and Applications Committee of the [Brazilian Society of Computational and Applied Mathematics (SBMAC)](https://www.sbmac.org.br){:target="_blank"}.
 
 🌍 Global Collaborations
 
@@ -59,8 +59,8 @@ My research work is fundamentally interdisciplinary, spanning several fields:
 - 📊 Machine Learning & Data Science
 
 💡 **Emerging Technologies**
-- 🔋 Energy Harvesting
 - 〰️ Metamaterials
+- 🔋 Energy Harvesting
 - 🦢 Origami Engineering
 - 🤖 Artificial Intelligence
 
@@ -68,13 +68,11 @@ My research work is fundamentally interdisciplinary, spanning several fields:
 - 🔍 Structural Health Monitoring
 - 🦠 Epidemiology
 - 🏥 Biomedical Engineering
-- 🌡️ Climate Change
-
 
 ## 📄 Curriculum Vitae
 For further information about myself or my work, please check my CVs here:
 
-📝 [CV in English](https://drive.google.com/file/d/1y15Ty-7G6miHoCjiWIoshovEVHbhEmvP/view?usp=sharing){:target="_blank"} <br> 
+📝 [CV in English](https://drive.google.com/file/d/1A3TrcRg8nBmv0eugDcGvSB_fQRhUjIyN/view?usp=sharing){:target="_blank"} <br> 
 📝 [CV in Portuguese (Lattes)](http://lattes.cnpq.br/5659403706694491){:target="_blank"}  
 
 
