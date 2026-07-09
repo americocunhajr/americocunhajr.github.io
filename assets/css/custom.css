@@ -173,13 +173,23 @@
   }
 }*/
 
-
 /* Mobile Follow menu */
-@media screen and (max-width: 768px) {
+/*@media screen and (max-width: 768px) {
   .author__urls {
     background: #1d2430 !important;
     border: 1px solid #354050 !important;
     box-shadow: 0 12px 30px rgba(0,0,0,0.45);
+  }
+}*/
+
+/* Mobile Follow menu */
+@media screen and (max-width: 768px) {
+  #site-nav .hidden-links:not(.hidden) {
+    display: block !important;
+  }
+
+  #site-nav .hidden-links.hidden {
+    display: none !important;
   }
 }
 
