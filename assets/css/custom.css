@@ -181,16 +181,6 @@
     border: 1px solid #354050 !important;
     box-shadow: 0 12px 30px rgba(0,0,0,0.45);
   }
-
-  .author__urls a,
-  .author__urls i,
-  .author__urls .fa,
-  .author__urls .fab,
-  .author__urls .fas,
-  .author__urls .ai {
-    color: #e8edf3 !important;
-    opacity: 1 !important;
-  }
 }
 
 /* ==========================================================
