@@ -37,7 +37,7 @@
       resetMenus();
     });
 
-    $(document).off("click.siteTopMenu", "#site-nav > button");
+/*    $(document).off("click.siteTopMenu", "#site-nav > button");
     $(document).on("click.siteTopMenu", "#site-nav > button", function(e) {
       e.preventDefault();
       e.stopPropagation();
@@ -46,6 +46,25 @@
 
       $hidden.toggleClass("hidden").toggle();
       $(this).toggleClass("close");
+    });*/
+
+    $("#site-nav > button").off();
+  
+    $("#site-nav > button").on("click", function(e) {
+      e.preventDefault();
+      e.stopImmediatePropagation();
+    
+      var $hidden = $("#site-nav > .hidden-links");
+    
+      if ($hidden.hasClass("hidden")) {
+        $hidden.removeClass("hidden").css("display", "block");
+        $(this).addClass("close");
+      } else {
+        $hidden.addClass("hidden").css("display", "none");
+        $(this).removeClass("close");
+      }
+    
+      return false;
     });
 
     $(document).off("click.authorFollow", ".author__urls-wrapper button");
