@@ -403,3 +403,23 @@ code {
   background: var(--panel-2) !important;
   color: var(--text) !important;
 }
+
+
+/* ========================================================== */
+/* Footer social icons */
+/* ========================================================== */
+
+
+.page__footer a,
+.page__footer i,
+.page__footer .fab,
+.page__footer .fas,
+.page__footer .fa,
+.page__footer .ai {
+    color: var(--text-soft) !important;
+}
+
+.page__footer a:hover,
+.page__footer a:hover i {
+    color: var(--link-hover) !important;
+}
