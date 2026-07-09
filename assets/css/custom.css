@@ -1,8 +1,7 @@
 /* ==========================================================
-   SOCIAL ICONS (CUSTOM)
+   SOCIAL ICONS
    ========================================================== */
 
-/* General custom social icons */
 .social-icons {
   list-style: none;
   padding: 0;
@@ -15,28 +14,17 @@
 .social-icons a {
   font-size: 18px;
   text-decoration: none;
-  color: #333;
   transition: color 0.3s ease-in-out;
-}
-
-.social-icons a:hover {
-  color: #0077b5;
 }
 
 .social-icons i {
   margin-right: 8px;
 }
 
-/* Restore Minimal Mistakes author sidebar */
-.author__urls.social-icons {
-  display: block;
-}
-
 .author__urls.social-icons li {
   display: block !important;
   margin: 0 0 8px 0 !important;
 }
-
 
 
 /* ==========================================================
@@ -48,40 +36,32 @@
   align-items: center;
   margin-bottom: 20px;
   padding: 15px;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid var(--border);
 }
 
 .article-metadata {
   font-size: 14px;
-  color: #555;
 }
-
-/* Year headings */
 
 .year-heading {
   font-size: 24px;
   font-weight: bold;
   margin-top: 30px;
-  color: #3f51b5;
-  border-bottom: 2px solid #3f51b5;
+  color: var(--link) !important;
+  border-bottom: 2px solid var(--link);
   padding-bottom: 5px;
 }
-
-/* Publication table */
 
 .pub-table {
   width: 100%;
   margin-bottom: 15px;
   border-collapse: collapse !important;
-  border: none !important;
   table-layout: fixed;
 }
 
 .pub-table td {
   border: none !important;
 }
-
-/* Left icon */
 
 .pub-icon {
   width: 5%;
@@ -90,8 +70,6 @@
   vertical-align: middle;
   padding-right: 10px;
 }
-
-/* Publication information */
 
 .pub-info {
   width: 75%;
@@ -102,20 +80,12 @@
 .pub-title {
   font-size: 18px;
   font-weight: bold;
-  color: #0073e6 !important;
 }
 
-.pub-authors {
-  font-size: 14px;
-  color: #555;
-}
-
+.pub-authors,
 .pub-journal {
   font-size: 14px;
-  color: #777;
 }
-
-/* Thumbnail */
 
 .pub-thumbnail {
   width: 190px !important;
@@ -131,7 +101,6 @@
   max-width: 190px !important;
   border-radius: 1px;
 }
-
 
 
 /* ==========================================================
@@ -162,39 +131,8 @@
 }
 
 
-/* Keep author Follow menu closed on mobile load */
-/*@media screen and (max-width: 768px) {
-  .author__urls-wrapper .author__urls {
-    display: none !important;
-  }
-
-  .author__urls-wrapper .author__urls.is--visible {
-    display: block !important;
-  }
-}*/
-
-/* Mobile Follow menu */
-/*@media screen and (max-width: 768px) {
-  .author__urls {
-    background: #1d2430 !important;
-    border: 1px solid #354050 !important;
-    box-shadow: 0 12px 30px rgba(0,0,0,0.45);
-  }
-}*/
-
-/* Mobile Follow menu */
-/*@media screen and (max-width: 768px) {
-  #site-nav .hidden-links:not(.hidden) {
-    display: block !important;
-  }
-
-  #site-nav .hidden-links.hidden {
-    display: none !important;
-  }
-}*/
-
 /* ==========================================================
-   REFINED DARK THEME
+   DARK THEME
    ========================================================== */
 
 :root {
@@ -211,7 +149,6 @@
   --accent: #3b82f6;
 }
 
-/* Base */
 html,
 body {
   background: var(--bg) !important;
@@ -227,16 +164,23 @@ body {
   color: var(--text) !important;
 }
 
-p, li, td, th {
+p,
+li,
+td,
+th {
   color: var(--text-soft) !important;
 }
 
-h1, h2, h3, h4, h5, h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
 .page__title {
   color: var(--text) !important;
 }
 
-/* Links */
 a {
   color: var(--link) !important;
 }
@@ -245,17 +189,18 @@ a:hover {
   color: var(--link-hover) !important;
 }
 
-/* Top menu */
+
+/* ==========================================================
+   TOP MENU
+   ========================================================== */
+
 .masthead {
-  background: var(--bg-soft) !important;
+  background: var(--bg) !important;
   border-bottom: 1px solid var(--border) !important;
-  box-shadow: 0 2px 18px rgba(0,0,0,0.25);
+  box-shadow: none !important;
 }
 
-.masthead__inner-wrap {
-  background: transparent !important;
-}
-
+.masthead__inner-wrap,
 .greedy-nav {
   background: transparent !important;
 }
@@ -269,7 +214,6 @@ a:hover {
   color: var(--link-hover) !important;
 }
 
-/* Mobile dropdown menu */
 .greedy-nav .hidden-links {
   background: var(--panel) !important;
   border: 1px solid var(--border) !important;
@@ -284,7 +228,6 @@ a:hover {
   border-bottom: 1px solid var(--border) !important;
 }
 
-/* Hamburger */
 .greedy-nav button {
   background: var(--panel-2) !important;
   border: 1px solid var(--border) !important;
@@ -296,10 +239,14 @@ a:hover {
   background: var(--text) !important;
 }
 
-/* Sidebar */
+
+/* ==========================================================
+   SIDEBAR / AUTHOR
+   ========================================================== */
+
 .sidebar {
-  background: var(--panel) !important;
-  border-right: 1px solid var(--border);
+  background: transparent !important;
+  border-right: none !important;
 }
 
 .author__content,
@@ -320,24 +267,26 @@ a:hover {
   box-shadow: 0 0 0 4px rgba(59,130,246,0.18);
 }
 
-/* Author links/icons */
 .author__urls a,
 .author__urls li,
 .author__urls i,
 .author__urls .fa,
-.author__urls .fab,
+.author__urls .far,
 .author__urls .fas,
+.author__urls .fab,
 .author__urls .ai {
   color: var(--text-soft) !important;
+  opacity: 1 !important;
 }
 
 .author__urls a:hover,
 .author__urls a:hover i,
+.author__urls a:hover .fa,
+.author__urls a:hover .fab,
 .author__urls a:hover .ai {
   color: var(--link-hover) !important;
 }
 
-/* Follow button on mobile */
 .author__urls-wrapper button {
   background: var(--accent) !important;
   color: #ffffff !important;
@@ -348,7 +297,6 @@ a:hover {
   background: #5b9cff !important;
 }
 
-/* Follow dropdown on mobile */
 @media screen and (max-width: 768px) {
   .author__urls {
     background: var(--panel) !important;
@@ -365,13 +313,16 @@ a:hover {
   }
 }
 
-/* Breadcrumbs */
+
+/* ==========================================================
+   CONTENT BLOCKS
+   ========================================================== */
+
 .breadcrumbs,
 .breadcrumbs a {
   color: var(--link) !important;
 }
 
-/* Tables/cards/publications */
 .pub-table,
 .archive__item {
   background: var(--panel) !important;
@@ -389,14 +340,6 @@ a:hover {
   color: var(--muted) !important;
 }
 
-/* Footer */
-.page__footer {
-  background: var(--bg-soft) !important;
-  border-top: 1px solid var(--border);
-  color: var(--muted) !important;
-}
-
-/* Rules and code */
 hr {
   border-color: var(--border) !important;
 }
@@ -405,4 +348,15 @@ pre,
 code {
   background: var(--panel-2) !important;
   color: var(--text) !important;
+}
+
+
+/* ==========================================================
+   FOOTER
+   ========================================================== */
+
+.page__footer {
+  background: var(--bg) !important;
+  border-top: 1px solid var(--border);
+  color: var(--muted) !important;
 }
