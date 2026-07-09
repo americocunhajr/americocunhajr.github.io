@@ -1,3 +1,40 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+(function($) {
+  function forceResponsiveMenu() {
+    var $nav = $('#site-nav');
+    var $btn = $('#site-nav button');
+    var $visible = $('#site-nav .visible-links');
+    var $hidden = $('#site-nav .hidden-links');
+
+    if (!$nav.length) return;
+
+    if (window.matchMedia('(max-width: 768px)').matches) {
+      $visible.children('.masthead__menu-item:not(.masthead__menu-item--lg)').appendTo($hidden);
+      $btn.show().removeClass('hidden close');
+      $hidden.addClass('hidden').hide();
+    } else {
+      $hidden.children().appendTo($visible);
+      $btn.hide().addClass('hidden').removeClass('close');
+      $hidden.addClass('hidden').hide();
+    }
+  }
+
+  $(function() {
+    forceResponsiveMenu();
+
+    $(window).on('resize.forceResponsiveMenu', function() {
+      forceResponsiveMenu();
+    });
+
+    $('#site-nav button').off('click').on('click', function() {
+      var $hidden = $('#site-nav .hidden-links');
+      $(this).toggleClass('close');
+      $hidden.toggleClass('hidden').toggle();
+    });
+  });
+})(jQuery);
+</script>
+
 {% include analytics.html %}
