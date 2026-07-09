@@ -8,57 +8,55 @@
       return window.matchMedia("(max-width: 768px)").matches;
     }
 
-    function forceResponsiveMenu() {
-      var $btn = $("#site-nav > button");
+    function resetMenus() {
+      var $topButton = $("#site-nav > button");
       var $visible = $("#site-nav > .visible-links");
       var $hidden = $("#site-nav > .hidden-links");
+      var $follow = $(".author__urls-wrapper .author__urls");
 
       if (isMobile()) {
         $visible.children(".masthead__menu-item:not(.masthead__menu-item--lg)").appendTo($hidden);
 
-        $btn.removeClass("hidden close");
-        $btn.get(0).style.setProperty("display", "block", "important");
+        $topButton.removeClass("hidden close").show();
+        $hidden.addClass("hidden").hide();
 
-        $hidden.addClass("hidden");
-        $hidden.get(0).style.setProperty("display", "none", "important");
+        $follow.hide();
       } else {
         $hidden.children().appendTo($visible);
 
-        $btn.addClass("hidden").removeClass("close");
-        $btn.get(0).style.setProperty("display", "none", "important");
+        $topButton.addClass("hidden").removeClass("close").hide();
+        $hidden.addClass("hidden").hide();
 
-        $hidden.addClass("hidden");
-        $hidden.get(0).style.setProperty("display", "none", "important");
+        $follow.show();
       }
     }
 
-    forceResponsiveMenu();
+    resetMenus();
 
-    $(window).off("resize.forceResponsiveMenu").on("resize.forceResponsiveMenu", function() {
-      forceResponsiveMenu();
+    $(window).off("resize.siteMenus").on("resize.siteMenus", function() {
+      resetMenus();
     });
 
-    $(document).off("click.mobileTopMenu");
-
-    $(document).on("click.mobileTopMenu", "#site-nav > button", function(e) {
+    $(document).off("click.siteTopMenu", "#site-nav > button");
+    $(document).on("click.siteTopMenu", "#site-nav > button", function(e) {
       e.preventDefault();
       e.stopPropagation();
 
-      if (!isMobile()) return;
+      var $hidden = $("#site-nav > .hidden-links");
 
-      var menu = $("#site-nav > .hidden-links").get(0);
+      $hidden.toggleClass("hidden").toggle();
+      $(this).toggleClass("close");
+    });
 
-      if (!menu) return;
+    $(document).off("click.authorFollow", ".author__urls-wrapper button");
+    $(document).on("click.authorFollow", ".author__urls-wrapper button", function(e) {
+      e.preventDefault();
+      e.stopPropagation();
 
-      if (menu.classList.contains("hidden")) {
-        menu.classList.remove("hidden");
-        menu.style.setProperty("display", "block", "important");
-        this.classList.add("close");
-      } else {
-        menu.classList.add("hidden");
-        menu.style.setProperty("display", "none", "important");
-        this.classList.remove("close");
-      }
+      $(this)
+        .closest(".author__urls-wrapper")
+        .find(".author__urls")
+        .toggle();
     });
 
   });
