@@ -183,7 +183,7 @@
 }*/
 
 /* Mobile Follow menu */
-@media screen and (max-width: 768px) {
+/*@media screen and (max-width: 768px) {
   #site-nav .hidden-links:not(.hidden) {
     display: block !important;
   }
@@ -191,7 +191,7 @@
   #site-nav .hidden-links.hidden {
     display: none !important;
   }
-}
+}*/
 
 /* ==========================================================
    REFINED DARK THEME
