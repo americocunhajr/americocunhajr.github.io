@@ -37,10 +37,17 @@
     $("#site-nav button").off("click.forceResponsiveMenu").on("click.forceResponsiveMenu", function(e) {
       e.preventDefault();
       e.stopPropagation();
-
+    
+      if (!isMobile()) return;
+    
       var $hidden = $("#site-nav .hidden-links");
       $(this).toggleClass("close");
-      $hidden.toggleClass("hidden").toggle();
+    
+      if ($hidden.hasClass("hidden")) {
+        $hidden.removeClass("hidden").show();
+      } else {
+        $hidden.addClass("hidden").hide();
+      }
     });
 
     /* Author Follow menu */
