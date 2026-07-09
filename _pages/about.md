@@ -82,4 +82,3 @@ For further information about myself or my work, please check my CVs here:
   document.getElementById("email").innerHTML = 
     '<a href="mailto:' + 'americo' + '@' + 'lncc' + '.' + 'br">' + 'americo' + '@' + 'lncc' + '.' + 'br' + '</a>';
 </script>
-
