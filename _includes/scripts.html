@@ -41,46 +41,40 @@ function closeAuthorFollowOnMobile() {
 }
 
 <script>
-$(document).ready(function() {
+$(function() {
+  var $followButton = $(".author__urls-wrapper button");
+  var $followMenu = $(".author__urls-wrapper .author__urls");
 
-  function closeFollowMenuOnMobile() {
-    if (window.matchMedia("(max-width: 768px)").matches) {
-      $(".author__urls").each(function() {
-        this.style.setProperty("display", "none", "important");
-      });
-      $(".author__urls").removeClass("is--visible follow-open");
+  function isMobile() {
+    return window.matchMedia("(max-width: 768px)").matches;
+  }
+
+  function closeFollowMenu() {
+    if (isMobile()) {
+      $followMenu.attr("style", "display: none !important;");
     } else {
-      $(".author__urls").each(function() {
-        this.style.removeProperty("display");
-      });
+      $followMenu.removeAttr("style");
     }
   }
 
-  closeFollowMenuOnMobile();
+  closeFollowMenu();
 
-  $(window).on("resize.followMenuFix", function() {
-    closeFollowMenuOnMobile();
-  });
-
-  $(document).off("click.followMenuFix", ".author__urls-wrapper button");
-
-  $(document).on("click.followMenuFix", ".author__urls-wrapper button", function(e) {
+  $followButton.off("click.followMenuFix").on("click.followMenuFix", function(e) {
     e.preventDefault();
     e.stopPropagation();
 
-    var menu = $(this).closest(".author__urls-wrapper").find(".author__urls").get(0);
+    var $menu = $(this).closest(".author__urls-wrapper").find(".author__urls");
 
-    if (!menu) return;
-
-    var currentDisplay = window.getComputedStyle(menu).display;
-
-    if (currentDisplay === "none") {
-      menu.style.setProperty("display", "block", "important");
+    if ($menu.is(":visible")) {
+      $menu.attr("style", "display: none !important;");
     } else {
-      menu.style.setProperty("display", "none", "important");
+      $menu.attr("style", "display: block !important;");
     }
   });
 
+  $(window).off("resize.followMenuFix").on("resize.followMenuFix", function() {
+    closeFollowMenu();
+  });
 });
 </script>
 })(jQuery);
