@@ -41,10 +41,16 @@ function closeAuthorFollowOnMobile() {
 }
 
 $(function() {
-  closeAuthorFollowOnMobile();
+  if (window.matchMedia('(max-width: 768px)').matches) {
+    $('.author__urls').hide();
+  }
 
-  $(window).on('resize.closeAuthorFollow', function() {
-    closeAuthorFollowOnMobile();
+  $('.author__urls-wrapper button').off('click.followFix').on('click.followFix', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+
+    var $urls = $(this).siblings('.author__urls');
+    $urls.stop(true, true).slideToggle(150);
   });
 });
 })(jQuery);
