@@ -40,18 +40,27 @@ function closeAuthorFollowOnMobile() {
   }
 }
 
+<script>
 $(function() {
-  if (window.matchMedia('(max-width: 768px)').matches) {
-    $('.author__urls').hide();
+  function closeAuthorFollowOnMobile() {
+    if (window.matchMedia('(max-width: 768px)').matches) {
+      $('.author__urls-wrapper .author__urls').removeClass('follow-open');
+    }
   }
+
+  closeAuthorFollowOnMobile();
 
   $('.author__urls-wrapper button').off('click.followFix').on('click.followFix', function(e) {
     e.preventDefault();
     e.stopPropagation();
 
-    $(this).closest('.author__urls-wrapper').find('.author__urls').stop(true, true).slideToggle(150);
+    $(this)
+      .closest('.author__urls-wrapper')
+      .find('.author__urls')
+      .toggleClass('follow-open');
   });
 });
+</script>
 })(jQuery);
 </script>
 
