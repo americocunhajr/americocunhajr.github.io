@@ -49,8 +49,7 @@ $(function() {
     e.preventDefault();
     e.stopPropagation();
 
-    var $urls = $(this).siblings('.author__urls');
-    $urls.stop(true, true).slideToggle(150);
+    $(this).closest('.author__urls-wrapper').find('.author__urls').stop(true, true).slideToggle(150);
   });
 });
 })(jQuery);
