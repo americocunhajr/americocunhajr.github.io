@@ -163,7 +163,7 @@
 
 
 /* Keep author Follow menu closed on mobile load */
-@media screen and (max-width: 768px) {
+/*@media screen and (max-width: 768px) {
   .author__urls-wrapper .author__urls {
     display: none !important;
   }
@@ -171,8 +171,31 @@
   .author__urls-wrapper .author__urls.is--visible {
     display: block !important;
   }
-}
+}*/
 
+
+/* Mobile Follow menu */
+@media screen and (max-width: 768px) {
+  .author__urls-wrapper .author__urls {
+    display: none !important;
+    background: #1d2430 !important;
+    border: 1px solid #354050 !important;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.45);
+  }
+
+  .author__urls-wrapper .author__urls.follow-open {
+    display: block !important;
+  }
+
+  .author__urls-wrapper .author__urls a,
+  .author__urls-wrapper .author__urls i,
+  .author__urls-wrapper .author__urls .fa,
+  .author__urls-wrapper .author__urls .fab,
+  .author__urls-wrapper .author__urls .ai {
+    color: #e8edf3 !important;
+    opacity: 1 !important;
+  }
+}
 
 /* ==========================================================
    REFINED DARK THEME
