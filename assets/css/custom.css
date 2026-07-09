@@ -1,6 +1,8 @@
 /* ==========================================================
-   SOCIAL ICONS
+   SOCIAL ICONS (CUSTOM)
    ========================================================== */
+
+/* General custom social icons */
 
 .social-icons {
   list-style: none;
@@ -14,11 +16,22 @@
 .social-icons a {
   font-size: 18px;
   text-decoration: none;
+  color: #333;
   transition: color 0.3s ease-in-out;
+}
+
+.social-icons a:hover {
+  color: #0077b5;
 }
 
 .social-icons i {
   margin-right: 8px;
+}
+
+/* Restore Minimal Mistakes author sidebar */
+
+.author__urls.social-icons {
+  display: block;
 }
 
 .author__urls.social-icons li {
@@ -36,19 +49,20 @@
   align-items: center;
   margin-bottom: 20px;
   padding: 15px;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid #ddd;
 }
 
 .article-metadata {
   font-size: 14px;
+  color: #555;
 }
 
 .year-heading {
   font-size: 24px;
   font-weight: bold;
   margin-top: 30px;
-  color: var(--link) !important;
-  border-bottom: 2px solid var(--link);
+  color: #3f51b5;
+  border-bottom: 2px solid #3f51b5;
   padding-bottom: 5px;
 }
 
@@ -56,6 +70,7 @@
   width: 100%;
   margin-bottom: 15px;
   border-collapse: collapse !important;
+  border: none !important;
   table-layout: fixed;
 }
 
@@ -80,11 +95,17 @@
 .pub-title {
   font-size: 18px;
   font-weight: bold;
+  color: #0073e6 !important;
 }
 
-.pub-authors,
+.pub-authors {
+  font-size: 14px;
+  color: #555;
+}
+
 .pub-journal {
   font-size: 14px;
+  color: #777;
 }
 
 .pub-thumbnail {
@@ -132,22 +153,48 @@
 
 
 /* ==========================================================
-   DARK THEME
+   MOBILE MENU
+   ========================================================== */
+
+@media screen and (max-width: 768px) {
+
+  #site-nav .hidden-links:not(.hidden) {
+    display: block !important;
+  }
+
+  #site-nav .hidden-links.hidden {
+    display: none !important;
+  }
+
+}
+
+
+/* ==========================================================
+   REFINED DARK THEME
    ========================================================== */
 
 :root {
+
   --bg: #11151c;
   --bg-soft: #171c24;
   --panel: #1d2430;
   --panel-2: #222b38;
   --border: #354050;
+
   --text: #e8edf3;
   --text-soft: #c3ccd7;
   --muted: #98a4b3;
+
   --link: #78bdfc;
   --link-hover: #a6d4ff;
+
   --accent: #3b82f6;
 }
+
+
+/* ==========================================================
+   BASE
+   ========================================================== */
 
 html,
 body {
@@ -181,6 +228,11 @@ h6,
   color: var(--text) !important;
 }
 
+
+/* ==========================================================
+   LINKS
+   ========================================================== */
+
 a {
   color: var(--link) !important;
 }
@@ -195,9 +247,9 @@ a:hover {
    ========================================================== */
 
 .masthead {
-  background: var(--bg) !important;
+  background: var(--bg-soft) !important;
   border-bottom: 1px solid var(--border) !important;
-  box-shadow: none !important;
+  box-shadow: 0 2px 18px rgba(0,0,0,.25);
 }
 
 .masthead__inner-wrap,
@@ -217,7 +269,7 @@ a:hover {
 .greedy-nav .hidden-links {
   background: var(--panel) !important;
   border: 1px solid var(--border) !important;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.45);
+  box-shadow: 0 10px 30px rgba(0,0,0,.45);
 }
 
 .greedy-nav .hidden-links a {
@@ -241,12 +293,12 @@ a:hover {
 
 
 /* ==========================================================
-   SIDEBAR / AUTHOR
+   SIDEBAR
    ========================================================== */
 
 .sidebar {
-  background: transparent !important;
-  border-right: none !important;
+  background: var(--panel) !important;
+  border-right: 1px solid var(--border);
 }
 
 .author__content,
@@ -264,32 +316,33 @@ a:hover {
 
 .author__avatar img {
   border: 3px solid var(--accent);
-  box-shadow: 0 0 0 4px rgba(59,130,246,0.18);
+  box-shadow: 0 0 0 4px rgba(59,130,246,.18);
 }
 
 .author__urls a,
 .author__urls li,
 .author__urls i,
 .author__urls .fa,
-.author__urls .far,
-.author__urls .fas,
 .author__urls .fab,
+.author__urls .fas,
 .author__urls .ai {
   color: var(--text-soft) !important;
-  opacity: 1 !important;
 }
 
 .author__urls a:hover,
 .author__urls a:hover i,
-.author__urls a:hover .fa,
-.author__urls a:hover .fab,
 .author__urls a:hover .ai {
   color: var(--link-hover) !important;
 }
 
+
+/* ==========================================================
+   FOLLOW BUTTON
+   ========================================================== */
+
 .author__urls-wrapper button {
   background: var(--accent) !important;
-  color: #ffffff !important;
+  color: white !important;
   border: 1px solid #6aa8ff !important;
 }
 
@@ -297,25 +350,27 @@ a:hover {
   background: #5b9cff !important;
 }
 
-@media screen and (max-width: 768px) {
-  .author__urls {
+@media screen and (max-width:768px){
+
+  .author__urls{
     background: var(--panel) !important;
     border: 1px solid var(--border) !important;
-    box-shadow: 0 12px 30px rgba(0,0,0,0.45);
+    box-shadow:0 12px 30px rgba(0,0,0,.45);
   }
 
-  .author__urls li {
-    border-bottom: 1px solid var(--border) !important;
+  .author__urls li{
+    border-bottom:1px solid var(--border) !important;
   }
 
-  .author__urls a {
-    color: var(--text) !important;
+  .author__urls a{
+    color:var(--text) !important;
   }
+
 }
 
 
 /* ==========================================================
-   CONTENT BLOCKS
+   CONTENT
    ========================================================== */
 
 .breadcrumbs,
@@ -340,6 +395,22 @@ a:hover {
   color: var(--muted) !important;
 }
 
+
+/* ==========================================================
+   FOOTER
+   ========================================================== */
+
+.page__footer {
+  background: var(--bg-soft) !important;
+  border-top: 1px solid var(--border);
+  color: var(--muted) !important;
+}
+
+
+/* ==========================================================
+   CODE
+   ========================================================== */
+
 hr {
   border-color: var(--border) !important;
 }
@@ -348,15 +419,4 @@ pre,
 code {
   background: var(--panel-2) !important;
   color: var(--text) !important;
-}
-
-
-/* ==========================================================
-   FOOTER
-   ========================================================== */
-
-.page__footer {
-  background: var(--bg) !important;
-  border-top: 1px solid var(--border);
-  color: var(--muted) !important;
 }
