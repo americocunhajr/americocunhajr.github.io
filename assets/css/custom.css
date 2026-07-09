@@ -138,32 +138,3 @@
   border-radius: 8px; /* Optional: rounded corners */
 }
 
-
-
-/* Fix Minimal Mistakes responsive menu */
-
-/* Desktop: show normal links, hide hamburger */
-@media screen and (min-width: 769px) {
-  .greedy-nav .visible-links {
-    display: flex !important;
-  }
-
-  .greedy-nav .hidden-links {
-    display: none !important;
-  }
-
-  .greedy-nav button {
-    display: none !important;
-  }
-}
-
-/* Mobile: hide normal links, show hamburger */
-@media screen and (max-width: 768px) {
-  .greedy-nav .visible-links {
-    display: none !important;
-  }
-
-  .greedy-nav button {
-    display: block !important;
-  }
-}
