@@ -172,3 +172,167 @@
     display: block !important;
   }
 }
+
+
+/* ==========================================================
+   DARK THEME
+   ========================================================== */
+
+/* Page */
+
+body,
+.layout--single,
+.layout--archive,
+.page {
+    background: #0F1117;
+    color: #ECEFF4;
+}
+
+/* Main content */
+
+.page__content,
+.archive,
+.archive__item,
+.page__inner-wrap {
+    background: transparent;
+    color: #ECEFF4;
+}
+
+/* Sidebar */
+
+.sidebar {
+    background: #171B22;
+}
+
+.author__content,
+.author__urls {
+    background: #171B22;
+}
+
+/* Footer */
+
+.page__footer {
+    background: #171B22;
+    color: #B4BEC9;
+}
+
+/* Headings */
+
+h1,h2,h3,h4,h5,h6 {
+    color: white;
+}
+
+/* Text */
+
+p,
+li,
+td,
+th,
+blockquote {
+    color: #D7DEE7;
+}
+
+/* Links */
+
+a {
+    color: #63B3FF;
+}
+
+a:hover {
+    color: #8CC8FF;
+}
+
+/* Horizontal lines */
+
+hr {
+    border-color: #323B47;
+}
+
+/* Tables */
+
+table {
+    background: transparent;
+}
+
+table td,
+table th {
+    border-color: #323B47;
+}
+
+/* Code */
+
+pre,
+code {
+    background: #1F2630;
+}
+
+/* Buttons */
+
+.btn,
+button {
+    background: #2E78FF;
+    color: white;
+}
+
+.btn:hover,
+button:hover {
+    background: #4C90FF;
+}
+
+
+/* Masthead */
+
+.masthead {
+    background: #171B22;
+    border-bottom: 1px solid #323B47;
+}
+
+.greedy-nav {
+    background: transparent;
+}
+
+.greedy-nav a {
+    color: #ECEFF4;
+}
+
+.greedy-nav a:hover {
+    color: #63B3FF;
+}
+
+
+.author__avatar img {
+    border-radius: 50%;
+    border: 3px solid #2E78FF;
+}
+
+.author__bio {
+    color: #B4BEC9;
+}
+
+.author__name {
+    color: white;
+}
+
+
+.pub-table {
+    background: #171B22;
+    border-radius: 10px;
+}
+
+.pub-title {
+    color: #63B3FF !important;
+}
+
+.pub-authors,
+.pub-journal {
+    color: #B4BEC9;
+}
+
+
+.author__urls li a {
+    color: #ECEFF4;
+}
+
+.author__urls li a:hover {
+    color: #63B3FF;
+}
