@@ -132,9 +132,38 @@
   width: auto; /* Responsive image */
   height: 80%; /* Maintain aspect ratio */
   max-width: 150px; /* Ensure it is not too large */
-  max-heigth: 100px; /* Ensure it is not too large */
+  max-height: 100px; /* Ensure it is not too large */
   display: block;
   margin: 0 auto;
   border-radius: 8px; /* Optional: rounded corners */
 }
 
+
+
+/* Fix Minimal Mistakes responsive menu */
+
+/* Desktop: show normal links, hide hamburger */
+@media screen and (min-width: 769px) {
+  .greedy-nav .visible-links {
+    display: flex !important;
+  }
+
+  .greedy-nav .hidden-links {
+    display: none !important;
+  }
+
+  .greedy-nav button {
+    display: none !important;
+  }
+}
+
+/* Mobile: hide normal links, show hamburger */
+@media screen and (max-width: 768px) {
+  .greedy-nav .visible-links {
+    display: none !important;
+  }
+
+  .greedy-nav button {
+    display: block !important;
+  }
+}
