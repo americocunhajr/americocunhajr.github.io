@@ -34,6 +34,19 @@
       $hidden.toggleClass('hidden').toggle();
     });
   });
+function closeAuthorFollowOnMobile() {
+  if (window.matchMedia('(max-width: 768px)').matches) {
+    $('.author__urls').addClass('is--hidden').removeClass('is--visible');
+  }
+}
+
+$(function() {
+  closeAuthorFollowOnMobile();
+
+  $(window).on('resize.closeAuthorFollow', function() {
+    closeAuthorFollowOnMobile();
+  });
+});
 })(jQuery);
 </script>
 
