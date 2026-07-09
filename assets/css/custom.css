@@ -165,11 +165,10 @@
 /* Keep author Follow menu closed on mobile load */
 @media screen and (max-width: 768px) {
   .author__urls-wrapper .author__urls {
-    display: none;
+    display: none !important;
   }
 
-  .author__urls-wrapper button + .author__urls,
   .author__urls-wrapper .author__urls.is--visible {
-    display: block;
+    display: block !important;
   }
 }
