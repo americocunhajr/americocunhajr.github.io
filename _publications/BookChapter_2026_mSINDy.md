@@ -7,7 +7,7 @@ year: "2026"
 number: 
 pages: 
 doi: ""
-pdf: ""
+pdf: "https://hal.science/hal-05682155v1/file/Book-SciML-2026-Chap08-mSINDy.pdf"
 arxiv: 
 hal: "https://hal.science/hal-05682155"
 image: "GraphicalAbstract_BookChapter_2026_mSINDy.png"
