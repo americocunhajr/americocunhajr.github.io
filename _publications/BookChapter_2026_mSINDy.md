@@ -10,7 +10,7 @@ doi: ""
 pdf: ""
 arxiv: 
 hal: "https://hal.science/hal-05682155"
-image: "GraphicalAbstract_BookChapter_2022_SHM.png"
+image: "GraphicalAbstract_BookChapter_2026_mSINDy.png"
 layout: none
 date: 2026-11-01
 collection: publications
