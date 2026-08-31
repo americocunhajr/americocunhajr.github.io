@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "📄 Media"
+title: "🎞️ Media"
 permalink: /media/
 collection: media
 entries_layout: list
