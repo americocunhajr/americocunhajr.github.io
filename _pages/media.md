@@ -1,83 +1,51 @@
----
-layout: single
-title: "📄 Media"
-permalink: /media/
-collection: media
-entries_layout: list
-author_profile: true
----
+## Interviews & Media
+
+A selection of interviews, media appearances, essays, and public-facing discussions on science, technology, mathematics, and their broader implications.
+
+##
+
+### Brazil Seeks Its Quantum State
+
+**IEEE Spectrum**, 2026
+
+Interview with Lucas Laursen on Brazil's strategy for quantum technologies, discussing opportunities in quantum software, sensing, communications, metrology, and hybrid quantum–classical computing.
+
+[Read the interview](https://spectrum.ieee.org/brazil-quantum){:target="_blank" rel="noopener"}
 
 ---
 
-{% assign SortedPublications = site.publications | sort: "year" | reverse %}
-{% assign CurrentYear = 0 %}
+## Essays & Commentary
 
-{% for pub in SortedPublications %}
-  {% assign PubYear = pub.year | strip | plus: 0 %}
-  {% if PubYear > 0 and PubYear != CurrentYear %}
-  {{ "<h2 style='font-size: 24px; font-weight: bold; margin-top: 30px; color: #3f51b5; border-bottom: 2px solid #3f51b5; padding-bottom: 5px;'>" | safeHTML }}{{ PubYear }}{{ "</h2>" | safeHTML }}
-   {% assign CurrentYear = PubYear %}
-  {% endif %}
-  
-  <table style="width:100%; margin-bottom:15px; border-collapse:collapse; border: none; table-layout: fixed; border-spacing: 0;">
-      <tr>
-        <td style="width: 10%; font-size: 30px; text-align: left; vertical-align: top; padding-right: 30px; border: none;">
-        <i class="far fa-file-alt"></i>
-      </td>
-      <!-- Publication Details (Middle) -->
-      <td style="width: 75%; text-align: left; vertical-align: middle; padding-left: 20px; border: none;">
-        <strong style="font-size: 18px; font-weight: bold; color: #3f51b5;">{{ pub.title }}</strong><br>
-        by <span style="font-size: 14px; color: #555;">{{ pub.authors }}</span><br>
-        <span style="font-size: 14px; color: #777;">
-            {% if pub.journal %}
-            <em>{{ pub.journal }}</em>
-              {% if pub.volume %}, Vol. {{ pub.volume }}{% endif %}
-              {% if pub.number %}, No. {{ pub.number }}{% endif %}
-              {% if pub.pages %}, pp. {{ pub.pages }}{% endif %}
-              {% if pub.year %}, {{ pub.year }}{% endif %}
-            {% elsif pub.event %}
-              <em>{{ pub.event }}</em>
-              {% if pub.year %}, {{ pub.year }}{% endif %}
-            {% elsif pub.booktitle %}
-              <em>{{ pub.booktitle }}</em> <br>
-              {% if pub.editor %}Editor: {{ pub.editor }}{% endif %}
-              {% if pub.publisher %}, {{ pub.publisher }}{% endif %}
-              {% if pub.year %}, {{ pub.year }}{% endif %}
-              {% endif %}
-            {% if pub.doi %} <br> {{ pub.doi }}{% endif %}
-        </span><br>
-        <div class="btn-links">
-          {% if pub.pdf %}
-            <a class="btn btn-outline-primary btn-sm" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>
-          {% endif %}
-          {% if pub.arxiv %}
-            <a class="btn btn-outline-primary btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">arXiv</a>
-          {% endif %}
-          {% if pub.engrxiv %}
-            <a class="btn btn-outline-primary btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">engrXiv</a>
-          {% endif %}
-          {% if pub.medrxiv %}
-            <a class="btn btn-outline-primary btn-sm" href="{{ pub.arxiv }}" target="_blank" rel="noopener">medRxiv</a>
-          {% endif %}
-          {% if pub.hal %}
-            <a class="btn btn-outline-primary btn-sm" href="{{ pub.hal }}" target="_blank" rel="noopener">HAL</a>
-          {% endif %}
-          {% if pub.news %}
-            <a class="btn btn-outline-primary btn-sm" href="{{ pub.news }}" target="_blank" rel="noopener">News</a>
-          {% endif %}
-        </div>
-      </td>
-      <!-- Thumbnail (Right) -->
-      <td style="width: 175px; height: 100px; text-align: right; vertical-align: middle; overflow: hidden; border: none;">
-        {% if pub.image %}
-          <img src="{{ pub.image }}" alt="Thumbnail" style="height: 100px; width: auto; max-width: 175px; border-radius: 1px;">
-        {% endif %}
-      </td>
-    </tr>
-  </table>
+### Revista Questão de Ciência
 
-{% endfor %}
+Essays on artificial intelligence, science, technology, scientific reasoning, and their interactions with society.
+
+**2026**
+
+* [Seria o espaço a fronteira final da IA?](https://revistaquestaodeciencia.com.br/artigo/2026/06/10/seria-o-espaco-fronteira-final-da-ia){:target="_blank" rel="noopener"}
+* [A enganosa "neutralidade" dos algoritmos](https://revistaquestaodeciencia.com.br/artigo/2026/06/02/enganosa-neutralidade-dos-algoritmos){:target="_blank" rel="noopener"}
+* [Quando a IA cai em fake news](https://revistaquestaodeciencia.com.br/artigo/2026/05/11/quando-ia-cai-em-fake-news){:target="_blank" rel="noopener"}
+* A sedução das explicações fáceis
+* Missão Artemis e os critérios da verdade
+* Inteligência Artificial faz descobertas matemáticas?
+* Quando as IAs conversam entre si
+
+**2024**
+
+* O papel da Inteligência Artificial no Nobel de 2024
+* Os desafios éticos e de regulamentação da IA
+
+**2023**
+
+* IA, nova fronteira da desinformação
+
+[All articles at Revista Questão de Ciência](https://revistaquestaodeciencia.com.br/autor/americo-cunha-jr){:target="_blank" rel="noopener"}
 
 ---
 
-⚠️© *Copyright Notice: Several publications presented above are copyrighted by either a publisher or the authors. They are available here for educational and academic use only. All rights of reproduction or distribution in any form are reserved.*
+## Videos & Talks
+
+Selected interviews, lectures, and public discussions.
+
+*Content coming soon.*
+
