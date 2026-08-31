@@ -72,7 +72,7 @@ A selection of interviews, media appearances, essays, and public-facing discussi
 
 <p>
   <a href="https://revistaquestaodeciencia.com.br/autor/americo-cunha-jr" target="_blank" rel="noopener noreferrer">
-    <i class="fas fa-external-link-alt" aria-hidden="true"></i> Author page at Revista Questão de Ciência
+    <i class="fas fa-external-link-alt" aria-hidden="true"></i> Página do autor na Revista Questão de Ciência
   </a>
 </p>
 
