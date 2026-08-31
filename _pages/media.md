@@ -82,37 +82,37 @@ A selection of interviews, media appearances, essays, and public-facing discussi
 
 <ul class="social-icons">
   <li>
-    <a href="https://www.youtube.com/watch?v=-ouJHKCC5TQ" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/watch?v=n0UVq0yNqeY" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-youtube" aria-hidden="true"></i> Me conta aí! - Quando o plástico envelhece: a ciência da durabilidade dos polímeros
     </a>
   </li>
-
+  
   <li>
-    <a href="https://www.youtube.com/watch?v=Uwxwer7ck4w" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/watch?v=-ouJHKCC5TQ" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-youtube" aria-hidden="true"></i> A matemática pode ajudar numa epidemia!
     </a>
   </li>
 
   <li>
-    <a href="https://www.youtube.com/watch?v=JksRJkPA_60" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/watch?v=Uwxwer7ck4w" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-youtube" aria-hidden="true"></i> Inteligência Artificial: O Bem, o Mal e o Futuro
     </a>
   </li>
 
   <li>
-    <a href="https://www.youtube.com/watch?v=ZjfpZSQF_vM" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/watch?v=JksRJkPA_60" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-youtube" aria-hidden="true"></i> Vacina da Covid-19: Quão (im)provável é ter uma reação grave?
     </a>
   </li>
 
   <li>
-    <a href="https://www.youtube.com/watch?v=2-7WrBDdp30" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/watch?v=ZjfpZSQF_vM" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-youtube" aria-hidden="true"></i> O que simulações computacionais podem (ou não) dizer sobre a pandemia?
     </a>
   </li>
 
   <li>
-    <a href="https://www.youtube.com/watch?v=n0UVq0yNqeY" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/watch?v=2-7WrBDdp30" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-youtube" aria-hidden="true"></i> Xadrez, Feijão e COVID-19: Um Perigo Exponencial
     </a>
   </li>
