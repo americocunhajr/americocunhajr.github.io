@@ -9,9 +9,7 @@ author_profile: true
 
 A selection of interviews, media appearances, essays, and public-facing discussions on science, technology, mathematics, and their broader implications.
 
----
-
-<h3>Interviews</h3>
+## Interviews
 
 <ul class="social-icons">
   <li>
