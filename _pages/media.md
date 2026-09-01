@@ -19,12 +19,12 @@ A selection of interviews, media appearances, essays, and public-facing discussi
 <li> <a href="https://youtu.be/P4qJqcYjGP4" target="_blank" rel="noopener noreferrer"> <i class="fab fa-youtube" aria-hidden="true"></i> A Pandemia e a estatística por trás dela | StatsCast #1
  </a> </li>
 <li> <a href="https://www.youtube.com/live/HwKzn9tr1K4" target="_blank" rel="noopener noreferrer"> <i class="fab fa-youtube" aria-hidden="true"></i> Cientistas reagem ao corte de verbas </a> </li>
-<li><a href="https://globoplay.globo.com/v/10224347/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>Especialistas acreditam que o número de internações por Covid aumentem muito nos próximos dias</em></a></li>
-<li><a href="https://globoplay.globo.com/v/9251006/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>Prefeitura do Rio muda método de divulgar mortes por Covid</em></a></li>
-<li><a href="https://globoplay.globo.com/v/9115260/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>Rio foi a cidade que mais perdeu vidas para a Covid-19 no Brasil em dezembro</em></a></li>
-<li><a href="https://globoplay.globo.com/v/9114696/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>A cidade do Rio supera a capital paulista no registro de mortes por covid em dezembro</em></a></li>
-<li><a href="https://globoplay.globo.com/v/8804926/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>RJ apresenta pelo sexto dia seguido tendência de alta na média móvel de mortes por Covid</em></a></li>
-<li><a href="https://globoplay.globo.com/v/8664247/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i> Estado do Rio ultrapassa a marca dos 10 mil mortos pelo novo coronavírus</em></a></li>
+<li><a href="https://globoplay.globo.com/v/10224347/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>Especialistas acreditam que o número de internações por Covid aumentem muito nos próximos dias</a></li>
+<li><a href="https://globoplay.globo.com/v/9251006/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>Prefeitura do Rio muda método de divulgar mortes por Covid </a></li>
+<li><a href="https://globoplay.globo.com/v/9115260/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>Rio foi a cidade que mais perdeu vidas para a Covid-19 no Brasil em dezembro </a></li>
+<li><a href="https://globoplay.globo.com/v/9114696/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>A cidade do Rio supera a capital paulista no registro de mortes por covid em dezembro </a></li>
+<li><a href="https://globoplay.globo.com/v/8804926/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>RJ apresenta pelo sexto dia seguido tendência de alta na média móvel de mortes por Covid </a></li>
+<li><a href="https://globoplay.globo.com/v/8664247/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i> Estado do Rio ultrapassa a marca dos 10 mil mortos pelo novo coronavírus </a></li>
 </ul>
 
 ---
