@@ -13,11 +13,18 @@ A selection of interviews, media appearances, essays, and public-facing discussi
 
 <ul class="social-icons">
   <li> <a href="https://spectrum.ieee.org/brazil-quantum" target="_blank" rel="noopener noreferrer"> <i class="fas fa-microphone" aria-hidden="true"></i> Brazil Seeks Its Quantum State — <em>IEEE Spectrum</em> </a> </li>
+  <li> <a href="https://www.youtube.com/watch?v=n0UVq0yNqeY" target="_blank" rel="noopener noreferrer"> <i class="fab fa-youtube" aria-hidden="true"></i> Me conta aí! - Quando o plástico envelhece: a ciência da durabilidade dos polímeros </a> </li>
   <li> <a href="https://radio.ufrj.br/programas/fio-da-meada_2/56130422" target="_blank" rel="noopener noreferrer"> <i class="fas fa-microphone" aria-hidden="true"></i> Desinformação criada por inteligência artificial — <em>Rádio UFRJ</em> </a> </li>
   <li> <a href="https://indd.adobe.com/view/8ed7515e-aefd-4c1f-a225-a0cbc6a3e897" target="_blank" rel="noopener noreferrer"> <i class="fas fa-newspaper" aria-hidden="true"></i> ChatGPT e Inteligência Artificial: A revolução e seus impactos na sociedade e no mercado de trabalho — <em>Revista Ângulos</em> </a> </li>
 <li> <a href="https://youtu.be/P4qJqcYjGP4" target="_blank" rel="noopener noreferrer"> <i class="fab fa-youtube" aria-hidden="true"></i> A Pandemia e a estatística por trás dela | StatsCast #1
  </a> </li>
 <li> <a href="https://www.youtube.com/live/HwKzn9tr1K4" target="_blank" rel="noopener noreferrer"> <i class="fab fa-youtube" aria-hidden="true"></i> Cientistas reagem ao corte de verbas </a> </li>
+<li><a href="https://globoplay.globo.com/v/8664247/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i> Estado do Rio ultrapassa a marca dos 10 mil mortos pelo novo coronavírus</em></a></li>
+<li><a href="https://globoplay.globo.com/v/8804926/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>RJ apresenta pelo sexto dia seguido tendência de alta na média móvel de mortes por Covid</em></a></li>
+<li><a href="https://globoplay.globo.com/v/9114696/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>A cidade do Rio supera a capital paulista no registro de mortes por covid em dezembro</em></a></li>
+<li><a href="https://globoplay.globo.com/v/9115260/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>Rio foi a cidade que mais perdeu vidas para a Covid-19 no Brasil em dezembro</em></a></li>
+<li><a href="https://globoplay.globo.com/v/9251006/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>Prefeitura do Rio muda método de divulgar mortes por Covid</em></a></li>
+<li><a href="https://globoplay.globo.com/v/10224347/" target="_blank" rel="noopener noreferrer"><i class="fas fa-tv" aria-hidden="true"></i>Especialistas acreditam que o número de internações por Covid aumentem muito nos próximos dias</em></a></li>
 </ul>
 
 ---
@@ -105,13 +112,7 @@ A selection of interviews, media appearances, essays, and public-facing discussi
 
 ### Selected Videos
 
-<ul class="social-icons">
-  <li>
-    <a href="https://www.youtube.com/watch?v=n0UVq0yNqeY" target="_blank" rel="noopener noreferrer">
-      <i class="fab fa-youtube" aria-hidden="true"></i> Me conta aí! - Quando o plástico envelhece: a ciência da durabilidade dos polímeros
-    </a>
-  </li>
-  
+<ul class="social-icons">  
   <li>
     <a href="https://www.youtube.com/watch?v=-ouJHKCC5TQ" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-youtube" aria-hidden="true"></i> A matemática pode ajudar numa epidemia!
