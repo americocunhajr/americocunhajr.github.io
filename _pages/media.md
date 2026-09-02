@@ -139,28 +139,6 @@ A selection of interviews, media appearances, essays, research outreach, and pub
 
 ---
 
-## Science & Technology Outreach
-
-<ul class="social-icons">
-
-  <li>
-    <a href="https://www.youtube.com/watch?v=Uwxwer7ck4w" target="_blank" rel="noopener noreferrer">
-      <i class="fab fa-youtube" aria-hidden="true"></i>
-      Inteligência Artificial: O Bem, o Mal e o Futuro
-    </a>
-  </li>
-
-</ul>
-
-<p>
-  <a href="https://www.youtube.com/playlist?list=PLjNDdMKtfqVn2mkIU5novofr8AO9J5zqh" target="_blank" rel="noopener noreferrer">
-    <i class="fas fa-list" aria-hidden="true"></i>
-    View outreach playlist on YouTube
-  </a>
-</p>
-
----
-
 ## Professional Features & Recognition
 
 <ul class="social-icons">
@@ -187,6 +165,28 @@ A selection of interviews, media appearances, essays, research outreach, and pub
   </li>
 
 </ul>
+
+---
+
+## Science & Technology Outreach
+
+<ul class="social-icons">
+
+  <li>
+    <a href="https://www.youtube.com/watch?v=Uwxwer7ck4w" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-youtube" aria-hidden="true"></i>
+      Inteligência Artificial: O Bem, o Mal e o Futuro
+    </a>
+  </li>
+
+</ul>
+
+<p>
+  <a href="https://www.youtube.com/playlist?list=PLjNDdMKtfqVn2mkIU5novofr8AO9J5zqh" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-list" aria-hidden="true"></i>
+    View outreach playlist on YouTube
+  </a>
+</p>
 
 ---
 
