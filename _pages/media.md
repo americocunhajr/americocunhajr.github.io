@@ -41,13 +41,6 @@ A selection of interviews, media appearances, essays, research outreach, and pub
     </a>
   </li>
 
-  <li>
-    <a href="https://www.youtube.com/live/HwKzn9tr1K4" target="_blank" rel="noopener noreferrer">
-      <i class="fab fa-youtube" aria-hidden="true"></i>
-      Cientistas reagem ao corte de verbas — <em>Jornal da Cultura</em>
-    </a>
-  </li>
-
 </ul>
 
 ---
@@ -238,6 +231,13 @@ During the COVID-19 pandemic, I contributed to mathematical and computational mo
     <a href="https://globoplay.globo.com/v/8664247/" target="_blank" rel="noopener noreferrer">
       <i class="fas fa-tv" aria-hidden="true"></i>
       Estado do Rio ultrapassa a marca dos 10 mil mortos pelo novo coronavírus — <em>Jornal Nacional</em>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.youtube.com/live/HwKzn9tr1K4" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-youtube" aria-hidden="true"></i>
+      Cientistas reagem ao corte de verbas — <em>Jornal da Cultura</em>
     </a>
   </li>
 
