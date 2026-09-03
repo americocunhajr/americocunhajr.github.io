@@ -172,6 +172,13 @@ A selection of interviews, media appearances, essays, research outreach, and pub
     </a>
   </li>
 
+  <li>
+    <a href="https://www.youtube.com/watch?v=-ouJHKCC5TQ" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-youtube" aria-hidden="true"></i>
+      A matemática pode ajudar numa epidemia!
+    </a>
+  </li>
+
 </ul>
 
 <p>
@@ -280,13 +287,6 @@ During the COVID-19 pandemic, I contributed to mathematical and computational mo
 ### Outreach Videos
 
 <ul class="social-icons">
-
-  <li>
-    <a href="https://www.youtube.com/watch?v=-ouJHKCC5TQ" target="_blank" rel="noopener noreferrer">
-      <i class="fab fa-youtube" aria-hidden="true"></i>
-      A matemática pode ajudar numa epidemia!
-    </a>
-  </li>
 
   <li>
     <a href="https://www.youtube.com/watch?v=JksRJkPA_60" target="_blank" rel="noopener noreferrer">
