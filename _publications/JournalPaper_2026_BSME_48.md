@@ -14,5 +14,5 @@ layout: none
 date: 2026-08-03
 collection: publications
 category: manuscripts
-permalink: /publications/JournalPaper_2026_BSMSE_X
+permalink: /publications/JournalPaper_2026_BSMSE_48
 ---
