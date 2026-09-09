@@ -7,7 +7,7 @@ volume: "48"
 number: "665"
 doi: "https://doi.org/10.1007/s40430-026-06564-7"
 pdf: "https://doi.org/10.1007/s40430-026-06564-7"
-arxiv: 
+arxiv: "https://arxiv.org/abs/2609.05466"
 hal: "https://hal.archives-ouvertes.fr/hal-xxx"
 image: "GraphicalAbstract_Paper_2026_BSME1.png"
 layout: none
