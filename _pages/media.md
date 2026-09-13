@@ -45,6 +45,35 @@ A selection of interviews, media appearances, essays, research outreach, and pub
 
 ---
 
+## Research in the Media
+
+<ul class="social-icons">
+
+  <li>
+    <a href="https://pubs.aip.org/aip/sci/article/2022/10/101109/2844601/Statistical-framework-picks-out-starting-dates-and" target="_blank" rel="noopener noreferrer">
+      <i class="fas fa-flask" aria-hidden="true"></i>
+      Statistical framework picks out starting dates and possible triggers of COVID-19 waves — <em>AIP Scilight</em>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://agencia.fapesp.br/grupo-desenvolve-ferramentas-para-dar-suporte-a-politicas-publicas-de-combate-a-pandemia/33892" target="_blank" rel="noopener noreferrer">
+      <i class="fas fa-flask" aria-hidden="true"></i>
+      Grupo desenvolve ferramentas para dar suporte a políticas públicas de combate à pandemia — <em>Agência FAPESP</em>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.colorado.edu/today/2020/05/05/scientists-develop-tool-improve-disease-model-accuracy" target="_blank" rel="noopener noreferrer">
+      <i class="fas fa-flask" aria-hidden="true"></i>
+      Scientists develop tool to improve disease model accuracy — <em>CU Boulder Today</em>
+    </a>
+  </li>
+
+</ul>
+
+---
+
 ## Essays & Commentary
 
 ### Revista Questão de Ciência
@@ -252,33 +281,6 @@ During the COVID-19 pandemic, I contributed to mathematical and computational mo
     <a href="https://youtu.be/P4qJqcYjGP4" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-youtube" aria-hidden="true"></i>
       A Pandemia e a estatística por trás dela — <em>StatsCast #1</em>
-    </a>
-  </li>
-
-</ul>
-
-### Research in the Media
-
-<ul class="social-icons">
-
-  <li>
-    <a href="https://pubs.aip.org/aip/sci/article/2022/10/101109/2844601/Statistical-framework-picks-out-starting-dates-and" target="_blank" rel="noopener noreferrer">
-      <i class="fas fa-flask" aria-hidden="true"></i>
-      Statistical framework picks out starting dates and possible triggers of COVID-19 waves — <em>AIP Scilight</em>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://agencia.fapesp.br/grupo-desenvolve-ferramentas-para-dar-suporte-a-politicas-publicas-de-combate-a-pandemia/33892" target="_blank" rel="noopener noreferrer">
-      <i class="fas fa-flask" aria-hidden="true"></i>
-      Grupo desenvolve ferramentas para dar suporte a políticas públicas de combate à pandemia — <em>Agência FAPESP</em>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://www.colorado.edu/today/2020/05/05/scientists-develop-tool-improve-disease-model-accuracy" target="_blank" rel="noopener noreferrer">
-      <i class="fas fa-flask" aria-hidden="true"></i>
-      Scientists develop tool to improve disease model accuracy — <em>CU Boulder Today</em>
     </a>
   </li>
 
