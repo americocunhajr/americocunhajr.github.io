@@ -13,7 +13,7 @@ I am also a Board Member of the [International Society of Nonlinear Dynamics (No
 
 Previously, I served on the Council of the [Brazilian Society of Mechanical Sciences and Engineering (ABCM)](https://www.abcm.org.br){:target="_blank"}, including a term as Executive Secretary of its Committee on Nonlinear and Chaotic Phenomena. I also served as Coordinator of the Dynamics, Control and Applications Committee of the [Brazilian Society of Computational and Applied Mathematics (SBMAC)](https://www.sbmac.org.br){:target="_blank"}.
 
-🌍 Global Collaborations
+## 🌍 Global Collaborations
 
 I maintain a strong international research network, with active partnerships involving institutions in Brazil 🇧🇷, the United States 🇺🇸, France 🇫🇷, Italy 🇮🇹, Poland 🇵🇱, Portugal 🇵🇹, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, China 🇨🇳, Russia 🇷🇺, Peru 🇵🇪, and Saudi Arabia 🇸🇦.
 
