@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+---
+
 I work at the intersection of applied mathematics, engineering, data science, and artificial intelligence. My work focuses on understanding, predicting, and designing complex systems, particularly when nonlinearity, uncertainty, and interacting mechanisms make conventional approaches insufficient.
 
 Over the course of my career, I have combined research, institutional leadership, international collaboration, and professional service. I lead and participate in interdisciplinary initiatives, contribute to the governance of scientific organizations, serve in editorial roles for international journals, and collaborate with researchers and institutions across several countries.
