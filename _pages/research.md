@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+---
+
 My research work lies at the intersection of nonlinear dynamics, data-driven modeling, and artificial intelligence, combining analytical reasoning with large-scale computation. I address forward and inverse problems, developing models that not only reproduce observed phenomena but also reveal the mechanisms that govern system behavior.
 
 I work across a broad range of applications, including origami-inspired metamaterials, energy harvesting systems, smart and adaptive structures, and epidemiological dynamics. A recurring theme in my research is integrating quantitative modeling and qualitative analysis to uncover nontrivial features such as multistability, bifurcations, robustness, and uncertainty—elements that directly inform engineering design, control strategies, and decision-making.
