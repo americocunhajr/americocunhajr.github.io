@@ -7,7 +7,9 @@ author_profile: true
 
 ---
 
-Beyond research, I actively engage in scientific leadership, editorial work, and professional governance. I currently serve as Editor of [Nonlinear Dynamics](https://link.springer.com/journal/11071){:target="_blank"}, Associate Editor of the [Journal of Vibration and Acoustics (ASME)](https://asmedigitalcollection.asme.org/vibrationacoustics){:target="_blank"} and the [Journal of Vibration Engineering & Technologies (Springer Nature)](https://link.springer.com/journal/42417){:target="_blank"}, and previously served as an Affiliated Editor of [PLOS ONE](https://journals.plos.org/plosone/){:target="_blank"}. 
+Beyond research, I actively engage in scientific leadership, editorial work, and professional governance. 
+
+I currently serve as Editor of [Nonlinear Dynamics](https://link.springer.com/journal/11071){:target="_blank"}, Associate Editor of the [Journal of Vibration and Acoustics (ASME)](https://asmedigitalcollection.asme.org/vibrationacoustics){:target="_blank"} and the [Journal of Vibration Engineering & Technologies (Springer Nature)](https://link.springer.com/journal/42417){:target="_blank"}, and previously served as an Affiliated Editor of [PLOS ONE](https://journals.plos.org/plosone/){:target="_blank"}. 
 
 I am also a Board Member of the [International Society of Nonlinear Dynamics (NoDyS)](https://nodys.org){:target="_blank"} based in Rome (Italy), where I serve as the only elected representative from the Southern Hemisphere, and Second Secretary of the [Brazilian Association for Computational Methods in Engineering (ABMEC)](){:target="_blank"}. 
 
