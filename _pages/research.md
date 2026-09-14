@@ -35,3 +35,16 @@ Much of my work involves building computational models, running simulations, and
 - 🦠 Epidemiology
 - 🏥 Biomedical Engineering
 
+
+## 📜 Academic Lineage
+
+My academic lineage traces back to some of the greatest mathematicians in history, including Euler, Lagrange, Gauss, and Hilbert. Check my academic genealogy:
+
+📌 [Simple Genealogy Tree](MathGenDSc_short.png){:target="_blank"} <br> 
+📌 [Detailed Genealogy Tree](MathGenDSc_long.pdf){:target="_blank"} <br> 
+📌 [Math Genealogy Page](https://www.mathgenealogy.org/id.php?id=190869){:target="_blank"}
+
+## 📊 Collaboration Distance Metrics:
+- **[Erdös number](http://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"}**: 4  
+- **[Einstein number](https://en.wikipedia.org/wiki/Albert_Einstein){:target="_blank"}**: 6  
+
