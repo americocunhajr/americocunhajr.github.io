@@ -7,10 +7,10 @@ author_profile: true
 
 ---
 
-<div class="research-logo">
-  <img src="/assets/imgages/RG-Logo.png"
-       alt="Group of Nonlinear Phenomena and Intelligent Systems">
-</div>
+<p align="center">
+  <img src="assets/images/RG-Logo.png" width="82%" alt="Group of Nonlinear Phenomena and Intelligent Systems">
+</p>
+
 
 My research work lies at the intersection of nonlinear dynamics, data-driven modeling, and artificial intelligence, combining analytical reasoning with large-scale computation. I address forward and inverse problems, developing models that not only reproduce observed phenomena but also reveal the mechanisms that govern system behavior.
 
