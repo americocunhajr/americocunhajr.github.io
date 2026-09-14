@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="assets/images/RG-Logo.png" width="82%" alt="Group of Nonlinear Phenomena and Intelligent Systems">
+  <img src="../assets/images/RG-Logo.png" width="30%" alt="Group of Nonlinear Phenomena and Intelligent Systems">
 </p>
 
 
