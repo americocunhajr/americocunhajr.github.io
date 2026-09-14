@@ -17,21 +17,9 @@ My interests extend beyond the production of scientific knowledge. I am particul
 My broader objective is to connect rigorous science with leadership and impact: building teams and collaborations, developing people and ideas, creating computational tools, and translating complex problems into knowledge that can support better decisions and real-world solutions.
 
 🏅 Honors and Recognition
-- 2023 ABMEC Award for Young Scientists
-- CNPq Research Fellow (PQ-2)
-- FAPERJ Young Scientist Fellow (JCNE)
-
-📜 Academic Lineage
-
-My academic lineage traces back to some of the greatest mathematicians in history, including Euler, Lagrange, Gauss, and Hilbert. Check my academic genealogy:
-
-📌 [Simple Genealogy Tree](MathGenDSc_short.png){:target="_blank"} <br> 
-📌 [Detailed Genealogy Tree](MathGenDSc_long.pdf){:target="_blank"} <br> 
-📌 [Math Genealogy Page](https://www.mathgenealogy.org/id.php?id=190869){:target="_blank"}
-
-📊 Collaboration Distance Metrics:
-- **[Erdös number](http://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"}**: 4  
-- **[Einstein number](https://en.wikipedia.org/wiki/Albert_Einstein){:target="_blank"}**: 6  
+- ABMEC Award for Young Scientists
+- CNPq Research Fellow
+- FAPERJ Young Scientist Fellow
 
 ## 📄 Curriculum Vitae
 For further information about myself or my work, please check my CVs here:
