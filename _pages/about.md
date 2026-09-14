@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Americo's Page"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,16 +17,6 @@ I work across a broad range of applications, including origami-inspired metamate
 Much of my work involves building computational models, running simulations, and extracting meaning from data to support better prediction, optimization, and resilience in engineered and societal systems. These projects are typically developed through international and interdisciplinary collaborations, connecting theory, computation, and real-world applications.
 
 ✨ Overall, my work is guided by a long-term vision: using mathematics and computation to turn complexity into understanding — and understanding into solutions for technological and societal problems.
-
-🧭 Scientific Leadership
-
-Beyond research, I am actively engaged in scientific leadership, editorial activities, and professional governance. I currently serve as Editor of [Nonlinear Dynamics](https://link.springer.com/journal/11071){:target="_blank"}, Associate Editor of the [Journal of Vibration and Acoustics (ASME)](https://asmedigitalcollection.asme.org/vibrationacoustics){:target="_blank"} and the [Journal of Vibration Engineering & Technologies (Springer Nature)](https://link.springer.com/journal/42417){:target="_blank"}, and previously served as an Affiliated Editor of [PLOS ONE](https://journals.plos.org/plosone/){:target="_blank"}. I am also a Board Member of the [International Society of Nonlinear Dynamics (NoDyS)](https://nodys.org){:target="_blank"}, where I serve as the only elected representative from the Southern Hemisphere, and Second Secretary of the [Brazilian Association for Computational Methods in Engineering (ABMEC)](){:target="_blank"}. Previously, I served on the Council of the [Brazilian Society of Mechanical Sciences and Engineering (ABCM)](https://www.abcm.org.br){:target="_blank"}, including a term as Executive Secretary of its Committee on Nonlinear and Chaotic Phenomena. I also served as Coordinator of the Dynamics, Control and Applications Committee of the [Brazilian Society of Computational and Applied Mathematics (SBMAC)](https://www.sbmac.org.br){:target="_blank"}.
-
-🌍 Global Collaborations
-
-We maintain a strong international research network, with active partnerships involving institutions in Brazil 🇧🇷, the United States 🇺🇸, France 🇫🇷, Italy 🇮🇹, Poland 🇵🇱, Portugal 🇵🇹, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, China 🇨🇳, Russia 🇷🇺, Peru 🇵🇪, and Saudi Arabia 🇸🇦.
-
-Explore my academic missions via this [map](https://www.google.com/maps/d/u/0/edit?mid=1FNzydcMk6KBmC95wmewKa-9ovvz8WjUx&usp=sharing){:target="_blank"} 🗺️. 
 
 🏅 Honors and Recognition
 - 2023 ABMEC Award for Young Scientists
@@ -44,30 +34,6 @@ My academic lineage traces back to some of the greatest mathematicians in histor
 📊 Collaboration Distance Metrics:
 - **[Erdös number](http://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"}**: 4  
 - **[Einstein number](https://en.wikipedia.org/wiki/Albert_Einstein){:target="_blank"}**: 6  
-
-
-## 🔬 Research Interests
-My research work is fundamentally interdisciplinary, spanning several fields:
-
-📢 **Mathematical & Computational Modeling**
-- 🌀 Nonlinear Dynamics
-- 🖥️ Computational Mechanics
-- 🎲 Uncertainty Quantification
-- 🔄 Inverse Problems
-- 🎯 Reduced-Order Modeling
-- ⚙️ Non-convex optimization
-- 📊 Machine Learning & Data Science
-
-💡 **Emerging Technologies**
-- 〰️ Metamaterials
-- 🔋 Energy Harvesting
-- 🦢 Origami Engineering
-- 🤖 Artificial Intelligence
-
-🌍 **Applications and Challenges**
-- 🔍 Structural Health Monitoring
-- 🦠 Epidemiology
-- 🏥 Biomedical Engineering
 
 ## 📄 Curriculum Vitae
 For further information about myself or my work, please check my CVs here:
