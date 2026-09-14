@@ -18,7 +18,7 @@ My interests extend beyond the production of scientific knowledge. I am particul
 
 My broader objective is to connect rigorous science with leadership and impact: building teams and collaborations, developing people and ideas, creating computational tools, and translating complex problems into knowledge that can support better decisions and real-world solutions.
 
-🏅 Honors and Recognition
+## 🏅 Honors and Recognition
 - ABMEC Award for Young Scientists
 - CNPq Research Fellow
 - FAPERJ Young Scientist Fellow
