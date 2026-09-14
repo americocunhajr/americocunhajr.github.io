@@ -14,7 +14,6 @@ Much of my work involves building computational models, running simulations, and
 ✨ Overall, my work is guided by a long-term vision: using mathematics and computation to turn complexity into understanding — and understanding into solutions for technological and societal problems.
 
 ## 🔬 Research Interests
-My research work is fundamentally interdisciplinary, spanning several fields:
 
 📢 **Mathematical & Computational Modeling**
 - 🌀 Nonlinear Dynamics
