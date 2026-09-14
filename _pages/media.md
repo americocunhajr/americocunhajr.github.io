@@ -7,6 +7,8 @@ entries_layout: list
 author_profile: true
 ---
 
+---
+
 A selection of interviews, media appearances, essays, research outreach, and public-facing discussions on science, technology, mathematics, and their broader implications.
 
 ## Interviews & Media
