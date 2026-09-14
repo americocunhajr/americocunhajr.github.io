@@ -1,22 +1,20 @@
 ---
 layout: single
 permalink: /
-title: "About me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a computational scientist with a background in applied mathematics and mechanical engineering, working on the analysis, design, and optimization of complex nonlinear systems. My research is driven by a core question: how can we understand, predict, and control systems whose behavior emerges from strong nonlinearity, uncertainty, and interaction across scales?
+I work at the intersection of applied mathematics, engineering, data science, and artificial intelligence. My work focuses on understanding, predicting, and designing complex systems, particularly when nonlinearity, uncertainty, and interacting mechanisms make conventional approaches insufficient.
 
-My work lies at the intersection of nonlinear dynamics, data-driven modeling, and artificial intelligence, combining analytical reasoning with large-scale computation. I address both forward and inverse problems, developing models that not only reproduce observed phenomena but also provide insight into the mechanisms that govern system behavior.
+Over the course of my career, I have combined research, institutional leadership, international collaboration, and professional service. I lead and participate in interdisciplinary initiatives, contribute to the governance of scientific organizations, serve in editorial roles for international journals, and collaborate with researchers and institutions across several countries.
 
-I work across a broad range of applications, including origami-inspired metamaterials, energy harvesting systems, smart and adaptive structures, and epidemiological dynamics. A recurring theme in my research is the integration of quantitative modeling and qualitative analysis to uncover nontrivial features such as multistability, bifurcations, robustness, and uncertainty—elements that directly inform engineering design, control strategies, and decision-making.
+My interests extend beyond the production of scientific knowledge. I am particularly interested in how mathematical thinking, computational modeling, data, and AI can support innovation, technology development, risk assessment, and strategic decision-making in both academic and industrial environments.
 
-Much of my work involves building computational models, running simulations, and extracting meaning from data to support better prediction, optimization, and resilience in engineered and societal systems. These projects are typically developed through international and interdisciplinary collaborations, connecting theory, computation, and real-world applications.
-
-✨ Overall, my work is guided by a long-term vision: using mathematics and computation to turn complexity into understanding — and understanding into solutions for technological and societal problems.
+My broader objective is to connect rigorous science with leadership and impact: building teams and collaborations, developing people and ideas, creating computational tools, and translating complex problems into knowledge that can support better decisions and real-world solutions.
 
 🏅 Honors and Recognition
 - 2023 ABMEC Award for Young Scientists
