@@ -73,7 +73,7 @@ analytics:
 # =====================================================
 # Site Settings
 # =====================================================
-breadcrumbs              : true
+breadcrumbs              : false
 words_per_minute         : 180
 future                   : true # Essential for your 2025 publications
 read_more                : "enabled"
