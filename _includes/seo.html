@@ -136,4 +136,29 @@
 {% if site.yandex_site_verification %}
   <meta name="yandex-verification" content="{{ site.yandex_site_verification }}">
 {% endif %}
+
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "url": "https://americocunha.org/",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "https://americocunha.org/#person",
+    "name": "Americo Cunha Jr",
+    "url": "https://americocunha.org/",
+    "image": "https://americocunha.org/images/americo.png",
+    "sameAs": [
+      "https://orcid.org/0000-0002-8342-0363",
+      "https://scholar.google.com/citations?user=4r36RpoAAAAJ&hl=en",
+      "http://lattes.cnpq.br/5659403706694491",
+      "https://www.researchgate.net/profile/Americo-Cunha-Jr-2",
+      "https://github.com/americocunhajr",
+      "https://www.linkedin.com/in/americocunhajr/"
+    ]
+  }
+}
+</script>
+{% endif %}
 <!-- end SEO -->
