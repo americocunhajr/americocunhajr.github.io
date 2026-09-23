@@ -129,5 +129,3 @@ author_profile: true
 
 🇫🇮 "The brave will eat the soup." <br />
 — Finnish proverb
-
----
