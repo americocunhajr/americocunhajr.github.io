@@ -127,4 +127,6 @@ author_profile: true
 🇦🇼 "When in doubt, restrain yourself." <br />
 — Aruban proverb
 
+🇫🇮 "The brave will eat the soup." <br />
+— Finnish proverb
 ---
