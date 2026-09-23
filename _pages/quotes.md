@@ -104,7 +104,7 @@ author_profile: true
 — Margaret Atwood (1939 - )
 
 🇵🇪 "Sólo un idiota puede ser totalmente feliz." <br />
-— Mario Vargas Llosa (1936 - )
+— Mario Vargas Llosa (1936 - 2025)
 
 🇸🇻 "Del dicho al hecho, hay un buen trecho." <br />
 — Proverbio salvadoreño
@@ -129,4 +129,5 @@ author_profile: true
 
 🇫🇮 "The brave will eat the soup." <br />
 — Finnish proverb
+
 ---
