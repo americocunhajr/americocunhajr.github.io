@@ -5,10 +5,10 @@ journal: "Journal of the Brazilian Society of Mechanical Sciences and Engineerin
 year: "2026"
 volume: ""
 number: ""
-doi: 
-pdf: 
+doi: "https://doi.org/10.1007/s40430-026-06873-x"
+pdf: "https://doi.org/10.1007/s40430-026-06873-x"
 arxiv: 
-hal: 
+hal: "https://hal.science/hal-05777702"
 image: "GraphicalAbstract_Paper_2026_BSME_AI.png"
 layout: none
 date: 2026-09-05
