@@ -26,7 +26,7 @@ My broader objective is to connect rigorous science with leadership and impact: 
 ## 📄 Curriculum Vitae
 For further information about myself or my work, please check my CVs here:
 
-📝 [CV in English](https://drive.google.com/file/d/1A3TrcRg8nBmv0eugDcGvSB_fQRhUjIyN/view?usp=sharing){:target="_blank"} <br> 
+📝 [CV in English](https://drive.google.com/file/d/1iJbq85CcZoDq4OFbepZKD0s_vgoZ4YaF/view?usp=sharing){:target="_blank"} <br> 
 📝 [CV in Portuguese (Lattes)](http://lattes.cnpq.br/5659403706694491){:target="_blank"}  
 
 
