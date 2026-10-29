@@ -7,7 +7,7 @@ volume: "48"
 number: "741"
 doi: "https://doi.org/10.1007/s40430-026-06873-x"
 pdf: "https://doi.org/10.1007/s40430-026-06873-x"
-arxiv: 
+arxiv: "http://arxiv.org/abs/2610.33105"
 hal: "https://hal.science/hal-05777702"
 image: "GraphicalAbstract_Paper_2026_BSME_AI.png"
 layout: none
