@@ -129,3 +129,6 @@ author_profile: true
 
 🇫🇮 "The brave will eat the soup." <br />
 — Finnish proverb
+
+🇨🇴 "El deber revolucionario de un escritor es escribir bien." <br />
+— Gabriel García Márquez (1927 - 2014)
