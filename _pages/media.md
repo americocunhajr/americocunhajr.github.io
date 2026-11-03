@@ -16,6 +16,13 @@ A selection of interviews, media appearances, essays, research outreach, and pub
 <ul class="social-icons">
 
   <li>
+    <a href="https://youtu.be/H76Dth1O8NY?si=Zn9yipmZo0I81KjF" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-youtube" aria-hidden="true"></i>
+      Advances in Computational Science — <em>The Quantum Record</em>
+    </a>
+  </li>
+  
+  <li>
     <a href="https://spectrum.ieee.org/brazil-quantum" target="_blank" rel="noopener noreferrer">
       <i class="fas fa-microphone" aria-hidden="true"></i>
       Brazil Seeks Its Quantum State — <em>IEEE Spectrum</em>
@@ -77,6 +84,30 @@ A selection of interviews, media appearances, essays, research outreach, and pub
 ---
 
 ## Essays & Commentary
+
+### SIAM News
+
+<ul class="social-icons">
+
+  <li>
+    <a href="https://www.siam.org/publications/siam-news/articles/computational-science-and-engineering-needs-federated-ai-infrastructure/" target="_blank" rel="noopener noreferrer">
+      <i class="fas fa-newspaper" aria-hidden="true"></i>
+      Computational Science and Engineering Needs Federated AI Infrastructure
+    </a>
+  </li>
+</ul>
+
+### A Lanterna
+
+<ul class="social-icons">
+
+  <li>
+    <a href="https://www.flipbookpdf.net/web/site/fb7ead18ba51c2ee519e576308566deb24ae4f71FBP33954066.pdf.html" target="_blank" rel="noopener noreferrer">
+      <i class="fas fa-newspaper" aria-hidden="true"></i>
+      O que podemos esperar para o Brasil na segunda revolução quântica?
+    </a>
+  </li>
+</ul>
 
 ### Revista Questão de Ciência
 
@@ -288,7 +319,7 @@ During the COVID-19 pandemic, I contributed to mathematical and computational mo
 
 </ul>
 
-### Outreach Videos
+### Public Utility Videos
 
 <ul class="social-icons">
 
