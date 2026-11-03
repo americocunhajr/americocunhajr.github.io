@@ -102,7 +102,7 @@ A selection of interviews, media appearances, essays, research outreach, and pub
 <ul class="social-icons">
 
   <li>
-    <a href="https://www.flipbookpdf.net/web/site/fb7ead18ba51c2ee519e576308566deb24ae4f71FBP33954066.pdf.html" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.flipbookpdf.net/web/site/fb7ead18ba51c2ee519e576308566deb24ae4f71FBP33954066.pdf.html#page/8" target="_blank" rel="noopener noreferrer">
       <i class="fas fa-newspaper" aria-hidden="true"></i>
       O que podemos esperar para o Brasil na segunda revolução quântica?
     </a>
