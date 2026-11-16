@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-I work in computational science and engineering, at the intersection of applied mathematics, data science, and artificial intelligence. My work focuses on understanding, predicting, and designing complex systems, particularly when nonlinearity, uncertainty, and interacting mechanisms make conventional approaches insufficient. Applications include mechanical metamaterials, energy harvesting, smart structures, and mathematical epidemiology.
+I work in computational science and engineering, at the intersection of applied mathematics, engineering applications, data science, and artificial intelligence. My work focuses on understanding, predicting, and designing complex systems, particularly when nonlinearity, uncertainty, and interacting mechanisms make conventional approaches insufficient. Applications include mechanical metamaterials, energy harvesting, smart structures, and mathematical epidemiology.
 
 I hold a research faculty position at the [National Laboratory for Scientific Computing (LNCC)](https://www.gov.br/lncc/pt-br){:target="_blank"} and am Professor of Applied and Computational Mathematics at [Rio de Janeiro State University (UERJ)](https://www.uerj.br){:target="_blank"}, Brazil. In both roles, I lead research, teach, and supervise undergraduate and graduate students.
 
