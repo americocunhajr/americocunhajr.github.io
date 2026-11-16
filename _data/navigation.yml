@@ -9,8 +9,6 @@ main:
     url: "/about/"
   - title: "Research"
     url: "/research/"
-  - title: "Leadership"
-    url: "/leadership/"
   - title: "Publications"
     url: "/publications/"
   - title: "Software"
