@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "🔬 Research"
+description: "Research by Americo Cunha Jr in nonlinear dynamics, uncertainty quantification, reduced-order modeling, scientific machine learning, energy harvesting and metamaterials."
 permalink: /research/
 author_profile: true
 ---
