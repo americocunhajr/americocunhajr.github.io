@@ -1,0 +1,5 @@
+# Public academic website: permit discovery by web and AI search crawlers.
+User-agent: *
+Allow: /
+
+Sitemap: https://americocunha.org/sitemap.xml
