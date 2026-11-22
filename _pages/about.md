@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "About me"
+description: "Americo Cunha Jr is a research scientist at LNCC and professor at UERJ specializing in nonlinear dynamics, uncertainty quantification, computational mechanics and scientific machine learning."
 permalink: /
 author_profile: true
 redirect_from: 
