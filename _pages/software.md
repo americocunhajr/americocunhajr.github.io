@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "🖥️ Software"
+description: "Open-source scientific software by Americo Cunha Jr for nonlinear dynamics, energy harvesting, uncertainty quantification, epidemiological modeling and computational mathematics."
 permalink: /software/
 collection: software
 entries_layout: list
