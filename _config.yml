@@ -2,10 +2,10 @@
 # Basic Site Settings
 # =====================================================
 locale                   : "en-US"
-title                    : "americocunhajr"
+title                    : "Americo Cunha Jr"
 title_separator          : "-"
 name                     : &name "Americo Cunha Jr"
-description              : &description "Researcher in Nonlinear Systems and Professor of Applied Mathematics"
+description              : &description "Applied and computational mathematician at LNCC and UERJ. Research in nonlinear dynamics, uncertainty quantification, scientific machine learning, computational mechanics, and inverse problems."
 url                      : "https://americocunha.org"
 baseurl                  : "" # Keep blank if deploying on GitHub Pages at username.github.io
 repository               : "americocunhajr/americocunhajr.github.io" # Your GitHub repository
@@ -22,7 +22,7 @@ author:
 
   # Academic Profiles
   googlescholar    : "https://scholar.google.com/citations?user=4r36RpoAAAAJ&hl=en"
-  orcid            : #"https://orcid.org/0000-0002-8342-0363"
+  orcid            : "https://orcid.org/0000-0002-8342-0363"
   researchgate     : "https://www.researchgate.net/profile/Americo-Cunha-Jr-2"
   scopus           : #"https://www.scopus.com/authid/detail.uri?authorId=56068096100"
   semantic         : #"https://www.semanticscholar.org/author/Americo-Cunha/47058383"
@@ -62,7 +62,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-og_image                 : "images/americo.png"
+og_image                 : "americo.png"
 
 # Google Analytics (Optional)
 analytics:
