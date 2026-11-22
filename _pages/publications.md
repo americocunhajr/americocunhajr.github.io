@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "📄 Publications"
+description: "Journal articles, books, conference papers and preprints by Americo Cunha Jr on applied mathematics, computational mechanics, uncertainty quantification and nonlinear dynamics."
 permalink: /publications/
 collection: publications
 entries_layout: list
