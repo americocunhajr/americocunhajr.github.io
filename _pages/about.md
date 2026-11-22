@@ -18,6 +18,8 @@ My interests extend beyond producing scientific knowledge. I am particularly int
 
 My broader objective is to connect rigorous science with leadership and impact: building teams and collaborations, developing people and ideas, creating [computational tools](/software/), and translating complex problems into knowledge that supports better decisions and real-world solutions.
 
+One example of public mathematical outreach is [BirthdayFractal](https://americocunhajr.github.io/BirthdayFractal/), an interactive exploration of Newton fractals generated from calendar dates, with accessible explanations and reproducible research code.
+
 ## 🧭 Leadership
 
 Beyond research, I am engaged in scientific leadership, editorial work, and the governance of professional societies.
